@@ -25,6 +25,30 @@
       "version": "2026-04-09"
     },
     {
+      "clave": "cjm",
+      "etiqueta": "Código de Justicia Militar",
+      "sigla": "CJM",
+      "tipo": "ley",
+      "num_articulos": 952,
+      "version": "2025-07-16"
+    },
+    {
+      "clave": "cmpp",
+      "etiqueta": "Código Militar de Procedimientos Penales",
+      "sigla": "CMPP",
+      "tipo": "ley",
+      "num_articulos": 452,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "cnpcf",
+      "etiqueta": "Código Nacional de Procedimientos Civiles y Familiares",
+      "sigla": "CNPCF",
+      "tipo": "ley",
+      "num_articulos": 1191,
+      "version": "2026-01-15"
+    },
+    {
       "clave": "cnpp",
       "etiqueta": "Código Nacional de Procedimientos Penales",
       "sigla": "CNPP",
@@ -41,12 +65,276 @@
       "version": "2026-03-13"
     },
     {
+      "clave": "egdf",
+      "etiqueta": "Estatuto de Gobierno del Distrito Federal",
+      "sigla": "EGDF",
+      "tipo": "ley",
+      "num_articulos": 145,
+      "version": "2014-06-27"
+    },
+    {
+      "clave": "laam",
+      "etiqueta": "Ley de Ascensos de la Armada de México",
+      "sigla": "LAAM",
+      "tipo": "ley",
+      "num_articulos": 57,
+      "version": "2025-12-17"
+    },
+    {
+      "clave": "laassp",
+      "etiqueta": "Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "sigla": "LAASSP",
+      "tipo": "ley",
+      "num_articulos": 120,
+      "version": "2025-04-16"
+    },
+    {
+      "clave": "laat",
+      "etiqueta": "Ley de Ayuda Alimentaria para los Trabajadores",
+      "sigla": "LAAT",
+      "tipo": "ley",
+      "num_articulos": 22,
+      "version": "2011-01-17"
+    },
+    {
+      "clave": "lac",
+      "etiqueta": "Ley de Aviación Civil",
+      "sigla": "LAC",
+      "tipo": "ley",
+      "num_articulos": 145,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "ladua",
+      "etiqueta": "Ley Aduanera",
+      "sigla": "L. Aduanera",
+      "tipo": "ley",
+      "num_articulos": 277,
+      "version": "2025-11-19"
+    },
+    {
+      "clave": "laero",
+      "etiqueta": "Ley de Aeropuertos",
+      "sigla": "LAero",
+      "tipo": "ley",
+      "num_articulos": 101,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lagra",
+      "etiqueta": "Ley Agraria",
+      "sigla": "LAgra",
+      "tipo": "ley",
+      "num_articulos": 201,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lamn",
+      "etiqueta": "Ley de Amnistía",
+      "sigla": "LAmn",
+      "tipo": "ley",
+      "num_articulos": 9,
+      "version": "2024-06-14"
+    },
+    {
+      "clave": "lamni",
+      "etiqueta": "Ley de Amnistía",
+      "sigla": "LAMNI",
+      "tipo": "ley",
+      "num_articulos": 4,
+      "version": "1994-01-22"
+    },
+    {
       "clave": "lamp",
       "etiqueta": "Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos",
       "sigla": "LAmp",
       "tipo": "ley",
       "num_articulos": 272,
       "version": "2025-10-16"
+    },
+    {
+      "clave": "lapp",
+      "etiqueta": "Ley de Asociaciones Público Privadas",
+      "sigla": "LAPP",
+      "tipo": "ley",
+      "num_articulos": 143,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "larcp",
+      "etiqueta": "Ley de Asociaciones Religiosas y Culto Público",
+      "sigla": "LARCP",
+      "tipo": "ley",
+      "num_articulos": 37,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "larefam",
+      "etiqueta": "Ley de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "sigla": "LAREFAGN",
+      "tipo": "ley",
+      "num_articulos": 78,
+      "version": "2025-07-16"
+    },
+    {
+      "clave": "lasoc",
+      "etiqueta": "Ley de Asistencia Social",
+      "sigla": "LASoc",
+      "tipo": "ley",
+      "num_articulos": 68,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lbio",
+      "etiqueta": "Ley de Biocombustibles",
+      "sigla": "LBio",
+      "tipo": "ley",
+      "num_articulos": 46,
+      "version": "2025-03-18"
+    },
+    {
+      "clave": "lbogm",
+      "etiqueta": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
+      "sigla": "LBOGM",
+      "tipo": "ley",
+      "num_articulos": 124,
+      "version": "2022-05-11"
+    },
+    {
+      "clave": "lce",
+      "etiqueta": "Ley de Comercio Exterior",
+      "sigla": "LCE",
+      "tipo": "ley",
+      "num_articulos": 98,
+      "version": "2026-05-01"
+    },
+    {
+      "clave": "lcec",
+      "etiqueta": "Ley de Cámaras Empresariales y sus Confederaciones",
+      "sigla": "LCEC",
+      "tipo": "ley",
+      "num_articulos": 45,
+      "version": "2019-04-12"
+    },
+    {
+      "clave": "lcf",
+      "etiqueta": "Ley de Coordinación Fiscal",
+      "sigla": "LCF",
+      "tipo": "ley",
+      "num_articulos": 67,
+      "version": "2024-01-03"
+    },
+    {
+      "clave": "lcid",
+      "etiqueta": "Ley de Cooperación Internacional para el Desarrollo",
+      "sigla": "LCID",
+      "tipo": "ley",
+      "num_articulos": 42,
+      "version": "2020-11-06"
+    },
+    {
+      "clave": "lcjpjf",
+      "etiqueta": "Ley de Carrera Judicial del Poder Judicial de la Federación",
+      "sigla": "LCJPJF",
+      "tipo": "ley",
+      "num_articulos": 74,
+      "version": "2025-01-02"
+    },
+    {
+      "clave": "lcm",
+      "etiqueta": "Ley de Concursos Mercantiles",
+      "sigla": "LCM",
+      "tipo": "ley",
+      "num_articulos": 353,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lcmopfih",
+      "etiqueta": "Ley de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica",
+      "sigla": "LCMOPFIH",
+      "tipo": "ley",
+      "num_articulos": 15,
+      "version": "1990-12-26"
+    },
+    {
+      "clave": "lcpaf",
+      "etiqueta": "Ley de Caminos, Puentes y Autotransporte Federal",
+      "sigla": "LCPAF",
+      "tipo": "ley",
+      "num_articulos": 93,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lcpro",
+      "etiqueta": "Ley de Capitalización del Procampo",
+      "sigla": "LCPRO",
+      "tipo": "ley",
+      "num_articulos": 22,
+      "version": "2001-12-31"
+    },
+    {
+      "clave": "ldefam",
+      "etiqueta": "Ley de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional",
+      "sigla": "LDEFAGN",
+      "tipo": "ley",
+      "num_articulos": 57,
+      "version": "2025-07-16"
+    },
+    {
+      "clave": "ldfefm",
+      "etiqueta": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "sigla": "LDFEFM",
+      "tipo": "ley",
+      "num_articulos": 65,
+      "version": "2022-05-10"
+    },
+    {
+      "clave": "ldparm",
+      "etiqueta": "Ley de Disciplina para el Personal de la Armada de México",
+      "sigla": "LDPARM",
+      "tipo": "ley",
+      "num_articulos": 80,
+      "version": "2002-12-13"
+    },
+    {
+      "clave": "ldrs",
+      "etiqueta": "Ley de Desarrollo Rural Sustentable",
+      "sigla": "LDRS",
+      "tipo": "ley",
+      "num_articulos": 193,
+      "version": "2024-06-07"
+    },
+    {
+      "clave": "ldsc",
+      "etiqueta": "Ley de Desarrollo Sustentable de la Cafeticultura",
+      "sigla": "LDSC",
+      "tipo": "ley",
+      "num_articulos": 85,
+      "version": "2025-12-19"
+    },
+    {
+      "clave": "ldsca",
+      "etiqueta": "Ley de Desarrollo Sustentable de la Caña de Azúcar",
+      "sigla": "LDSCA",
+      "tipo": "ley",
+      "num_articulos": 150,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "ledpde",
+      "etiqueta": "Ley de Economía Digital para Pagos Digitales y Electrónicos",
+      "sigla": "LEDPDE",
+      "tipo": "ley",
+      "num_articulos": 22,
+      "version": "2026-11-04"
+    },
+    {
+      "clave": "lemefam",
+      "etiqueta": "Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional",
+      "sigla": "LEMEFAGN",
+      "tipo": "ley",
+      "num_articulos": 52,
+      "version": "2025-07-16"
     },
     {
       "clave": "lft",
@@ -79,6 +367,14 @@
       "tipo": "ley",
       "num_articulos": 463,
       "version": "2025-11-14"
+    },
+    {
+      "clave": "risat",
+      "etiqueta": "Reglamento Interior del Servicio de Administración Tributaria",
+      "sigla": "RISAT",
+      "tipo": "reglamento",
+      "num_articulos": 56,
+      "version": "2021-12-21"
     }
   ]
 }

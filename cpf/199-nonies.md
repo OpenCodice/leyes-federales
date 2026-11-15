@@ -1,0 +1,5 @@
+# Artículo 199 Nonies
+
+Se impondrán las mismas sanciones previstas en el artículo anterior cuando las imágenes, videos o audios de contenido íntimo sexual que se divulguen, compartan, distribuyan o publiquen no correspondan con la persona que es señalada o identificada en los mismos.
+
+_Artículo adicionado DOF 01-06-2021_

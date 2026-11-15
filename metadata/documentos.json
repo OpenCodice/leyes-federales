@@ -961,6 +961,14 @@
       "version": "2026-01-15"
     },
     {
+      "clave": "lgappcea",
+      "etiqueta": "Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista",
+      "sigla": "LGAPPCEA",
+      "tipo": "ley",
+      "num_articulos": 18,
+      "version": "2015-04-30"
+    },
+    {
       "clave": "lgb",
       "etiqueta": "Ley General de Bibliotecas",
       "sigla": "LGB",
@@ -1049,6 +1057,14 @@
       "version": "2026-01-15"
     },
     {
+      "clave": "lgdocia",
+      "etiqueta": "Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia",
+      "sigla": "LGDOCIA",
+      "tipo": "ley",
+      "num_articulos": 32,
+      "version": "2021-01-07"
+    },
+    {
       "clave": "lgdp",
       "etiqueta": "Ley Federal de Deuda Pública",
       "sigla": "LGDP",
@@ -1111,6 +1127,22 @@
       "tipo": "ley",
       "num_articulos": 45,
       "version": "2026-10-23"
+    },
+    {
+      "clave": "lgimh",
+      "etiqueta": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
+      "sigla": "LGISMH",
+      "tipo": "ley",
+      "num_articulos": 52,
+      "version": "2026-01-15"
+    },
+    {
+      "clave": "lgipd",
+      "etiqueta": "Ley General para la Inclusión de las Personas con Discapacidad",
+      "sigla": "LGIPD",
+      "tipo": "ley",
+      "num_articulos": 60,
+      "version": "2024-06-14"
     },
     {
       "clave": "lgmasc",
@@ -1209,6 +1241,30 @@
       "version": "2025-11-14"
     },
     {
+      "clave": "lgpgir",
+      "etiqueta": "Ley General para la Prevención y Gestión Integral de los Residuos",
+      "sigla": "LGPGIR",
+      "tipo": "ley",
+      "num_articulos": 126,
+      "version": "2026-01-19"
+    },
+    {
+      "clave": "lgpisdme",
+      "etiqueta": "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+      "sigla": "LGPISDME",
+      "tipo": "ley",
+      "num_articulos": 43,
+      "version": "2025-11-28"
+    },
+    {
+      "clave": "lgpist",
+      "etiqueta": "Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
+      "sigla": "LGPIST",
+      "tipo": "ley",
+      "num_articulos": 96,
+      "version": "2022-04-28"
+    },
+    {
       "clave": "lgpp",
       "etiqueta": "Ley General de Partidos Políticos",
       "sigla": "LGPP",
@@ -1223,6 +1279,30 @@
       "tipo": "ley",
       "num_articulos": 76,
       "version": "2024-04-01"
+    },
+    {
+      "clave": "lgpsdms",
+      "etiqueta": "Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+      "sigla": "LGPSDMS",
+      "tipo": "ley",
+      "num_articulos": 48,
+      "version": "2021-05-20"
+    },
+    {
+      "clave": "lgpsedmtp",
+      "etiqueta": "Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos",
+      "sigla": "LGPSEDMTP",
+      "tipo": "ley",
+      "num_articulos": 126,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lgpsvd",
+      "etiqueta": "Ley General para la Prevención Social de la Violencia y la Delincuencia",
+      "sigla": "LGPSVD",
+      "tipo": "ley",
+      "num_articulos": 30,
+      "version": "2021-05-04"
     },
     {
       "clave": "lgra",
@@ -1481,6 +1561,14 @@
       "version": "2021-11-12"
     },
     {
+      "clave": "lmeum",
+      "etiqueta": "Ley Monetaria de los Estados Unidos Mexicanos",
+      "sigla": "LMEUM",
+      "tipo": "ley",
+      "num_articulos": 24,
+      "version": "2026-01-19"
+    },
+    {
       "clave": "lmigra",
       "etiqueta": "Ley de Migración",
       "sigla": "LMigra",
@@ -1529,6 +1617,118 @@
       "version": "2025-11-14"
     },
     {
+      "clave": "lned",
+      "etiqueta": "Ley Nacional de Extinción de Dominio",
+      "sigla": "LNED",
+      "tipo": "ley",
+      "num_articulos": 251,
+      "version": "2025-11-28"
+    },
+    {
+      "clave": "lnep",
+      "etiqueta": "Ley Nacional de Ejecución Penal",
+      "sigla": "LNEP",
+      "tipo": "ley",
+      "num_articulos": 207,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lnetb",
+      "etiqueta": "Ley Nacional para Eliminar Trámites Burocráticos",
+      "sigla": "LNETB",
+      "tipo": "ley",
+      "num_articulos": 114,
+      "version": "2025-07-16"
+    },
+    {
+      "clave": "lnmascmp",
+      "etiqueta": "Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal",
+      "sigla": "LNMASCMP",
+      "tipo": "ley",
+      "num_articulos": 52,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lnrd",
+      "etiqueta": "Ley Nacional del Registro de Detenciones",
+      "sigla": "LNRD",
+      "tipo": "ley",
+      "num_articulos": 36,
+      "version": "2019-05-27"
+    },
+    {
+      "clave": "lnsijpa",
+      "etiqueta": "Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "sigla": "LNSIJPA",
+      "tipo": "ley",
+      "num_articulos": 266,
+      "version": "2022-12-20"
+    },
+    {
+      "clave": "lnuf",
+      "etiqueta": "Ley Nacional sobre el Uso de la Fuerza",
+      "sigla": "LNUF",
+      "tipo": "ley",
+      "num_articulos": 44,
+      "version": "2024-01-24"
+    },
+    {
+      "clave": "loam",
+      "etiqueta": "Ley Orgánica de la Armada de México",
+      "sigla": "LOAM",
+      "tipo": "ley",
+      "num_articulos": 101,
+      "version": "2025-11-07"
+    },
+    {
+      "clave": "loapf",
+      "etiqueta": "Ley Orgánica de la Administración Pública Federal",
+      "sigla": "LOAPF",
+      "tipo": "ley",
+      "num_articulos": 72,
+      "version": "2026-05-07"
+    },
+    {
+      "clave": "lobb",
+      "etiqueta": "Ley Orgánica del Banco del Bienestar",
+      "sigla": "LOBB",
+      "tipo": "ley",
+      "num_articulos": 41,
+      "version": "2019-07-19"
+    },
+    {
+      "clave": "lobnce",
+      "etiqueta": "Ley Orgánica del Banco Nacional de Comercio Exterior",
+      "sigla": "LOBNCE",
+      "tipo": "ley",
+      "num_articulos": 37,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lobnefaa",
+      "etiqueta": "Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada",
+      "sigla": "LOBNEFAA",
+      "tipo": "ley",
+      "num_articulos": 59,
+      "version": "2014-01-10"
+    },
+    {
+      "clave": "lobnosp",
+      "etiqueta": "Ley Orgánica del Banco Nacional de Obras y Servicios Públicos",
+      "sigla": "LOBNOSP",
+      "tipo": "ley",
+      "num_articulos": 36,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "locfcrl",
+      "etiqueta": "Ley Orgánica del Centro Federal de Conciliación y Registro Laboral",
+      "sigla": "LOCFCRL",
+      "tipo": "ley",
+      "num_articulos": 25,
+      "version": "2020-01-06"
+    },
+    {
       "clave": "log",
       "etiqueta": "Ley de Organizaciones Ganaderas",
       "sigla": "LOG",
@@ -1537,12 +1737,108 @@
       "version": "2012-04-09"
     },
     {
+      "clave": "loinah",
+      "etiqueta": "Ley Orgánica del Instituto Nacional de Antropología e Historia",
+      "sigla": "LOINAH",
+      "tipo": "ley",
+      "num_articulos": 20,
+      "version": "2015-12-17"
+    },
+    {
+      "clave": "loipn",
+      "etiqueta": "Ley Orgánica del Instituto Politécnico Nacional",
+      "sigla": "LOIPN",
+      "tipo": "ley",
+      "num_articulos": 34,
+      "version": "1981-12-29"
+    },
+    {
+      "clave": "lonf",
+      "etiqueta": "Ley Orgánica de Nacional Financiera",
+      "sigla": "LONF",
+      "tipo": "ley",
+      "num_articulos": 38,
+      "version": "2014-01-10"
+    },
+    {
+      "clave": "lopdc",
+      "etiqueta": "Ley Orgánica de la Procuraduría de la Defensa del Contribuyente",
+      "sigla": "LOPDC",
+      "tipo": "ley",
+      "num_articulos": 28,
+      "version": "2022-05-11"
+    },
+    {
+      "clave": "lopgjdf",
+      "etiqueta": "Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal",
+      "sigla": "LOPGJDF",
+      "tipo": "ley",
+      "num_articulos": 84,
+      "version": "2011-06-20"
+    },
+    {
+      "clave": "lopjf",
+      "etiqueta": "Ley Orgánica del Poder Judicial de la Federación",
+      "sigla": "LOPJF",
+      "tipo": "ley",
+      "num_articulos": 307,
+      "version": "2025-11-28"
+    },
+    {
       "clave": "lopsrm",
       "etiqueta": "Ley de Obras Públicas y Servicios Relacionados con las Mismas",
       "sigla": "LOPSRM",
       "tipo": "ley",
       "num_articulos": 133,
       "version": "2025-11-14"
+    },
+    {
+      "clave": "loscm",
+      "etiqueta": "Ley Orgánica del Seminario de Cultura Mexicana",
+      "sigla": "LOSCM",
+      "tipo": "ley",
+      "num_articulos": 16,
+      "version": "2022-05-11"
+    },
+    {
+      "clave": "loshf",
+      "etiqueta": "Ley Orgánica de Sociedad Hipotecaria Federal",
+      "sigla": "LOSHF",
+      "tipo": "ley",
+      "num_articulos": 38,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lota",
+      "etiqueta": "Ley Orgánica de los Tribunales Agrarios",
+      "sigla": "LOTA",
+      "tipo": "ley",
+      "num_articulos": 30,
+      "version": "1998-01-23"
+    },
+    {
+      "clave": "louaaan",
+      "etiqueta": "Ley Orgánica de la Universidad Autónoma Agraria Antonio Narro",
+      "sigla": "LOUAAAN",
+      "tipo": "ley",
+      "num_articulos": 26,
+      "version": "2006-04-26"
+    },
+    {
+      "clave": "louam",
+      "etiqueta": "Ley Orgánica de la Universidad Autónoma Metropolitana",
+      "sigla": "LOUAM",
+      "tipo": "ley",
+      "num_articulos": 37,
+      "version": "1973-12-17"
+    },
+    {
+      "clave": "lounam",
+      "etiqueta": "Ley Orgánica de la Universidad Nacional Autónoma de México",
+      "sigla": "LOUNAM",
+      "tipo": "ley",
+      "num_articulos": 18,
+      "version": "1945-01-06"
     },
     {
       "clave": "lpab",

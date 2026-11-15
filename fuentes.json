@@ -2784,6 +2784,29 @@
       }
     },
     {
+      "clave": "lgappcea",
+      "etiqueta": "Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista",
+      "sigla": "LGAPPCEA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf",
+      "estado": "incluida",
+      "version": "2015-04-30",
+      "unidades": 18,
+      "pdf": {
+        "sha256": "8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37",
+        "bytes": 445807,
+        "etag": "\"6cd6f-576bb265acc80\"",
+        "last_modified": "Wed, 26 Sep 2018 00:17:38 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lgb",
       "etiqueta": "Ley General de Bibliotecas",
       "sigla": "LGB",
@@ -3038,6 +3061,29 @@
       }
     },
     {
+      "clave": "lgdocia",
+      "etiqueta": "Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia",
+      "sigla": "LGDOCIA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf",
+      "estado": "incluida",
+      "version": "2021-01-07",
+      "unidades": 32,
+      "pdf": {
+        "sha256": "8403427f940274c9affce29b07d7522d3eb88e794dfdc0f703326b4907a14480",
+        "bytes": 326597,
+        "etag": "\"4fbc5-5b85a6f929c80\"",
+        "last_modified": "Fri, 08 Jan 2021 02:37:22 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lgdp",
       "etiqueta": "Ley Federal de Deuda Pública",
       "sigla": "LGDP",
@@ -3213,6 +3259,52 @@
         "bytes": 244937,
         "etag": "\"3bcc9-6603060faa680\"",
         "last_modified": "Fri, 13 Nov 2026 22:59:22 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgimh",
+      "etiqueta": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
+      "sigla": "LGISMH",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf",
+      "estado": "incluida",
+      "version": "2026-01-15",
+      "unidades": 52,
+      "pdf": {
+        "sha256": "51f28ed8bbe83b9f62cf9a88705a4c40b1b9a18d2036e2381ee97933881f3a44",
+        "bytes": 614121,
+        "etag": "\"95ee9-64917c95302c0\"",
+        "last_modified": "Sat, 24 Jan 2026 00:59:31 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgipd",
+      "etiqueta": "Ley General para la Inclusión de las Personas con Discapacidad",
+      "sigla": "LGIPD",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf",
+      "estado": "incluida",
+      "version": "2024-06-14",
+      "unidades": 60,
+      "pdf": {
+        "sha256": "952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f",
+        "bytes": 522121,
+        "etag": "\"7f789-61ced21abd480\"",
+        "last_modified": "Wed, 10 Jul 2024 23:37:38 GMT"
       },
       "extractor": "817e43250c609f69",
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
@@ -3498,6 +3590,75 @@
       }
     },
     {
+      "clave": "lgpgir",
+      "etiqueta": "Ley General para la Prevención y Gestión Integral de los Residuos",
+      "sigla": "LGPGIR",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPGIR.pdf",
+      "estado": "incluida",
+      "version": "2026-01-19",
+      "unidades": 126,
+      "pdf": {
+        "sha256": "b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565",
+        "bytes": 669174,
+        "etag": "\"a35f6-64b35c6beb200\"",
+        "last_modified": "Thu, 19 Feb 2026 23:36:40 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgpisdme",
+      "etiqueta": "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+      "sigla": "LGPISDME",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPISDME.pdf",
+      "estado": "incluida",
+      "version": "2025-11-28",
+      "unidades": 43,
+      "pdf": {
+        "sha256": "5d22df1b22454fe1fe5354c0d9d4cec71d1d7ded3549072c340c36cb3ea3a624",
+        "bytes": 401446,
+        "etag": "\"62026-644e78e4fea00\"",
+        "last_modified": "Mon, 01 Dec 2025 17:46:16 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgpist",
+      "etiqueta": "Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
+      "sigla": "LGPIST",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf",
+      "estado": "incluida",
+      "version": "2022-04-28",
+      "unidades": 96,
+      "pdf": {
+        "sha256": "1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41",
+        "bytes": 546178,
+        "etag": "\"85582-5de1122c995c0\"",
+        "last_modified": "Tue, 03 May 2022 01:07:43 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lgpp",
       "etiqueta": "Ley General de Partidos Políticos",
       "sigla": "LGPP",
@@ -3535,6 +3696,75 @@
         "bytes": 486457,
         "etag": "\"76c39-6182109f06200\"",
         "last_modified": "Fri, 10 May 2024 22:27:20 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgpsdms",
+      "etiqueta": "Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+      "sigla": "LGPSDMS",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_200521.pdf",
+      "estado": "incluida",
+      "version": "2021-05-20",
+      "unidades": 48,
+      "pdf": {
+        "sha256": "7ce179f23e6c8813df32848eda4596fc43da954c1bb4d68e412155eda544343c",
+        "bytes": 420514,
+        "etag": "\"66aa2-5c3a96781c340\"",
+        "last_modified": "Tue, 01 Jun 2021 00:27:17 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgpsedmtp",
+      "etiqueta": "Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos",
+      "sigla": "LGPSEDMTP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 126,
+      "pdf": {
+        "sha256": "390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32",
+        "bytes": 668029,
+        "etag": "\"a317d-6451e46d58e00\"",
+        "last_modified": "Thu, 04 Dec 2025 11:03:20 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgpsvd",
+      "etiqueta": "Ley General para la Prevención Social de la Violencia y la Delincuencia",
+      "sigla": "LGPSVD",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf",
+      "estado": "incluida",
+      "version": "2021-05-04",
+      "unidades": 30,
+      "pdf": {
+        "sha256": "2d9d70a5bf906056c4a570d1ec3edf669b1ca2aa9b5a6b335b42b895447740ab",
+        "bytes": 368988,
+        "etag": "\"5a15c-5c186e4ebf280\"",
+        "last_modified": "Tue, 04 May 2021 20:26:34 GMT"
       },
       "extractor": "817e43250c609f69",
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
@@ -4308,6 +4538,29 @@
       }
     },
     {
+      "clave": "lmeum",
+      "etiqueta": "Ley Monetaria de los Estados Unidos Mexicanos",
+      "sigla": "LMEUM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMEUM.pdf",
+      "estado": "incluida",
+      "version": "2026-01-19",
+      "unidades": 24,
+      "pdf": {
+        "sha256": "0ba3f805964135cf2eac4cd05888a7c63c4c116657f25039d3d93af9102264be",
+        "bytes": 648894,
+        "etag": "\"9e6be-64b46eb9d1c40\"",
+        "last_modified": "Fri, 20 Feb 2026 20:03:53 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lmigra",
       "etiqueta": "Ley de Migración",
       "sigla": "LMigra",
@@ -4446,6 +4699,328 @@
       }
     },
     {
+      "clave": "lned",
+      "etiqueta": "Ley Nacional de Extinción de Dominio",
+      "sigla": "LNED",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNED.pdf",
+      "estado": "incluida",
+      "version": "2025-11-28",
+      "unidades": 251,
+      "pdf": {
+        "sha256": "e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68",
+        "bytes": 1056771,
+        "etag": "\"102003-644ef281b1540\"",
+        "last_modified": "Tue, 02 Dec 2025 02:50:21 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lnep",
+      "etiqueta": "Ley Nacional de Ejecución Penal",
+      "sigla": "LNEP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 207,
+      "pdf": {
+        "sha256": "91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680",
+        "bytes": 934359,
+        "etag": "\"e41d7-62f9e12dbd900\"",
+        "last_modified": "Wed, 05 Mar 2025 20:17:08 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lnetb",
+      "etiqueta": "Ley Nacional para Eliminar Trámites Burocráticos",
+      "sigla": "LNETB",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf",
+      "estado": "incluida",
+      "version": "2025-07-16",
+      "unidades": 114,
+      "pdf": {
+        "sha256": "193ffb402e2decb38aac42ad136c90b9a944a097b4f9b94b6e161ca1bd30f839",
+        "bytes": 390047,
+        "etag": "\"5f39f-63a3d1d677740\"",
+        "last_modified": "Sat, 19 Jul 2025 00:13:41 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lnmascmp",
+      "etiqueta": "Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal",
+      "sigla": "LNMASCMP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 52,
+      "pdf": {
+        "sha256": "8a0aca9303ab941a600274fd68043576bd7a55bae4ec228a3479398de0fcb332",
+        "bytes": 440265,
+        "etag": "\"6b7c9-617f9a58c6100\"",
+        "last_modified": "Wed, 08 May 2024 23:27:32 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lnrd",
+      "etiqueta": "Ley Nacional del Registro de Detenciones",
+      "sigla": "LNRD",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf",
+      "estado": "incluida",
+      "version": "2019-05-27",
+      "unidades": 36,
+      "pdf": {
+        "sha256": "0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea",
+        "bytes": 248110,
+        "etag": "\"3c92e-58a0bbcb7f8c0\"",
+        "last_modified": "Wed, 29 May 2019 19:24:59 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lnsijpa",
+      "etiqueta": "Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "sigla": "LNSIJPA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNSIJPA.pdf",
+      "estado": "incluida",
+      "version": "2022-12-20",
+      "unidades": 266,
+      "pdf": {
+        "sha256": "8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f",
+        "bytes": 847185,
+        "etag": "\"ced51-5f05d8534ad40\"",
+        "last_modified": "Wed, 21 Dec 2022 21:49:01 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lnuf",
+      "etiqueta": "Ley Nacional sobre el Uso de la Fuerza",
+      "sigla": "LNUF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf",
+      "estado": "incluida",
+      "version": "2024-01-24",
+      "unidades": 44,
+      "pdf": {
+        "sha256": "0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c",
+        "bytes": 569892,
+        "etag": "\"8b224-60fc76f270280\"",
+        "last_modified": "Thu, 25 Jan 2024 16:11:38 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "loam",
+      "etiqueta": "Ley Orgánica de la Armada de México",
+      "sigla": "LOAM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAM.pdf",
+      "estado": "incluida",
+      "version": "2025-11-07",
+      "unidades": 101,
+      "pdf": {
+        "sha256": "476c757523ccdbe6825029df4b37990c8def13ecf98e1bb66e4ace738d33946a",
+        "bytes": 348645,
+        "etag": "\"551e5-64345209983c0\"",
+        "last_modified": "Mon, 10 Nov 2025 22:33:59 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "loapf",
+      "etiqueta": "Ley Orgánica de la Administración Pública Federal",
+      "sigla": "LOAPF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf",
+      "estado": "incluida",
+      "version": "2026-05-07",
+      "unidades": 72,
+      "pdf": {
+        "sha256": "3edf486e601217f5f595f94f56832d8845cbd9193b6494af52473237252bcc5f",
+        "bytes": 2038522,
+        "etag": "\"1f1afa-6518e141e4d40\"",
+        "last_modified": "Mon, 11 May 2026 17:28:45 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lobb",
+      "etiqueta": "Ley Orgánica del Banco del Bienestar",
+      "sigla": "LOBB",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/164_190719.pdf",
+      "estado": "incluida",
+      "version": "2019-07-19",
+      "unidades": 41,
+      "pdf": {
+        "sha256": "915a4f4f7947f248971aebed71f67ddf5fd26bd41faeacb7084ded7a6c57b6dc",
+        "bytes": 506495,
+        "etag": "\"7ba7f-58e9b257430c0\"",
+        "last_modified": "Fri, 26 Jul 2019 20:11:23 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lobnce",
+      "etiqueta": "Ley Orgánica del Banco Nacional de Comercio Exterior",
+      "sigla": "LOBNCE",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNCE.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 37,
+      "pdf": {
+        "sha256": "8ab677987a58aad0d0ed9b1e299b375fd382aeec47b9536547ec7debb2d24a2c",
+        "bytes": 446349,
+        "etag": "\"6cf8d-617d1c0a66d00\"",
+        "last_modified": "Mon, 06 May 2024 23:51:48 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lobnefaa",
+      "etiqueta": "Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada",
+      "sigla": "LOBNEFAA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/167.pdf",
+      "estado": "incluida",
+      "version": "2014-01-10",
+      "unidades": 59,
+      "pdf": {
+        "sha256": "163f7d66aa47a07798c155bd7f39f065c7fd0103c098a31b6db3401ac5f01caf",
+        "bytes": 408440,
+        "etag": "\"63b78-576a287b32f40\"",
+        "last_modified": "Mon, 24 Sep 2018 18:55:17 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lobnosp",
+      "etiqueta": "Ley Orgánica del Banco Nacional de Obras y Servicios Públicos",
+      "sigla": "LOBNOSP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNOSP.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 36,
+      "pdf": {
+        "sha256": "7ab6cfd5861e9fc87502494fbcea4174806d253a715a80003b120f208c10214f",
+        "bytes": 467930,
+        "etag": "\"723da-617d237807380\"",
+        "last_modified": "Tue, 07 May 2024 00:25:02 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "locfcrl",
+      "etiqueta": "Ley Orgánica del Centro Federal de Conciliación y Registro Laboral",
+      "sigla": "LOCFCRL",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf",
+      "estado": "incluida",
+      "version": "2020-01-06",
+      "unidades": 25,
+      "pdf": {
+        "sha256": "1b50289dd80607f83a22c917a3ead722edbf30ee45e8756b3d764f000e1ffc48",
+        "bytes": 249075,
+        "etag": "\"3ccf3-5aed72e260ac0\"",
+        "last_modified": "Wed, 09 Sep 2020 01:14:59 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "log",
       "etiqueta": "Ley de Organizaciones Ganaderas",
       "sigla": "LOG",
@@ -4469,6 +5044,144 @@
       }
     },
     {
+      "clave": "loinah",
+      "etiqueta": "Ley Orgánica del Instituto Nacional de Antropología e Historia",
+      "sigla": "LOINAH",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/170_171215.pdf",
+      "estado": "incluida",
+      "version": "2015-12-17",
+      "unidades": 20,
+      "pdf": {
+        "sha256": "8704630cb4ee190962763b15185f7f277a2dadb5441080601fe7b685b7f7ae54",
+        "bytes": 313475,
+        "etag": "\"4c883-576a2a97eeb00\"",
+        "last_modified": "Mon, 24 Sep 2018 19:04:44 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "loipn",
+      "etiqueta": "Ley Orgánica del Instituto Politécnico Nacional",
+      "sigla": "LOIPN",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/171.pdf",
+      "estado": "incluida",
+      "version": "1981-12-29",
+      "unidades": 34,
+      "pdf": {
+        "sha256": "c40f1697221f7ce6b0a9c9da729c2e95db5e1a9404151456b69fdc1be7f5c6ee",
+        "bytes": 325067,
+        "etag": "\"4f5cb-57652e7359e80\"",
+        "last_modified": "Thu, 20 Sep 2018 19:55:22 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lonf",
+      "etiqueta": "Ley Orgánica de Nacional Financiera",
+      "sigla": "LONF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/162.pdf",
+      "estado": "incluida",
+      "version": "2014-01-10",
+      "unidades": 38,
+      "pdf": {
+        "sha256": "99d3d61b8abaa6f0c20427466c41a7f236feda5772e49a6aec7f677b29e14880",
+        "bytes": 414415,
+        "etag": "\"652cf-576a265b9acc0\"",
+        "last_modified": "Mon, 24 Sep 2018 18:45:47 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lopdc",
+      "etiqueta": "Ley Orgánica de la Procuraduría de la Defensa del Contribuyente",
+      "sigla": "LOPDC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf",
+      "estado": "incluida",
+      "version": "2022-05-11",
+      "unidades": 28,
+      "pdf": {
+        "sha256": "7dc8f2201fdeb8039371254e3b2606c158f4cd480e29ce074a65eb375a19475c",
+        "bytes": 442632,
+        "etag": "\"6c108-5e07a85dc6a00\"",
+        "last_modified": "Thu, 02 Jun 2022 17:42:00 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lopgjdf",
+      "etiqueta": "Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal",
+      "sigla": "LOPGJDF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf",
+      "estado": "incluida",
+      "version": "2011-06-20",
+      "unidades": 84,
+      "pdf": {
+        "sha256": "9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58",
+        "bytes": 650421,
+        "etag": "\"9ecb5-5936b46abc800\"",
+        "last_modified": "Thu, 26 Sep 2019 02:10:40 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lopjf",
+      "etiqueta": "Ley Orgánica del Poder Judicial de la Federación",
+      "sigla": "LOPJF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf",
+      "estado": "incluida",
+      "version": "2025-11-28",
+      "unidades": 307,
+      "pdf": {
+        "sha256": "6569965cdfc64e4c223fc12d5a8ac885b7fad6cb432a0370d70f4dd7b8343fd1",
+        "bytes": 885319,
+        "etag": "\"d8247-644ef820c9880\"",
+        "last_modified": "Tue, 02 Dec 2025 03:15:30 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lopsrm",
       "etiqueta": "Ley de Obras Públicas y Servicios Relacionados con las Mismas",
       "sigla": "LOPSRM",
@@ -4483,6 +5196,144 @@
         "bytes": 989068,
         "etag": "\"f178c-6449e1ae4fcc0\"",
         "last_modified": "Fri, 28 Nov 2025 02:08:27 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "loscm",
+      "etiqueta": "Ley Orgánica del Seminario de Cultura Mexicana",
+      "sigla": "LOSCM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSCM.pdf",
+      "estado": "incluida",
+      "version": "2022-05-11",
+      "unidades": 16,
+      "pdf": {
+        "sha256": "3a8abeaf33ba188a87c9429e18d0bebad276455c857ab3febea81702d5e3a56c",
+        "bytes": 392101,
+        "etag": "\"5fba5-5e07ad5411f00\"",
+        "last_modified": "Thu, 02 Jun 2022 18:04:12 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "loshf",
+      "etiqueta": "Ley Orgánica de Sociedad Hipotecaria Federal",
+      "sigla": "LOSHF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSHF.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 38,
+      "pdf": {
+        "sha256": "00a876c2b691175df0253958b3f337e05d3610e11b79336ad1570539013d2865",
+        "bytes": 449114,
+        "etag": "\"6da5a-617e68bf0e080\"",
+        "last_modified": "Wed, 08 May 2024 00:40:18 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lota",
+      "etiqueta": "Ley Orgánica de los Tribunales Agrarios",
+      "sigla": "LOTA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/159.pdf",
+      "estado": "incluida",
+      "version": "1998-01-23",
+      "unidades": 30,
+      "pdf": {
+        "sha256": "dd4e6e24f201a4e6b37919dc0461523bdb4f74e7c4852815f51bfd576c990296",
+        "bytes": 317149,
+        "etag": "\"4d6dd-57652b162eec0\"",
+        "last_modified": "Thu, 20 Sep 2018 19:40:19 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "louaaan",
+      "etiqueta": "Ley Orgánica de la Universidad Autónoma Agraria Antonio Narro",
+      "sigla": "LOUAAAN",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAAAN.pdf",
+      "estado": "incluida",
+      "version": "2006-04-26",
+      "unidades": 26,
+      "pdf": {
+        "sha256": "0684841d80e27cadbc489695f617c672fe74cb5510970a0b2d0c762cf648ed27",
+        "bytes": 183251,
+        "etag": "\"2cbd3-576549cd3a600\"",
+        "last_modified": "Thu, 20 Sep 2018 21:57:44 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "louam",
+      "etiqueta": "Ley Orgánica de la Universidad Autónoma Metropolitana",
+      "sigla": "LOUAM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf",
+      "estado": "incluida",
+      "version": "1973-12-17",
+      "unidades": 37,
+      "pdf": {
+        "sha256": "8ed0956913d72410d20164fbb17b641a0b3bde532788035b8f0898d18481ac40",
+        "bytes": 297818,
+        "etag": "\"48b5a-5765297a322c0\"",
+        "last_modified": "Thu, 20 Sep 2018 19:33:07 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lounam",
+      "etiqueta": "Ley Orgánica de la Universidad Nacional Autónoma de México",
+      "sigla": "LOUNAM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf",
+      "estado": "incluida",
+      "version": "1945-01-06",
+      "unidades": 18,
+      "pdf": {
+        "sha256": "06af411aa75ed36bd698842d9c2d7f04c7a72e5797718d3aabbd0f89a1d25f9b",
+        "bytes": 284009,
+        "etag": "\"45569-576506dabf340\"",
+        "last_modified": "Thu, 20 Sep 2018 16:58:13 GMT"
       },
       "extractor": "817e43250c609f69",
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",

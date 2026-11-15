@@ -1,0 +1,5 @@
+# Artículo 157 Quáter
+
+De los recursos que constituyan el patrimonio de cada uno de los Fondos estatales, se deberá mantener una reserva del 20% para cubrir los reintegros que, en su caso, deban realizarse a la tesorería de la Comisión Ejecutiva, de acuerdo con lo establecido en los artículos 8, 39 Bis, 68 y 88 Bis de esta Ley.
+
+_Artículo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020_

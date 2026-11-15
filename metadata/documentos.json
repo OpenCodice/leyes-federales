@@ -1,0 +1,84 @@
+{
+  "documentos": [
+    {
+      "clave": "ccf",
+      "etiqueta": "Código Civil Federal",
+      "sigla": "CCF",
+      "tipo": "ley",
+      "num_articulos": 3085,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "ccom",
+      "etiqueta": "Código de Comercio",
+      "sigla": "CCom",
+      "tipo": "ley",
+      "num_articulos": 1641,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "cff",
+      "etiqueta": "Código Fiscal de la Federación",
+      "sigla": "CFF",
+      "tipo": "ley",
+      "num_articulos": 421,
+      "version": "2026-04-09"
+    },
+    {
+      "clave": "cnpp",
+      "etiqueta": "Código Nacional de Procedimientos Penales",
+      "sigla": "CNPP",
+      "tipo": "ley",
+      "num_articulos": 490,
+      "version": "2025-11-28"
+    },
+    {
+      "clave": "cpf",
+      "etiqueta": "Código Penal Federal",
+      "sigla": "CPF",
+      "tipo": "ley",
+      "num_articulos": 555,
+      "version": "2026-03-13"
+    },
+    {
+      "clave": "lamp",
+      "etiqueta": "Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos",
+      "sigla": "LAmp",
+      "tipo": "ley",
+      "num_articulos": 272,
+      "version": "2025-10-16"
+    },
+    {
+      "clave": "lft",
+      "etiqueta": "Ley Federal del Trabajo",
+      "sigla": "LFT",
+      "tipo": "ley",
+      "num_articulos": 1265,
+      "version": "2026-05-14"
+    },
+    {
+      "clave": "lgeepa",
+      "etiqueta": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
+      "sigla": "LGEEPA",
+      "tipo": "ley",
+      "num_articulos": 270,
+      "version": "2026-01-19"
+    },
+    {
+      "clave": "lgs",
+      "etiqueta": "Ley General de Salud",
+      "sigla": "LGS",
+      "tipo": "ley",
+      "num_articulos": 728,
+      "version": "2026-01-15"
+    },
+    {
+      "clave": "lmv",
+      "etiqueta": "Ley del Mercado de Valores",
+      "sigla": "LMV",
+      "tipo": "ley",
+      "num_articulos": 463,
+      "version": "2025-11-14"
+    }
+  ]
+}

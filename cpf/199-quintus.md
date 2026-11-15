@@ -1,0 +1,13 @@
+# Artículo 199 Quintus
+
+Comete el delito de esterilidad provocada quien sin el consentimiento de una persona practique en ella procedimientos quirúrgicos, químicos o de cualquier otra índole para hacerla estéril.
+
+Al responsable de esterilidad provocada se le impondrán de cuatro a siete años de prisión y hasta setenta días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados, que podrá incluir el procedimiento quirúrgico correspondiente para revertir la esterilidad.
+
+Además de las penas señaladas en el párrafo anterior, se impondrá al responsable la suspensión del empleo o profesión por un plazo igual al de la pena de prisión impuesta hasta la inhabilitación definitiva, siempre que en virtud de su ejercicio haya resultado un daño para la víctima; o bien, en caso de que el responsable sea servidor público se le privará del empleo, cargo o comisión público que haya estado desempeñando, siempre que en virtud de su ejercicio haya cometido dicha conducta típica.
+
+_Artículo adicionado DOF 14-06-2012_
+
+Artículo 199 Sextus. Los delitos previstos en este capítulo serán perseguibles de oficio, a excepción de los que se señalen por querella de parte ofendida.
+
+_Artículo adicionado DOF 14-06-2012_

@@ -1,0 +1,5 @@
+# Artículo 283 Quáter
+
+La Secretaría del Trabajo y Previsión Social podrá expedir un certificado de cumplimiento de obligaciones laborales y de seguridad social de conformidad con las disposiciones generales que al efecto emitan las autoridades competentes.
+
+_Artículo adicionado DOF 01-05-2026_

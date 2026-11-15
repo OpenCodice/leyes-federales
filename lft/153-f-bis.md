@@ -1,0 +1,5 @@
+# Artículo 153-F Bis
+
+Los patrones deberán conservar a disposición de la Secretaría del Trabajo y Previsión Social y la Secretaría de Economía, los planes y programas de capacitación, adiestramiento y productividad que se haya acordado establecer, o en su caso, las modificaciones que se hayan convenido acerca de planes y programas ya implantados.
+
+_Artículo adicionado DOF 30-11-2012_

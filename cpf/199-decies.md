@@ -15,9 +15,3 @@ V.- Cuando se haga con fines lucrativos, o
 VI.- Cuando a consecuencia de los efectos o impactos del delito, la víctima atente contra su integridad o contra su propia vida.
 
 _Artículo adicionado DOF 01-06-2021_
-
-_Denominación reformada DOF 14-01-1966. Título recorrido DOF 20-01-1967. Recorrido (antes Título Noveno) DOF 29-07-1970._
-
-_Denominación reformada DOF 27-03-2007_
-
-Capacidad para Resistirlo.

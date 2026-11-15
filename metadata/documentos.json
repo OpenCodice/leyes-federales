@@ -153,6 +153,14 @@
       "version": "2025-10-16"
     },
     {
+      "clave": "lansi",
+      "etiqueta": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
+      "sigla": "LANSI",
+      "tipo": "ley",
+      "num_articulos": 38,
+      "version": "2022-05-11"
+    },
+    {
       "clave": "lapp",
       "etiqueta": "Ley de Asociaciones Público Privadas",
       "sigla": "LAPP",
@@ -337,6 +345,14 @@
       "version": "2025-07-16"
     },
     {
+      "clave": "lfiv",
+      "etiqueta": "Ley de Fomento a la Industria Vitivinícola",
+      "sigla": "LFIV",
+      "tipo": "ley",
+      "num_articulos": 35,
+      "version": "2018-05-23"
+    },
+    {
       "clave": "lft",
       "etiqueta": "Ley Federal del Trabajo",
       "sigla": "LFT",
@@ -359,6 +375,14 @@
       "tipo": "ley",
       "num_articulos": 732,
       "version": "2026-01-15"
+    },
+    {
+      "clave": "lhheum",
+      "etiqueta": "Ley de los Husos Horarios en los Estados Unidos Mexicanos",
+      "sigla": "LHHEUM",
+      "tipo": "ley",
+      "num_articulos": 7,
+      "version": "2022-11-29"
     },
     {
       "clave": "lmv",

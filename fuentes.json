@@ -1,0 +1,274 @@
+{
+  "indice": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
+  "documentos": [
+    {
+      "clave": "ccf",
+      "etiqueta": "Código Civil Federal",
+      "sigla": "CCF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 3103,
+      "pdf": {
+        "sha256": "4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76",
+        "bytes": 3415624,
+        "etag": "\"341e48-6446ed857fbc0\"",
+        "last_modified": "Tue, 25 Nov 2025 17:45:27 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "ccom",
+      "etiqueta": "Código de Comercio",
+      "sigla": "CCom",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 1641,
+      "pdf": {
+        "sha256": "b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef",
+        "bytes": 2630704,
+        "etag": "\"282430-64ddba6454cc0\"",
+        "last_modified": "Wed, 25 Mar 2026 16:20:43 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "cff",
+      "etiqueta": "Código Fiscal de la Federación",
+      "sigla": "CFF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf",
+      "titulos_encabezado": [
+        "CÓDIGO FISCAL DE LA FEDERACIÓN"
+      ],
+      "estado": "incluida",
+      "version": "2026-04-09",
+      "unidades": 421,
+      "pdf": {
+        "sha256": "be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d",
+        "bytes": 3134465,
+        "etag": "\"2fd401-64fb2a1f19100\"",
+        "last_modified": "Sat, 18 Apr 2026 02:15:00 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "cnpp",
+      "etiqueta": "Código Nacional de Procedimientos Penales",
+      "sigla": "CNPP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf",
+      "estado": "incluida",
+      "version": "2025-11-28",
+      "unidades": 490,
+      "pdf": {
+        "sha256": "7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904",
+        "bytes": 1704798,
+        "etag": "\"1a035e-644ee9e2e3ec0\"",
+        "last_modified": "Tue, 02 Dec 2025 02:11:47 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "cpf",
+      "etiqueta": "Código Penal Federal",
+      "sigla": "CPF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf",
+      "estado": "incluida",
+      "version": "2026-03-13",
+      "unidades": 555,
+      "pdf": {
+        "sha256": "a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c",
+        "bytes": 2794133,
+        "etag": "\"2aa295-64dca69eaec00\"",
+        "last_modified": "Tue, 24 Mar 2026 19:46:56 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lamp",
+      "etiqueta": "Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos",
+      "sigla": "LAmp",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf",
+      "estado": "incluida",
+      "version": "2025-10-16",
+      "unidades": 272,
+      "pdf": {
+        "sha256": "05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d",
+        "bytes": 1369391,
+        "etag": "\"14e52f-64160be155980\"",
+        "last_modified": "Fri, 17 Oct 2025 20:40:22 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfpccs",
+      "etiqueta": "Ley Federal de Producción, Certificación y Comercio de Semillas",
+      "sigla": "LFPCCS",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf",
+      "estado": "excluida",
+      "pdf": {
+        "sha256": "ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b",
+        "bytes": 380288,
+        "etag": "\"5cd80-576a3856fd980\"",
+        "last_modified": "Mon, 24 Sep 2018 20:06:14 GMT"
+      },
+      "extractor": "9f408d1ed8d9ec06",
+      "motivo": "La marca de agua girada del PDF deja letras sueltas dentro del texto de varios artículos.",
+      "fecha": "2026-11-16"
+    },
+    {
+      "clave": "lft",
+      "etiqueta": "Ley Federal del Trabajo",
+      "sigla": "LFT",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+      "estado": "incluida",
+      "version": "2026-05-14",
+      "unidades": 1265,
+      "pdf": {
+        "sha256": "12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7",
+        "bytes": 4225835,
+        "etag": "\"407b2b-65220088aa900\"",
+        "last_modified": "Mon, 18 May 2026 23:36:36 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgeepa",
+      "etiqueta": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
+      "sigla": "LGEEPA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf",
+      "estado": "incluida",
+      "version": "2026-01-19",
+      "unidades": 270,
+      "pdf": {
+        "sha256": "0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc",
+        "bytes": 1357460,
+        "etag": "\"14b694-64b3636ebbc80\"",
+        "last_modified": "Fri, 20 Feb 2026 00:08:02 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgs",
+      "etiqueta": "Ley General de Salud",
+      "sigla": "LGS",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf",
+      "estado": "incluida",
+      "version": "2026-01-15",
+      "unidades": 732,
+      "pdf": {
+        "sha256": "a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c",
+        "bytes": 3286114,
+        "etag": "\"322462-64b34298182c0\"",
+        "last_modified": "Thu, 19 Feb 2026 21:41:07 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "ligie-2022",
+      "etiqueta": "Ley de los Impuestos Generales de Importación y de Exportación",
+      "sigla": "LIGIE_2022",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf",
+      "estado": "excluida",
+      "pdf": {
+        "sha256": "955510d7ea82cf42d18c72e3146f999af254c0fda5eda3f12a1fd1c10e9864ce",
+        "bytes": 19158939,
+        "etag": "\"124579b-65dd0cf042500\"",
+        "last_modified": "Wed, 14 Oct 2026 18:07:48 GMT"
+      },
+      "extractor": "35c8f8f49ef95300",
+      "motivo": "La tarifa del artículo 1o. es una tabla de varias columnas; en texto plano las columnas se mezclan a media descripción.",
+      "fecha": "2026-11-16"
+    },
+    {
+      "clave": "lmv",
+      "etiqueta": "Ley del Mercado de Valores",
+      "sigla": "LMV",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 463,
+      "pdf": {
+        "sha256": "cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9",
+        "bytes": 1933761,
+        "etag": "\"1d81c1-644b314cbcfc0\"",
+        "last_modified": "Sat, 29 Nov 2025 03:09:59 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    }
+  ]
+}

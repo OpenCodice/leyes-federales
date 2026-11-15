@@ -29889,12 +29889,9 @@
       "epigrafe": "",
       "contexto": "Del Juicio Oral Mercantil · De las Pruebas · Prueba Superveniente",
       "derogado": false,
-      "ultima_reforma": "2012-01-09",
-      "num_reformas": 2,
-      "reformas": [
-        "2011-01-27",
-        "2012-01-09"
-      ],
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
       "archivo": "ccom/1390-bis-49.md"
     },
     {
@@ -29907,8 +29904,8 @@
       "titulo": "TÍTULO ESPECIAL. Del Juicio Oral Mercantil",
       "capitulo": "CAPÍTULO IV. De las Pruebas",
       "seccion": "SECCIÓN QUINTA. Prueba Superveniente",
-      "epigrafe": "",
-      "contexto": "Del Juicio Oral Mercantil · De las Pruebas · Prueba Superveniente",
+      "epigrafe": "Cuando alguna de las partes tenga conocimiento de una prueba documental superveniente, deberá ofrecerla hasta antes de que se declare visto el asunto y el juez, oyendo previamente a la parte contraria en la misma audiencia, resolverá lo conducente",
+      "contexto": "Del Juicio Oral Mercantil · De las Pruebas · Prueba Superveniente · Cuando alguna de las partes tenga conocimiento de una prueba documental superveniente, deberá ofrecerla hasta antes de que se declare visto el asunto y el juez, oyendo previamente a la parte contraria en la misma audiencia, resolverá lo conducente",
       "derogado": false,
       "ultima_reforma": "2012-01-09",
       "num_reformas": 1,
@@ -31240,9 +31237,8 @@
       "contexto": "De los procedimientos de ejecución de la prenda sin transmisión de posesión y del fideicomiso de garantía · Del procedimiento judicial de ejecución de garantías otorgadas mediante prenda sin transmisión de posesión y fideicomiso de garantía",
       "derogado": false,
       "ultima_reforma": "2000-05-23",
-      "num_reformas": 3,
+      "num_reformas": 2,
       "reformas": [
-        "1943-04-20",
         "1989-01-04",
         "2000-05-23"
       ],

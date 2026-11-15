@@ -130,11 +130,9 @@
       "epigrafe": "",
       "contexto": "De las modificaciones a los husos horarios en las Entidades Federativas y Municipios",
       "derogado": false,
-      "ultima_reforma": "2022-11-02",
-      "num_reformas": 1,
-      "reformas": [
-        "2022-11-02"
-      ],
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
       "archivo": "lhheum/007.md"
     }
   ]

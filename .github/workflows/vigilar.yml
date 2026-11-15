@@ -24,6 +24,7 @@ on:
 
 permissions:
   contents: read
+  pull-requests: read
 
 concurrency:
   group: vigilar-leyes-federales
@@ -41,6 +42,19 @@ jobs:
       pendientes: ${{ steps.plan.outputs.pendientes }}
       extractor: ${{ steps.extractor.outputs.sha }}
     steps:
+      - name: Esperar a que se fusione el PR de la corrida anterior
+        # Planear sobre un main sin ese PR produce un PR en conflicto que
+        # repite lo mismo.
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for i in $(seq 1 20); do
+            n=$(gh pr list -R "$GITHUB_REPOSITORY" --head actualizacion/leyes-federales --state open --json number -q length)
+            [ "$n" = "0" ] && exit 0
+            echo "Hay un PR de vigilancia abierto; espero ($i/20)…"; sleep 30
+          done
+          echo "::error::El PR de la corrida anterior sigue abierto: fusiónalo o ciérralo antes de vigilar."
+          exit 1
       - uses: actions/checkout@v5
         with:
           persist-credentials: false

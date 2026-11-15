@@ -1,0 +1,73 @@
+name: Revisar PR de leyes federales
+
+# Se ejecuta en cada PR.
+#   validar  — invariantes deterministas. Es el GATE: required check de main.
+#   fusionar — fusiona solo el PR de la vigilancia (etiqueta `verificado`). Con
+#              la etiqueta `continuar` (quedan leyes por dar de alta, o el
+#              agente reparó el extractor y hay que reconstruir con él), lanza
+#              la siguiente corrida.
+
+on:
+  pull_request: {}
+
+permissions:
+  contents: read
+  pull-requests: write
+  actions: write
+
+env:
+  EXTRACTOR_REPO: https://github.com/OpenCodice/fiscal-extractor.git
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Clonar extractor e instalar dependencias
+        run: |
+          git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
+          pip install -q -r /tmp/extractor/requirements.txt
+      - name: Validar invariantes (GATE)
+        run: |
+          cd /tmp/extractor
+          if python -m extractor validar --out "$GITHUB_WORKSPACE" > /tmp/validar.log; then
+            tail -n 1 /tmp/validar.log
+          else
+            grep "FALLA" /tmp/validar.log | head -n 40
+            echo "::error::Invariantes ROTOS — no mergear"
+            exit 1
+          fi
+
+  fusionar:
+    needs: validar
+    if: github.event.pull_request.head.repo.full_name == github.repository && startsWith(github.head_ref, 'actualizacion/')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fusionar si quedó verificado
+        env:
+          GH_TOKEN: ${{ secrets.PR_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "Sin PR_TOKEN: el PR queda para revisión manual."; exit 0
+          fi
+          etiquetas=$(gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json isDraft,labels \
+            -q '"\(.isDraft) \([.labels[].name] | join(","))"')
+          case "$etiquetas" in
+            true*|*extraccion-sospechosa*) echo "No verificado: no se fusiona."; exit 0 ;;
+            *verificado*) ;;
+            *) echo "Sin etiqueta 'verificado': no se fusiona."; exit 0 ;;
+          esac
+          asunto=$(gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json body -q .body \
+            | sed -n 's/.*<!-- asunto: \(.*\) -->.*/\1/p' | head -n 1)
+          asunto="${asunto:-$(gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json title -q .title)}"
+          gh pr merge "$PR" -R "$GITHUB_REPOSITORY" --squash --delete-branch \
+            --subject "$asunto" --body "Fusionado automáticamente: auditoría determinista contra los PDF oficiales y validación en verde (#$PR)."
+          case "$etiquetas" in
+            *continuar*)
+              GH_TOKEN="${{ github.token }}" gh workflow run vigilar.yml -R "$GITHUB_REPOSITORY" --ref main
+              echo "Siguiente corrida lanzada." ;;
+          esac

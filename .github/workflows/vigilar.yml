@@ -1,0 +1,258 @@
+name: Vigilar leyes federales
+
+# Compara el índice de leyes vigentes de la Cámara de Diputados y las cabeceras
+# de cada PDF contra fuentes.json, y reprocesa solo lo que cambió: leyes nuevas,
+# PDF distintos y, si cambió el parser del extractor, todo el corpus. La
+# extracción se reparte entre varios jobs; el agente (Claude Code) interviene
+# solo si la auditoría determinista encuentra fallas. Lo que no queda fiel al
+# PDF se deja fuera (si es nuevo) o conserva su versión publicada (si ya
+# estaba), y queda anotado en fuentes.json.
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'        # cada lunes 09:00 UTC
+  workflow_dispatch:
+    inputs:
+      docs:
+        description: 'Solo estas claves, separadas por espacio (vacío = todo lo que cambió)'
+        required: false
+        default: ''
+      lote:
+        description: 'Máximo de leyes nuevas en esta corrida (vacío = sin límite)'
+        required: false
+        default: '40'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: vigilar-leyes-federales
+  cancel-in-progress: false
+
+env:
+  EXTRACTOR_REPO: https://github.com/OpenCodice/fiscal-extractor.git
+
+jobs:
+  planear:
+    runs-on: ubuntu-latest
+    outputs:
+      hay: ${{ steps.plan.outputs.hay }}
+      shards: ${{ steps.plan.outputs.shards }}
+      pendientes: ${{ steps.plan.outputs.pendientes }}
+      extractor: ${{ steps.extractor.outputs.sha }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Clonar extractor
+        id: extractor
+        run: |
+          git clone -q "$EXTRACTOR_REPO" /tmp/extractor
+          pip install -q -r /tmp/extractor/requirements.txt
+          echo "sha=$(git -C /tmp/extractor rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+      - name: Planear
+        id: plan
+        env:
+          DOCS: ${{ inputs.docs }}
+          LOTE: ${{ github.event_name == 'schedule' && '40' || inputs.lote }}
+        run: |
+          args=()
+          for d in $DOCS; do args+=(--doc "$d"); done
+          [ -n "$LOTE" ] && args+=(--lote "$LOTE")
+          cd /tmp/extractor
+          python -m extractor federal planear --out "$GITHUB_WORKSPACE" \
+            --plan /tmp/plan/plan.json "${args[@]}"
+      - uses: actions/upload-artifact@v4
+        if: steps.plan.outputs.hay == 'true'
+        with:
+          name: plan
+          path: /tmp/plan/plan.json
+
+  extraer:
+    needs: planear
+    if: needs.planear.outputs.hay == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJSON(needs.planear.outputs.shards) }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+          sparse-checkout: fuentes.json
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Clonar extractor (el mismo commit que planeó)
+        run: |
+          git clone -q "$EXTRACTOR_REPO" /tmp/extractor
+          git -C /tmp/extractor checkout -q "${{ needs.planear.outputs.extractor }}"
+          pip install -q -r /tmp/extractor/requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          name: plan
+          path: /tmp/plan
+      - name: Descargar, extraer y auditar
+        run: |
+          cd /tmp/extractor
+          python -m extractor federal extraer --plan /tmp/plan/plan.json \
+            --out "$GITHUB_WORKSPACE" --pdf-dir /tmp/pdfs --shard ${{ matrix.shard }} \
+            --staging /tmp/staging
+      - uses: actions/upload-artifact@v4
+        with:
+          name: staging-${{ matrix.shard }}
+          path: /tmp/staging
+          retention-days: 7
+
+  cerrar:
+    needs: [planear, extraer]
+    if: always() && needs.planear.outputs.hay == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+    env:
+      TIENE_CLAUDE: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+      OUT: ${{ github.workspace }}
+      PDF_DIR: /tmp/pdfs
+      PLAN: /tmp/plan/plan.json
+      AGENTE_DIR: /tmp/agente
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Clonar extractor (el mismo commit que planeó)
+        run: |
+          git clone -q "$EXTRACTOR_REPO" /tmp/extractor
+          git -C /tmp/extractor checkout -q -B main "${{ needs.planear.outputs.extractor }}"
+          git -C /tmp/extractor branch -q --set-upstream-to=origin/main main
+          pip install -q -r /tmp/extractor/requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          name: plan
+          path: /tmp/plan
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: staging-*
+          path: /tmp/staging
+          merge-multiple: true
+      - name: Integrar los grupos
+        id: integrar
+        run: |
+          cd /tmp/extractor
+          python -m extractor federal integrar --plan "$PLAN" --staging /tmp/staging \
+            --out "$OUT" --pdf-dir "$PDF_DIR" --trabajo "$AGENTE_DIR"
+
+      - name: Agente — reparar el extractor (solo si la auditoría falló)
+        if: steps.integrar.outputs.fallas == 'true' && env.TIENE_CLAUDE == 'true'
+        timeout-minutes: 150
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: bash /tmp/extractor/scripts/agente/correr-federal.sh
+
+      - name: Compuertas del arreglo
+        if: steps.integrar.outputs.fallas == 'true' && env.TIENE_CLAUDE == 'true'
+        env:
+          EXTRACTOR_TOKEN: ${{ secrets.PR_TOKEN }}
+          EXTRACTOR_SLUG: OpenCodice/fiscal-extractor
+        run: bash /tmp/extractor/scripts/agente/cerrar-federal.sh
+
+      - name: Decidir altas, exclusiones y el commit
+        id: cierre
+        run: |
+          cd /tmp/extractor
+          python -m extractor federal cerrar --plan "$PLAN" --out "$OUT" --trabajo "$AGENTE_DIR"
+          python "$OUT/scripts/gen_readme.py"
+          echo "reparado=$([ -f "$AGENTE_DIR/reparacion.json" ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+
+      - name: Validar invariantes (gate)
+        run: |
+          cd /tmp/extractor
+          python -m extractor validar --out "$OUT" > /tmp/validar.log || { tail -n 40 /tmp/validar.log; exit 1; }
+          tail -n 1 /tmp/validar.log
+
+      - name: Guardar el trabajo de la corrida
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: trabajo
+          path: |
+            /tmp/agente/*.json
+            /tmp/agente/*.md
+            /tmp/agente/*.log
+            /tmp/agente/*.patch
+            /tmp/agente/*.txt
+          retention-days: 30
+
+      - name: Abrir Pull Request
+        id: pr
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.PR_TOKEN || github.token }}
+          branch: actualizacion/leyes-federales
+          base: main
+          title: ${{ steps.cierre.outputs.asunto }}
+          body-path: /tmp/agente/pr.md
+          commit-message: ${{ steps.cierre.outputs.asunto }}
+          labels: |
+            actualizacion
+            automatico
+            verificado
+            ${{ (needs.planear.outputs.pendientes != '0' || steps.cierre.outputs.reparado == 'true') && 'continuar' || '' }}
+          delete-branch: true
+
+      - name: Avisar de leyes con revisión pendiente
+        if: steps.cierre.outputs.retenidas == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          titulo="📌 Leyes federales con revisión pendiente"
+          cuerpo="La nueva versión de estas leyes no quedó fiel al PDF; se conserva la publicada. Detalle: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          n=$(gh issue list -R "$GITHUB_REPOSITORY" --state open --search "in:title \"$titulo\"" --json number -q '.[0].number')
+          if [ -n "$n" ]; then gh issue comment "$n" -R "$GITHUB_REPOSITORY" --body "$cuerpo"
+          else gh issue create -R "$GITHUB_REPOSITORY" --title "$titulo" --assignee danielcardeenas --body "$cuerpo"; fi
+
+      - name: Alertar fuentes fallidas
+        if: steps.cierre.outputs.fuentes_fallidas == 'true'
+        run: |
+          echo "::error::Alguna fuente no se pudo descargar. Revisa el paso de extracción."
+          exit 1
+
+  salud:
+    needs: [planear, extraer, cerrar]
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      issues: write
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Mantener activo el cron
+        run: gh api -X PUT "repos/$GITHUB_REPOSITORY/actions/workflows/vigilar.yml/enable"
+      - name: Abrir o actualizar un issue si falló
+        if: needs.planear.result == 'failure' || needs.cerrar.result == 'failure'
+        run: |
+          titulo="🚨 Falló: ${{ github.workflow }}"
+          url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          n=$(gh issue list -R "$GITHUB_REPOSITORY" --state open \
+                --search "in:title \"$titulo\"" --json number -q '.[0].number')
+          if [ -n "$n" ]; then
+            gh issue comment "$n" -R "$GITHUB_REPOSITORY" --body "Volvió a fallar: $url"
+          else
+            gh issue create -R "$GITHUB_REPOSITORY" --title "$titulo" \
+              --assignee danielcardeenas \
+              --body "El workflow falló y necesita atención: $url"
+          fi

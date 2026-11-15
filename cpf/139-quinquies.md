@@ -1,0 +1,5 @@
+# Artículo 139 Quinquies
+
+Se aplicará de uno a nueve años de prisión y de cien a trescientos días multa, a quien encubra a una persona que haya participado en los delitos previstos en el artículo 139 Quáter de este Código.
+
+_Artículo adicionado DOF 14-03-2014_

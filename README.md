@@ -40,6 +40,7 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley | Carpeta | Artículos | Última reforma incorporada | PDF oficial |
 |---|---|---|---|---|
 | Código Civil Federal | [`ccf/`](ccf/) | 3103 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf) |
+| Código Federal de Procedimientos Civiles | [`cfpc/`](cfpc/) | 630 | 2021-06-07 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf) |
 | Código Fiscal de la Federación | [`cff/`](cff/) | 421 | 2026-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf) |
 | Código Militar de Procedimientos Penales | [`cmpp/`](cmpp/) | 452 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf) |
 | Código Nacional de Procedimientos Civiles y Familiares | [`cnpcf/`](cnpcf/) | 1191 | 2026-01-15 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf) |
@@ -50,11 +51,34 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Estatuto de Gobierno del Distrito Federal | [`egdf/`](egdf/) | 145 | 2014-06-27 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/10_270614.pdf) |
 | Ley Aduanera | [`ladua/`](ladua/) | 277 | 2025-11-19 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf) |
 | Ley Agraria | [`lagra/`](lagra/) | 201 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf) |
+| Ley Federal contra la Delincuencia Organizada | [`lfcdo/`](lfcdo/) | 57 | 2025-11-28 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf) |
+| Ley Federal de Armas de Fuego y Explosivos | [`lfafe/`](lfafe/) | 125 | 2025-05-29 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAFE.pdf) |
+| Ley Federal de Austeridad Republicana | [`lfar/`](lfar/) | 30 | 2025-04-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAR.pdf) |
+| Ley Federal de Cine y el Audiovisual | [`lfca/`](lfca/) | 68 | 2026-05-22 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCA.pdf) |
+| Ley Federal de Competencia Económica | [`lfce/`](lfce/) | 153 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf) |
+| Ley Federal de Consulta Popular | [`lfcpo/`](lfcpo/) | 65 | 2021-05-19 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo_190521.pdf) |
+| Ley Federal de Correduría Pública | [`lfcp/`](lfcp/) | 23 | 2012-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf) |
+| Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas | [`lfdeapd/`](lfdeapd/) | 33 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEAPD.pdf) |
+| Ley Federal de Defensoría Pública | [`lfdefp/`](lfdefp/) | 42 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDefP.pdf) |
+| Ley Federal de Derechos | [`lfd/`](lfd/) | 694 | 2025-11-07 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf) |
+| Ley Federal de Deuda Pública | [`lgdp/`](lgdp/) | 32 | 2018-01-30 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/136_300118.pdf) |
+| Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil | [`lffaosc/`](lffaosc/) | 32 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFAOSC.pdf) |
+| Ley Federal de Juegos y Sorteos | [`lfjs/`](lfjs/) | 17 | 1947-12-31 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/109.pdf) |
+| Ley Federal de Presupuesto y Responsabilidad Hacendaria | [`lfprh/`](lfprh/) | 124 | 2026-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf) |
+| Ley Federal de Procedimiento Administrativo | [`lfpa/`](lfpa/) | 118 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf) |
+| Ley Federal de Procedimiento Contencioso Administrativo | [`lfpca/`](lfpca/) | 106 | 2026-06-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf) |
+| Ley Federal de Protección a la Propiedad Industrial | [`lfppi/`](lfppi/) | 421 | 2026-04-03 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf) |
+| Ley Federal de Protección al Consumidor | [`lfpc/`](lfpc/) | 190 | 2025-12-12 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf) |
+| Ley Federal de las Entidades Paraestatales | [`lfep/`](lfep/) | 69 | 2025-07-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEP.pdf) |
+| Ley Federal de los Derechos del Contribuyente | [`lfdc/`](lfdc/) | 24 | 2005-06-23 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf) |
+| Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | [`lftse/`](lftse/) | 177 | 2026-01-15 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf) |
 | Ley Federal del Trabajo | [`lft/`](lft/) | 1265 | 2026-05-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf) |
 | Ley General de Salud | [`lgs/`](lgs/) | 728 | 2026-01-15 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf) |
 | Ley General del Equilibrio Ecológico y la Protección al Ambiente | [`lgeepa/`](lgeepa/) | 270 | 2026-01-19 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf) |
 | Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público | [`laassp/`](laassp/) | 120 | 2025-04-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf) |
 | Ley de Aeropuertos | [`laero/`](laero/) | 101 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf) |
+| Ley de Aguas Nacionales | [`lan/`](lan/) | 215 | 2025-12-11 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf) |
+| Ley de Ahorro y Crédito Popular | [`lacp/`](lacp/) | 232 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf) |
 | Ley de Amnistía | [`lamn/`](lamn/) | 9 | 2024-06-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmn.pdf) |
 | Ley de Amnistía | [`lamni/`](lamni/) | 4 | 1994-01-22 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/19.pdf) |
 | Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos | [`lamp/`](lamp/) | 272 | 2025-10-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf) |
@@ -159,6 +183,17 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley del Mercado de Valores | [`lmv/`](lmv/) | 463 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf) |
 | Ley del Registro Público Vehicular | [`lrpv/`](lrpv/) | 27 | 2021-05-20 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/269_200521.pdf) |
 | Ley del Sector Eléctrico | [`lse/`](lse/) | 188 | 2025-03-18 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LSE.pdf) |
+| Ley del Sector Hidrocarburos | [`lsh/`](lsh/) | 166 | 2025-03-18 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf) |
+| Ley del Seguro Social | [`lss/`](lss/) | 385 | 2026-01-15 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf) |
+| Ley del Servicio Exterior Mexicano | [`lsem/`](lsem/) | 86 | 2018-04-19 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/96_190418.pdf) |
+| Ley del Servicio Militar | [`lsm/`](lsm/) | 65 | 2022-05-18 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf) |
+| Ley del Servicio Postal Mexicano | [`lspm/`](lspm/) | 72 | 2023-01-19 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPM.pdf) |
+| Ley del Servicio Profesional de Carrera en la Administración Pública Federal | [`lspcapf/`](lspcapf/) | 80 | 2006-01-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/260.pdf) |
+| Ley del Servicio de Administración Tributaria | [`lsat/`](lsat/) | 41 | 2018-12-04 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf) |
+| Ley del Sistema Nacional de Información Estadística y Geográfica | [`lsnieg/`](lsnieg/) | 134 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIEG.pdf) |
+| Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública | [`lsniimsp/`](lsniimsp/) | 51 | 2025-07-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf) |
+| Ley del Sistema Público de Radiodifusión del Estado Mexicano | [`lsprem/`](lsprem/) | 32 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPREM.pdf) |
+| Ley en Materia de Telecomunicaciones y Radiodifusión | [`lmtr/`](lmtr/) | 299 | 2025-07-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf) |
 | Reglamento Interior del Servicio de Administración Tributaria | [`risat/`](risat/) | 56 | 2021-12-21 | [PDF](https://wwwmat.sat.gob.mx/cs/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1461176458878&ssbinary=true) |
 
 <!-- DOCUMENTOS:FIN -->
@@ -172,13 +207,10 @@ cuando cambia su PDF o el extractor.
 
 | Ley | Motivo | PDF oficial |
 |---|---|---|
-| Código Federal de Procedimientos Civiles | 1 unidades no reproducen el PDF (cfpc/068) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf) |
 | Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | invariantes rotos: [lisipl] al menos una unidad: 0 unidades | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf) |
-| Ley de Aguas Nacionales | invariantes rotos: [lan] índice == archivos == unidades: 215 md / 216 idx / 216 items (¿colisión de claves?) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf) |
-| Ley de Ahorro y Crédito Popular | invariantes rotos: [lacp] índice == archivos == unidades: 232 md / 234 idx / 234 items (¿colisión de claves?) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf) |
+| Ley Federal de Producción, Certificación y Comercio de Semillas | 1 unidades no reproducen el PDF (lfpccs/032) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf) |
 | Ley de Sociedades de Responsabilidad Limitada de Interés Público | 1 unidades no reproducen el PDF (lsrlip/013) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf) |
 | Ley de los Impuestos Generales de Importación y de Exportación | 1 unidades no reproducen el PDF (ligie-2022/001) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf) |
 | Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | 3 unidades no reproducen el PDF (lissfam/027, lissfam/034, lissfam/037) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf) |
-| Ley del Sector Hidrocarburos | 1 unidades no reproducen el PDF (lsh/077) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf) |
 
 <!-- EXCLUIDAS:FIN -->

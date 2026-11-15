@@ -112,7 +112,7 @@ jobs:
 
   cerrar:
     needs: [planear, extraer]
-    if: always() && needs.planear.outputs.hay == 'true'
+    if: ${{ !cancelled() && needs.planear.outputs.hay == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 300
     permissions:

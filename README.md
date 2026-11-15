@@ -146,8 +146,45 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley General en Materia de Delitos Electorales | [`lgmde/`](lgmde/) | 29 | 2021-05-20 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE_200521.pdf) |
 | Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas | [`lgmdfp/`](lgmdfp/) | 189 | 2025-07-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf) |
 | Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación | [`lgmhcti/`](lgmhcti/) | 100 | 2023-05-08 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf) |
+| Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | [`lgpsdms/`](lgpsdms/) | 48 | 2021-05-20 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_200521.pdf) |
+| Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes | [`lgpist/`](lgpist/) | 96 | 2022-04-28 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf) |
+| Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | [`lgpisdme/`](lgpisdme/) | 43 | 2025-11-28 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPISDME.pdf) |
+| Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos | [`lgpsedmtp/`](lgpsedmtp/) | 126 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf) |
 | Ley General para el Control del Tabaco | [`lgct/`](lgct/) | 57 | 2022-02-17 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf) |
 | Ley General para el Fortalecimiento y Armonización Catastral y Registral | [`lgfacr/`](lgfacr/) | 45 | 2026-10-23 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGFACR.pdf) |
+| Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista | [`lgappcea/`](lgappcea/) | 18 | 2015-04-30 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf) |
+| Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia | [`lgdocia/`](lgdocia/) | 32 | 2021-01-07 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf) |
+| Ley General para la Igualdad Sustantiva entre Mujeres y Hombres | [`lgimh/`](lgimh/) | 52 | 2026-01-15 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf) |
+| Ley General para la Inclusión de las Personas con Discapacidad | [`lgipd/`](lgipd/) | 60 | 2024-06-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf) |
+| Ley General para la Prevención Social de la Violencia y la Delincuencia | [`lgpsvd/`](lgpsvd/) | 30 | 2021-05-04 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf) |
+| Ley General para la Prevención y Gestión Integral de los Residuos | [`lgpgir/`](lgpgir/) | 126 | 2026-01-19 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPGIR.pdf) |
+| Ley Monetaria de los Estados Unidos Mexicanos | [`lmeum/`](lmeum/) | 24 | 2026-01-19 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LMEUM.pdf) |
+| Ley Nacional de Ejecución Penal | [`lnep/`](lnep/) | 207 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf) |
+| Ley Nacional de Extinción de Dominio | [`lned/`](lned/) | 251 | 2025-11-28 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LNED.pdf) |
+| Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal | [`lnmascmp/`](lnmascmp/) | 52 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP.pdf) |
+| Ley Nacional del Registro de Detenciones | [`lnrd/`](lnrd/) | 36 | 2019-05-27 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf) |
+| Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes | [`lnsijpa/`](lnsijpa/) | 266 | 2022-12-20 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LNSIJPA.pdf) |
+| Ley Nacional para Eliminar Trámites Burocráticos | [`lnetb/`](lnetb/) | 114 | 2025-07-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf) |
+| Ley Nacional sobre el Uso de la Fuerza | [`lnuf/`](lnuf/) | 44 | 2024-01-24 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf) |
+| Ley Orgánica de Nacional Financiera | [`lonf/`](lonf/) | 38 | 2014-01-10 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/162.pdf) |
+| Ley Orgánica de Sociedad Hipotecaria Federal | [`loshf/`](loshf/) | 38 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSHF.pdf) |
+| Ley Orgánica de la Administración Pública Federal | [`loapf/`](loapf/) | 72 | 2026-05-07 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf) |
+| Ley Orgánica de la Armada de México | [`loam/`](loam/) | 101 | 2025-11-07 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAM.pdf) |
+| Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal | [`lopgjdf/`](lopgjdf/) | 84 | 2011-06-20 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf) |
+| Ley Orgánica de la Procuraduría de la Defensa del Contribuyente | [`lopdc/`](lopdc/) | 28 | 2022-05-11 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf) |
+| Ley Orgánica de la Universidad Autónoma Agraria Antonio Narro | [`louaaan/`](louaaan/) | 26 | 2006-04-26 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAAAN.pdf) |
+| Ley Orgánica de la Universidad Autónoma Metropolitana | [`louam/`](louam/) | 37 | 1973-12-17 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf) |
+| Ley Orgánica de la Universidad Nacional Autónoma de México | [`lounam/`](lounam/) | 18 | 1945-01-06 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf) |
+| Ley Orgánica de los Tribunales Agrarios | [`lota/`](lota/) | 30 | 1998-01-23 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/159.pdf) |
+| Ley Orgánica del Banco Nacional de Comercio Exterior | [`lobnce/`](lobnce/) | 37 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNCE.pdf) |
+| Ley Orgánica del Banco Nacional de Obras y Servicios Públicos | [`lobnosp/`](lobnosp/) | 36 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNOSP.pdf) |
+| Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada | [`lobnefaa/`](lobnefaa/) | 59 | 2014-01-10 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/167.pdf) |
+| Ley Orgánica del Banco del Bienestar | [`lobb/`](lobb/) | 41 | 2019-07-19 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/164_190719.pdf) |
+| Ley Orgánica del Centro Federal de Conciliación y Registro Laboral | [`locfcrl/`](locfcrl/) | 25 | 2020-01-06 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf) |
+| Ley Orgánica del Instituto Nacional de Antropología e Historia | [`loinah/`](loinah/) | 20 | 2015-12-17 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/170_171215.pdf) |
+| Ley Orgánica del Instituto Politécnico Nacional | [`loipn/`](loipn/) | 34 | 1981-12-29 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/171.pdf) |
+| Ley Orgánica del Poder Judicial de la Federación | [`lopjf/`](lopjf/) | 307 | 2025-11-28 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf) |
+| Ley Orgánica del Seminario de Cultura Mexicana | [`loscm/`](loscm/) | 16 | 2022-05-11 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSCM.pdf) |
 | Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público | [`laassp/`](laassp/) | 120 | 2025-04-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf) |
 | Ley de Aeropuertos | [`laero/`](laero/) | 101 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf) |
 | Ley de Aguas Nacionales | [`lan/`](lan/) | 215 | 2025-12-11 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf) |
@@ -208,7 +245,7 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley de Organizaciones Ganaderas | [`log/`](log/) | 26 | 2012-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf) |
 | Ley de Planeación | [`lplan/`](lplan/) | 48 | 2026-01-15 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf) |
 | Ley de Planeación y Transición Energética | [`lpte/`](lpte/) | 100 | 2025-03-18 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LPTE.pdf) |
-| Ley de Premios, Estímulos y Recompensas Civiles | [`lperc/`](lperc/) | 145 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LPERC.pdf) |
+| Ley de Premios, Estímulos y Recompensas Civiles ⚠️ | [`lperc/`](lperc/) | 145 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LPERC.pdf) |
 | Ley de Productos Orgánicos | [`lpo/`](lpo/) | 50 | 2006-02-07 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LPO.pdf) |
 | Ley de Protección al Ahorro Bancario | [`lpab/`](lpab/) | 95 | 2022-05-11 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LPAB.pdf) |
 | Ley de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional | [`lpcinecdi/`](lpcinecdi/) | 9 | 2012-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf) |
@@ -284,5 +321,7 @@ cuando cambia su PDF o el extractor.
 | Ley | Motivo | PDF oficial |
 |---|---|---|
 | Ley General de Instituciones y Procedimientos Electorales | 1 unidades no reproducen el PDF (lgipe/028) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf) |
+| Ley Orgánica del Congreso General de los Estados Unidos Mexicanos | invariantes rotos: [locg] sin fugas de encabezado/pie: 048.md, 049.md, 051.md | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf) |
+| Ley Orgánica del Ejército y Fuerza Aérea Mexicanos | invariantes rotos: [loefam] al menos una unidad: 0 unidades | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf) |
 
 <!-- EXCLUIDAS:FIN -->

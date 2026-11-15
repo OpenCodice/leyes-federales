@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCE.pdf",
   "version": "2026-05-01",
-  "num_articulos": 98,
+  "num_articulos": 109,
   "articulos": [
     {
       "clave": "001",
@@ -324,12 +324,30 @@
       "epigrafe": "",
       "contexto": "ARANCELES Y MEDIDAS DE REGULACION Y RESTRICCION NO ARANCELARIAS DEL COMERCIO EXTERIOR · Medidas de regulación y restricción no arancelarias Sección primera Disposiciones generales",
       "derogado": false,
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "lce/017.md"
+    },
+    {
+      "clave": "017-a",
+      "articulo": 17,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 17-A",
+      "cita": "Artículo 17-A LCE",
+      "titulo": "TITULO IV. ARANCELES Y MEDIDAS DE REGULACION Y RESTRICCION NO ARANCELARIAS DEL COMERCIO EXTERIOR",
+      "capitulo": "CAPITULO II. Medidas de regulación y restricción no arancelarias Sección primera Disposiciones generales",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "ARANCELES Y MEDIDAS DE REGULACION Y RESTRICCION NO ARANCELARIAS DEL COMERCIO EXTERIOR · Medidas de regulación y restricción no arancelarias Sección primera Disposiciones generales",
+      "derogado": false,
       "ultima_reforma": "2006-01-24",
       "num_reformas": 1,
       "reformas": [
         "2006-01-24"
       ],
-      "archivo": "lce/017.md"
+      "archivo": "lce/017-a.md"
     },
     {
       "clave": "018",
@@ -380,12 +398,30 @@
       "epigrafe": "",
       "contexto": "ARANCELES Y MEDIDAS DE REGULACION Y RESTRICCION NO ARANCELARIAS DEL COMERCIO EXTERIOR · Medidas de regulación y restricción no arancelarias Sección primera Disposiciones generales",
       "derogado": false,
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "lce/020.md"
+    },
+    {
+      "clave": "020-a",
+      "articulo": 20,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 20-A",
+      "cita": "Artículo 20-A LCE",
+      "titulo": "TITULO IV. ARANCELES Y MEDIDAS DE REGULACION Y RESTRICCION NO ARANCELARIAS DEL COMERCIO EXTERIOR",
+      "capitulo": "CAPITULO II. Medidas de regulación y restricción no arancelarias Sección primera Disposiciones generales",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "ARANCELES Y MEDIDAS DE REGULACION Y RESTRICCION NO ARANCELARIAS DEL COMERCIO EXTERIOR · Medidas de regulación y restricción no arancelarias Sección primera Disposiciones generales",
+      "derogado": false,
       "ultima_reforma": "2006-01-24",
       "num_reformas": 1,
       "reformas": [
         "2006-01-24"
       ],
-      "archivo": "lce/020.md"
+      "archivo": "lce/020-a.md"
     },
     {
       "clave": "021",
@@ -1251,12 +1287,30 @@
       "epigrafe": "Sección cuarta Cuotas compensatorias",
       "contexto": "PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA · Procedimiento en materia de prácticas desleales de comercio internacional Sección primera Resolución preliminar · Sección cuarta Cuotas compensatorias",
       "derogado": false,
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "lce/065.md"
+    },
+    {
+      "clave": "065-a",
+      "articulo": 65,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 65-A",
+      "cita": "Artículo 65-A LCE",
+      "titulo": "TITULO VII. PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA",
+      "capitulo": "CAPITULO II. Procedimiento en materia de prácticas desleales de comercio internacional Sección primera Resolución preliminar",
+      "seccion": "",
+      "epigrafe": "Sección cuarta Cuotas compensatorias",
+      "contexto": "PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA · Procedimiento en materia de prácticas desleales de comercio internacional Sección primera Resolución preliminar · Sección cuarta Cuotas compensatorias",
+      "derogado": false,
       "ultima_reforma": "2006-12-21",
       "num_reformas": 1,
       "reformas": [
         "2006-12-21"
       ],
-      "archivo": "lce/065.md"
+      "archivo": "lce/065-a.md"
     },
     {
       "clave": "066",
@@ -1357,6 +1411,46 @@
         "2003-03-13"
       ],
       "archivo": "lce/070.md"
+    },
+    {
+      "clave": "070-a",
+      "articulo": 70,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 70-A",
+      "cita": "Artículo 70-A LCE",
+      "titulo": "TITULO VII. PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA",
+      "capitulo": "CAPITULO II. Procedimiento en materia de prácticas desleales de comercio internacional Sección primera Resolución preliminar",
+      "seccion": "",
+      "epigrafe": "Sección cuarta Cuotas compensatorias",
+      "contexto": "PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA · Procedimiento en materia de prácticas desleales de comercio internacional Sección primera Resolución preliminar · Sección cuarta Cuotas compensatorias",
+      "derogado": false,
+      "ultima_reforma": "2003-03-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2003-03-13"
+      ],
+      "archivo": "lce/070-a.md"
+    },
+    {
+      "clave": "070-b",
+      "articulo": 70,
+      "letra": "B",
+      "ordinal": "",
+      "etiqueta": "Artículo 70-B",
+      "cita": "Artículo 70-B LCE",
+      "titulo": "TITULO VII. PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA",
+      "capitulo": "CAPITULO II. Procedimiento en materia de prácticas desleales de comercio internacional Sección primera Resolución preliminar",
+      "seccion": "",
+      "epigrafe": "Sección cuarta Cuotas compensatorias",
+      "contexto": "PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA · Procedimiento en materia de prácticas desleales de comercio internacional Sección primera Resolución preliminar · Sección cuarta Cuotas compensatorias",
+      "derogado": false,
+      "ultima_reforma": "2003-03-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2003-03-13"
+      ],
+      "archivo": "lce/070-b.md"
     },
     {
       "clave": "071",
@@ -1719,13 +1813,131 @@
       "epigrafe": "",
       "contexto": "PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA · Otras disposiciones comunes a los procedimientos",
       "derogado": false,
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "lce/089.md"
+    },
+    {
+      "clave": "089-a",
+      "articulo": 89,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 89-A",
+      "cita": "Artículo 89-A LCE",
+      "titulo": "TITULO VII. PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA",
+      "capitulo": "CAPITULO V. PROCEDIMIENTOS ESPECIALES",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA · PROCEDIMIENTOS ESPECIALES",
+      "derogado": false,
+      "ultima_reforma": "2003-03-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2003-03-13"
+      ],
+      "archivo": "lce/089-a.md"
+    },
+    {
+      "clave": "089-b",
+      "articulo": 89,
+      "letra": "B",
+      "ordinal": "",
+      "etiqueta": "Artículo 89-B",
+      "cita": "Artículo 89-B LCE",
+      "titulo": "TITULO VII. PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA",
+      "capitulo": "CAPITULO V. PROCEDIMIENTOS ESPECIALES",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA · PROCEDIMIENTOS ESPECIALES",
+      "derogado": false,
+      "ultima_reforma": "2003-03-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2003-03-13"
+      ],
+      "archivo": "lce/089-b.md"
+    },
+    {
+      "clave": "089-c",
+      "articulo": 89,
+      "letra": "C",
+      "ordinal": "",
+      "etiqueta": "Artículo 89-C",
+      "cita": "Artículo 89-C LCE",
+      "titulo": "TITULO VII. PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA",
+      "capitulo": "CAPITULO V. PROCEDIMIENTOS ESPECIALES",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA · PROCEDIMIENTOS ESPECIALES",
+      "derogado": false,
+      "ultima_reforma": "2003-03-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2003-03-13"
+      ],
+      "archivo": "lce/089-c.md"
+    },
+    {
+      "clave": "089-d",
+      "articulo": 89,
+      "letra": "D",
+      "ordinal": "",
+      "etiqueta": "Artículo 89-D",
+      "cita": "Artículo 89-D LCE",
+      "titulo": "TITULO VII. PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA",
+      "capitulo": "CAPITULO V. PROCEDIMIENTOS ESPECIALES",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA · PROCEDIMIENTOS ESPECIALES",
+      "derogado": false,
       "ultima_reforma": "2006-12-21",
       "num_reformas": 2,
       "reformas": [
         "2003-03-13",
         "2006-12-21"
       ],
-      "archivo": "lce/089.md"
+      "archivo": "lce/089-d.md"
+    },
+    {
+      "clave": "089-e",
+      "articulo": 89,
+      "letra": "E",
+      "ordinal": "",
+      "etiqueta": "Artículo 89-E",
+      "cita": "Artículo 89-E LCE",
+      "titulo": "TITULO VII. PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA",
+      "capitulo": "CAPITULO V. PROCEDIMIENTOS ESPECIALES",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA · PROCEDIMIENTOS ESPECIALES",
+      "derogado": false,
+      "ultima_reforma": "2003-03-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2003-03-13"
+      ],
+      "archivo": "lce/089-e.md"
+    },
+    {
+      "clave": "089-f",
+      "articulo": 89,
+      "letra": "F",
+      "ordinal": "",
+      "etiqueta": "Artículo 89-F",
+      "cita": "Artículo 89-F LCE",
+      "titulo": "TITULO VII. PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA",
+      "capitulo": "CAPITULO V. PROCEDIMIENTOS ESPECIALES",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA · PROCEDIMIENTOS ESPECIALES",
+      "derogado": false,
+      "ultima_reforma": "2003-03-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2003-03-13"
+      ],
+      "archivo": "lce/089-f.md"
     },
     {
       "clave": "090",

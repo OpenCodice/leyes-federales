@@ -1,0 +1,7 @@
+# Artículo 343 Quáter
+
+En los casos de violencia familiar, violencia familiar equiparada y violencia a través de interpósita persona, el Ministerio Público exhortará a la persona imputada para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima, acordará las medidas preventivas y solicitará las medidas precautorias que considere pertinentes para salvaguardar la integridad física o psíquica de la misma y, solicitará las órdenes de protección que establece la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+La autoridad administrativa vigilará el cumplimiento de estas medidas en términos de lo dispuesto por la legislación aplicable.
+
+_Artículo adicionado DOF 30-12-1997. Reformado DOF 17-01-2024_

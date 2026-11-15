@@ -10,27 +10,17 @@
       "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf",
       "estado": "incluida",
       "version": "2025-11-14",
-      "unidades": 3085,
+      "unidades": 3103,
       "pdf": {
         "sha256": "4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76",
         "bytes": 3415624,
         "etag": "\"341e48-6446ed857fbc0\"",
         "last_modified": "Tue, 25 Nov 2025 17:45:27 GMT"
       },
-      "extractor": "465f8539553a5cc3",
+      "extractor": "228e245502631877",
       "alta": {
         "fecha": "2026-11-15",
         "via": "limpia"
-      },
-      "revision_pendiente": {
-        "fecha": "2026-11-15",
-        "motivo": "1 unidades no reproducen el PDF (ccf/2687)",
-        "pdf": {
-          "sha256": "4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76",
-          "bytes": 3415624,
-          "etag": "\"341e48-6446ed857fbc0\"",
-          "last_modified": "Tue, 25 Nov 2025 17:45:27 GMT"
-        }
       }
     },
     {
@@ -96,7 +86,7 @@
         "etag": "\"17a55b-64b96c637fec0\"",
         "last_modified": "Tue, 24 Feb 2026 19:20:03 GMT"
       },
-      "extractor": "4156e0ab9704ba07"
+      "extractor": "228e245502631877"
     },
     {
       "clave": "cjm",
@@ -334,7 +324,7 @@
         "etag": "\"14bd51-64471f2d06200\"",
         "last_modified": "Tue, 25 Nov 2025 21:27:36 GMT"
       },
-      "extractor": "4156e0ab9704ba07"
+      "extractor": "228e245502631877"
     },
     {
       "clave": "ladua",
@@ -476,7 +466,7 @@
       "parser": "articulado",
       "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf",
       "estado": "excluida",
-      "motivo": "invariantes rotos: [lan] índice == archivos == unidades: 215 md / 216 idx / 216 items (¿colisión de claves?). 1 unidades no reproducen el PDF (lan/029-bis-1)",
+      "motivo": "invariantes rotos: [lan] índice == archivos == unidades: 215 md / 216 idx / 216 items (¿colisión de claves?)",
       "fecha": "2026-11-15",
       "pdf": {
         "sha256": "4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d",
@@ -484,7 +474,7 @@
         "etag": "\"14a322-648c973a3b980\"",
         "last_modified": "Tue, 20 Jan 2026 03:32:06 GMT"
       },
-      "extractor": "4156e0ab9704ba07"
+      "extractor": "228e245502631877"
     },
     {
       "clave": "lansi",
@@ -1140,7 +1130,7 @@
         "etag": "\"4049c-5763e8da4f000\"",
         "last_modified": "Wed, 19 Sep 2018 19:38:40 GMT"
       },
-      "extractor": "4156e0ab9704ba07"
+      "extractor": "228e245502631877"
     },
     {
       "clave": "lmv",

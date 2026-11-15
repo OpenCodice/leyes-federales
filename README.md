@@ -39,7 +39,7 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 
 | Ley | Carpeta | Artículos | Última reforma incorporada | PDF oficial |
 |---|---|---|---|---|
-| Código Civil Federal ⚠️ | [`ccf/`](ccf/) | 3085 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf) |
+| Código Civil Federal | [`ccf/`](ccf/) | 3103 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf) |
 | Código Fiscal de la Federación | [`cff/`](cff/) | 421 | 2026-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf) |
 | Código Militar de Procedimientos Penales | [`cmpp/`](cmpp/) | 452 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf) |
 | Código Nacional de Procedimientos Civiles y Familiares | [`cnpcf/`](cnpcf/) | 1191 | 2026-01-15 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf) |
@@ -103,7 +103,7 @@ cuando cambia su PDF o el extractor.
 |---|---|---|
 | Código Federal de Procedimientos Civiles | 1 unidades no reproducen el PDF (cfpc/068) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf) |
 | Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | invariantes rotos: [lisipl] al menos una unidad: 0 unidades | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf) |
-| Ley de Aguas Nacionales | invariantes rotos: [lan] índice == archivos == unidades: 215 md / 216 idx / 216 items (¿colisión de claves?). 1 unidades no reproducen el PDF (lan/029-bis-1) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf) |
+| Ley de Aguas Nacionales | invariantes rotos: [lan] índice == archivos == unidades: 215 md / 216 idx / 216 items (¿colisión de claves?) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf) |
 | Ley de Ahorro y Crédito Popular | invariantes rotos: [lacp] índice == archivos == unidades: 232 md / 234 idx / 234 items (¿colisión de claves?) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf) |
 
 <!-- EXCLUIDAS:FIN -->

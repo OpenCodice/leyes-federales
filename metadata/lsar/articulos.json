@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf",
   "version": "2025-11-14",
-  "num_articulos": 145,
+  "num_articulos": 148,
   "articulos": [
     {
       "clave": "001",
@@ -772,6 +772,26 @@
       "archivo": "lsar/037.md"
     },
     {
+      "clave": "037-a",
+      "articulo": 37,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 37-A",
+      "cita": "Artículo 37-A LSAR",
+      "titulo": "",
+      "capitulo": "CAPITULO III. De los Participantes en los Sistemas de Ahorro para el Retiro",
+      "seccion": "Sección I. De las Administradoras de Fondos para el Retiro",
+      "epigrafe": "",
+      "contexto": "De los Participantes en los Sistemas de Ahorro para el Retiro · De las Administradoras de Fondos para el Retiro",
+      "derogado": false,
+      "ultima_reforma": "2009-01-21",
+      "num_reformas": 1,
+      "reformas": [
+        "2009-01-21"
+      ],
+      "archivo": "lsar/037-a.md"
+    },
+    {
       "clave": "037-b",
       "articulo": 37,
       "letra": "B",
@@ -790,6 +810,26 @@
         "2009-01-21"
       ],
       "archivo": "lsar/037-b.md"
+    },
+    {
+      "clave": "037-c",
+      "articulo": 37,
+      "letra": "C",
+      "ordinal": "",
+      "etiqueta": "Artículo 37-C",
+      "cita": "Artículo 37-C LSAR",
+      "titulo": "",
+      "capitulo": "CAPITULO III. De los Participantes en los Sistemas de Ahorro para el Retiro",
+      "seccion": "Sección I. De las Administradoras de Fondos para el Retiro",
+      "epigrafe": "",
+      "contexto": "De los Participantes en los Sistemas de Ahorro para el Retiro · De las Administradoras de Fondos para el Retiro",
+      "derogado": false,
+      "ultima_reforma": "2009-01-21",
+      "num_reformas": 1,
+      "reformas": [
+        "2009-01-21"
+      ],
+      "archivo": "lsar/037-c.md"
     },
     {
       "clave": "038",
@@ -2237,13 +2277,32 @@
       "epigrafe": "",
       "contexto": "De las Sanciones Administrativas",
       "derogado": false,
-      "ultima_reforma": "2009-01-21",
-      "num_reformas": 2,
+      "ultima_reforma": "2005-01-11",
+      "num_reformas": 1,
       "reformas": [
-        "2005-01-11",
-        "2009-01-21"
+        "2005-01-11"
       ],
       "archivo": "lsar/100-a.md"
+    },
+    {
+      "clave": "100-b",
+      "articulo": 100,
+      "letra": "B",
+      "ordinal": "",
+      "etiqueta": "Artículo 100-B",
+      "cita": "Artículo 100-B LSAR",
+      "titulo": "",
+      "capitulo": "CAPITULO VI. De las Sanciones Administrativas",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De las Sanciones Administrativas",
+      "derogado": false,
+      "ultima_reforma": "2009-01-21",
+      "num_reformas": 1,
+      "reformas": [
+        "2009-01-21"
+      ],
+      "archivo": "lsar/100-b.md"
     },
     {
       "clave": "100-bis",

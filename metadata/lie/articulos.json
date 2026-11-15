@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf",
   "version": "2024-05-27",
-  "num_articulos": 39,
+  "num_articulos": 42,
   "articulos": [
     {
       "clave": "001",
@@ -218,6 +218,26 @@
       "archivo": "lie/010.md"
     },
     {
+      "clave": "010-a",
+      "articulo": 10,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 10-A",
+      "cita": "Artículo 10-A LIE",
+      "titulo": "TÍTULO SEGUNDO. DE LA ADQUISICIÓN DE BIENES INMUEBLES, LA EXPLOTACIÓN DE MINAS Y AGUAS, Y DE LOS FIDEICOMISOS",
+      "capitulo": "Capítulo I. De la adquisición de bienes inmuebles y explotación de minas y aguas",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "DE LA ADQUISICIÓN DE BIENES INMUEBLES, LA EXPLOTACIÓN DE MINAS Y AGUAS, Y DE LOS FIDEICOMISOS · De la adquisición de bienes inmuebles y explotación de minas y aguas",
+      "derogado": false,
+      "ultima_reforma": "1996-12-24",
+      "num_reformas": 1,
+      "reformas": [
+        "1996-12-24"
+      ],
+      "archivo": "lie/010-a.md"
+    },
+    {
       "clave": "011",
       "articulo": 11,
       "letra": "",
@@ -335,6 +355,27 @@
       "archivo": "lie/016.md"
     },
     {
+      "clave": "016-a",
+      "articulo": 16,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 16-A",
+      "cita": "Artículo 16-A LIE",
+      "titulo": "TITULO TERCERO. DE LAS SOCIEDADES De la Constitución y Modificación de Sociedades",
+      "capitulo": "",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "DE LAS SOCIEDADES De la Constitución y Modificación de Sociedades",
+      "derogado": false,
+      "ultima_reforma": "2011-12-15",
+      "num_reformas": 2,
+      "reformas": [
+        "1996-12-24",
+        "2011-12-15"
+      ],
+      "archivo": "lie/016-a.md"
+    },
+    {
       "clave": "017",
       "articulo": 17,
       "letra": "",
@@ -353,6 +394,26 @@
         "1996-12-24"
       ],
       "archivo": "lie/017.md"
+    },
+    {
+      "clave": "017-a",
+      "articulo": 17,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 17-A",
+      "cita": "Artículo 17-A LIE",
+      "titulo": "TITULO CUARTO. DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS",
+      "capitulo": "",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS",
+      "derogado": false,
+      "ultima_reforma": "1996-12-24",
+      "num_reformas": 1,
+      "reformas": [
+        "1996-12-24"
+      ],
+      "archivo": "lie/017-a.md"
     },
     {
       "clave": "018",

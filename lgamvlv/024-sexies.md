@@ -1,0 +1,7 @@
+# Artículo 24 Sexies
+
+En los casos donde la Secretaría de las Mujeres identifique y documente alguna circunstancia de procedencia de la Alerta de Violencia de Género contra las mujeres, se podrá emitir sin que se requiera la conformación del Grupo Interinstitucional y Multidisciplinario.
+
+En aquellos casos, donde el Grupo Interinstitucional y Multidisciplinario no culmine el Informe de conclusiones en el periodo establecido, la Secretaría de las Mujeres realizará el informe correspondiente y, en su caso, podrá emitir la Alerta de Violencia de Género contra las mujeres.
+
+_Artículo adicionado DOF 29-04-2022. Reformado DOF 15-01-2026_

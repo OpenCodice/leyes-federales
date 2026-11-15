@@ -1,0 +1,5 @@
+# Artículo 97 Quater
+
+Si durante el procedimiento de verificación se detecta alguno de los supuestos previstos en el artículo 25 BIS de esta ley, se aplicarán, en su caso, las medidas precautorias que correspondan, asentándose dicha circunstancia en el acta respectiva. Lo anterior, sin perjuicio de iniciar el procedimiento previsto por el artículo 123 de esta ley.
+
+_Artículo adicionado DOF 04-02-2004_

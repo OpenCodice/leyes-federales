@@ -1,0 +1,9 @@
+# Artículo 128 Quater
+
+Se sancionará con la prohibición de comercialización de bienes o productos, cuando habiendo sido suspendida ésta, se determine que no es posible su acondicionamiento, reproceso, reparación o sustitución, o bien cuando su comercialización no pueda realizarse conforme a las disposiciones de esta ley.
+
+En el caso de lo dispuesto en el párrafo anterior, la Procuraduría podrá ordenar la destrucción de los bienes o productos que correspondan.
+
+Tratándose de servicios, la prohibición de comercialización procederá cuando habiendo sido suspendida, no se garantice que su prestación pueda realizarse conforme a las disposiciones de esta ley.
+
+_Artículo adicionado DOF 04-02-2004_

@@ -1,0 +1,5 @@
+# Artículo 71 Octies
+
+La Secretaría de Salud, en coordinación con las instituciones del sector público, social y privado, promoverá el desarrollo, la investigación y la adopción de tecnologías emergentes en salud digital.
+
+_Artículo adicionado DOF 15-01-2026_

@@ -1,0 +1,5 @@
+# Artículo 71 Sexies
+
+La telesalud se refiere al uso de tecnologías de la información para ofrecer servicios de salud a distancia centrados en la persona, lo cual puede incluir, entre otros, orientación médica, atención médica, educación en salud o investigación para la salud.
+
+_Artículo adicionado DOF 15-01-2026_

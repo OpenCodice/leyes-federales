@@ -1,0 +1,5 @@
+# Artículo 60 Quinquies
+
+Los integrantes del Sistema Nacional de Salud podrán suscribir los instrumentos jurídicos que permitan reconocer la competencia, procedimientos y determinaciones emitidas por la Comisión Nacional de Arbitraje Médico.
+
+_Artículo adicionado DOF 15-01-2026_

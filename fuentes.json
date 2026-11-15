@@ -2692,6 +2692,29 @@
       }
     },
     {
+      "clave": "lgaas",
+      "etiqueta": "Ley General de la Alimentación Adecuada y Sostenible",
+      "sigla": "LGAAS",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf",
+      "estado": "incluida",
+      "version": "2024-04-17",
+      "unidades": 111,
+      "pdf": {
+        "sha256": "56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410",
+        "bytes": 602986,
+        "etag": "\"9336a-6185d9b8d0740\"",
+        "last_modified": "Mon, 13 May 2024 22:43:01 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lgag",
       "etiqueta": "Ley General de Aguas",
       "sigla": "LGAg",
@@ -2830,6 +2853,29 @@
       }
     },
     {
+      "clave": "lgcdc",
+      "etiqueta": "Ley General de Cultura y Derechos Culturales",
+      "sigla": "LGCDC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCDC.pdf",
+      "estado": "incluida",
+      "version": "2026-01-15",
+      "unidades": 42,
+      "pdf": {
+        "sha256": "3ed6ba180b725dbd80971ee60ac0e365a9df437b1ae45639ad0f040653497d1d",
+        "bytes": 404438,
+        "etag": "\"62bd6-64a1ddd34dc80\"",
+        "last_modified": "Fri, 06 Feb 2026 01:39:46 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lgcfd",
       "etiqueta": "Ley General de Cultura Física y Deporte",
       "sigla": "LGCFD",
@@ -2900,6 +2946,98 @@
       }
     },
     {
+      "clave": "lgct",
+      "etiqueta": "Ley General para el Control del Tabaco",
+      "sigla": "LGCT",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf",
+      "estado": "incluida",
+      "version": "2022-02-17",
+      "unidades": 57,
+      "pdf": {
+        "sha256": "9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e",
+        "bytes": 533796,
+        "etag": "\"82524-5d92c81fa3480\"",
+        "last_modified": "Tue, 01 Mar 2022 18:41:06 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgdfs",
+      "etiqueta": "Ley General de Desarrollo Forestal Sustentable",
+      "sigla": "LGDFS",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 173,
+      "pdf": {
+        "sha256": "2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4",
+        "bytes": 890449,
+        "etag": "\"d9651-61707d95992c0\"",
+        "last_modified": "Fri, 26 Apr 2024 22:58:59 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgdlpi",
+      "etiqueta": "Ley General de Derechos Lingüísticos de los Pueblos Indígenas",
+      "sigla": "LGDLPI",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf",
+      "estado": "incluida",
+      "version": "2023-10-18",
+      "unidades": 25,
+      "pdf": {
+        "sha256": "c089e774b400c1922811859a6b867c7593120cbe61b4ba4f745321cf26e8b41d",
+        "bytes": 499518,
+        "etag": "\"79f3e-6081aaecb60c0\"",
+        "last_modified": "Fri, 20 Oct 2023 00:09:15 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgdnna",
+      "etiqueta": "Ley General de los Derechos de Niñas, Niños y Adolescentes",
+      "sigla": "LGDNNA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf",
+      "estado": "incluida",
+      "version": "2026-01-15",
+      "unidades": 181,
+      "pdf": {
+        "sha256": "475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822",
+        "bytes": 1035777,
+        "etag": "\"fce01-6498c95382e00\"",
+        "last_modified": "Thu, 29 Jan 2026 20:20:08 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lgdp",
       "etiqueta": "Ley Federal de Deuda Pública",
       "sigla": "LGDP",
@@ -2914,6 +3052,75 @@
         "bytes": 480190,
         "etag": "\"753be-576b521d02300\"",
         "last_modified": "Tue, 25 Sep 2018 17:06:52 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgds",
+      "etiqueta": "Ley General de Desarrollo Social",
+      "sigla": "LGDS",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf",
+      "estado": "incluida",
+      "version": "2026-01-15",
+      "unidades": 87,
+      "pdf": {
+        "sha256": "32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275",
+        "bytes": 483882,
+        "etag": "\"7622a-649507789e100\"",
+        "last_modified": "Mon, 26 Jan 2026 20:36:52 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lge",
+      "etiqueta": "Ley General de Educación",
+      "sigla": "LGE",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf",
+      "estado": "incluida",
+      "version": "2026-01-15",
+      "unidades": 183,
+      "pdf": {
+        "sha256": "75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9",
+        "bytes": 1059443,
+        "etag": "\"102a73-6495137496740\"",
+        "last_modified": "Mon, 26 Jan 2026 21:30:29 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgec",
+      "etiqueta": "Ley General de Economía Circular",
+      "sigla": "LGEC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEC.pdf",
+      "estado": "incluida",
+      "version": "2026-01-19",
+      "unidades": 49,
+      "pdf": {
+        "sha256": "89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754",
+        "bytes": 421913,
+        "etag": "\"67019-648eb5dc57500\"",
+        "last_modified": "Wed, 21 Jan 2026 19:59:48 GMT"
       },
       "extractor": "817e43250c609f69",
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
@@ -2969,6 +3176,190 @@
       }
     },
     {
+      "clave": "lges",
+      "etiqueta": "Ley General de Educación Superior",
+      "sigla": "LGES",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf",
+      "estado": "incluida",
+      "version": "2021-04-20",
+      "unidades": 77,
+      "pdf": {
+        "sha256": "eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12",
+        "bytes": 445712,
+        "etag": "\"6cd10-5c06a20635380\"",
+        "last_modified": "Tue, 20 Apr 2021 16:42:06 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgfacr",
+      "etiqueta": "Ley General para el Fortalecimiento y Armonización Catastral y Registral",
+      "sigla": "LGFACR",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGFACR.pdf",
+      "estado": "incluida",
+      "version": "2026-10-23",
+      "unidades": 45,
+      "pdf": {
+        "sha256": "782ee47c5341d70f7c07ca48480c1538b5f363eefaaa2326d88a67cb01c9bbaf",
+        "bytes": 244937,
+        "etag": "\"3bcc9-6603060faa680\"",
+        "last_modified": "Fri, 13 Nov 2026 22:59:22 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgmasc",
+      "etiqueta": "Ley General de Mecanismos Alternativos de Solución de Controversias",
+      "sigla": "LGMASC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf",
+      "estado": "incluida",
+      "version": "2024-01-26",
+      "unidades": 144,
+      "pdf": {
+        "sha256": "d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a",
+        "bytes": 574435,
+        "etag": "\"8c3e3-610475e88a5c0\"",
+        "last_modified": "Thu, 01 Feb 2024 00:49:35 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgmde",
+      "etiqueta": "Ley General en Materia de Delitos Electorales",
+      "sigla": "LGMDE",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE_200521.pdf",
+      "estado": "incluida",
+      "version": "2021-05-20",
+      "unidades": 29,
+      "pdf": {
+        "sha256": "9e8c5600d8747b4b1db2f9591ba40210d444040cb46fd1ad7732b6bd0e0ad56b",
+        "bytes": 413922,
+        "etag": "\"650e2-5c4c11533c5c0\"",
+        "last_modified": "Mon, 14 Jun 2021 22:07:27 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgmdfp",
+      "etiqueta": "Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
+      "sigla": "LGMDFP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf",
+      "estado": "incluida",
+      "version": "2025-07-16",
+      "unidades": 189,
+      "pdf": {
+        "sha256": "ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03",
+        "bytes": 891501,
+        "etag": "\"d9a6d-63d72cfe94000\"",
+        "last_modified": "Thu, 28 Aug 2025 20:33:04 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgmhcti",
+      "etiqueta": "Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "sigla": "LGMHCTI",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf",
+      "estado": "incluida",
+      "version": "2023-05-08",
+      "unidades": 100,
+      "pdf": {
+        "sha256": "5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847",
+        "bytes": 660681,
+        "etag": "\"a14c9-6004d096ec4c0\"",
+        "last_modified": "Wed, 12 Jul 2023 16:52:11 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgmime",
+      "etiqueta": "Ley General de los Medios de Impugnación en Materia Electoral",
+      "sigla": "LGMIME",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMIME.pdf",
+      "estado": "incluida",
+      "version": "2023-03-02",
+      "unidades": 70,
+      "pdf": {
+        "sha256": "94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143",
+        "bytes": 650032,
+        "etag": "\"9eb30-610449ea99b80\"",
+        "last_modified": "Wed, 31 Jan 2024 21:32:46 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgmsv",
+      "etiqueta": "Ley General de Movilidad y Seguridad Vial",
+      "sigla": "LGMSV",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMSV.pdf",
+      "estado": "incluida",
+      "version": "2023-12-29",
+      "unidades": 82,
+      "pdf": {
+        "sha256": "79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03",
+        "bytes": 639876,
+        "etag": "\"9c384-60f414aa6cc00\"",
+        "last_modified": "Fri, 19 Jan 2024 00:09:20 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lgn",
       "etiqueta": "Ley de la Guardia Nacional",
       "sigla": "LGN",
@@ -2992,6 +3383,190 @@
       }
     },
     {
+      "clave": "lgoaac",
+      "etiqueta": "Ley General de Organizaciones y Actividades Auxiliares del Crédito",
+      "sigla": "LGOAAC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 263,
+      "pdf": {
+        "sha256": "54747e6ec98327430ccf77b2acc5ba3033ef64f42d8d7f1fdee957755070f683",
+        "bytes": 1467304,
+        "etag": "\"1663a8-64502ebd32b40\"",
+        "last_modified": "Wed, 03 Dec 2025 02:25:09 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgp",
+      "etiqueta": "Ley General de Población",
+      "sigla": "LGP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGP.pdf",
+      "estado": "incluida",
+      "version": "2025-07-16",
+      "unidades": 165,
+      "pdf": {
+        "sha256": "15e8cb5ca11592f331fca6a94784cce3dd58837397857f2d764476768d0ca780",
+        "bytes": 518000,
+        "etag": "\"7e770-63a785bafd340\"",
+        "last_modified": "Mon, 21 Jul 2025 22:54:29 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgpas",
+      "etiqueta": "Ley General de Pesca y Acuacultura Sustentables",
+      "sigla": "LGPAS",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 167,
+      "pdf": {
+        "sha256": "160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf",
+        "bytes": 862543,
+        "etag": "\"d294f-618216ca4f000\"",
+        "last_modified": "Fri, 10 May 2024 22:54:56 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgpc",
+      "etiqueta": "Ley General de Protección Civil",
+      "sigla": "LGPC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf",
+      "estado": "incluida",
+      "version": "2023-12-21",
+      "unidades": 94,
+      "pdf": {
+        "sha256": "d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a",
+        "bytes": 626875,
+        "etag": "\"990bb-60f19920a1fc0\"",
+        "last_modified": "Wed, 17 Jan 2024 00:45:59 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgpdppso",
+      "etiqueta": "Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados",
+      "sigla": "LGPDPPSO",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 137,
+      "pdf": {
+        "sha256": "a184d451e59d0c5663e14a41c8211d6f5309b15f82d0a6a2e45ed599c44364b9",
+        "bytes": 556192,
+        "etag": "\"87ca0-645032b5d09c0\"",
+        "last_modified": "Wed, 03 Dec 2025 02:42:55 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgpp",
+      "etiqueta": "Ley General de Partidos Políticos",
+      "sigla": "LGPP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP.pdf",
+      "estado": "incluida",
+      "version": "2023-03-02",
+      "unidades": 97,
+      "pdf": {
+        "sha256": "9163f0826f44c965b6d478e69c2bf0deb8795108104c3d7dddf6d11e511199b3",
+        "bytes": 1178847,
+        "etag": "\"11fcdf-61042cb4d7140\"",
+        "last_modified": "Wed, 31 Jan 2024 19:22:05 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgpsacdii",
+      "etiqueta": "Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil",
+      "sigla": "LGPSACDII",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 76,
+      "pdf": {
+        "sha256": "14211e8d7abeed99e98e02fc5caad48904c1cce2a5b90fae2e4add5c65c58854",
+        "bytes": 486457,
+        "etag": "\"76c39-6182109f06200\"",
+        "last_modified": "Fri, 10 May 2024 22:27:20 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgra",
+      "etiqueta": "Ley General de Responsabilidades Administrativas",
+      "sigla": "LGRA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf",
+      "estado": "incluida",
+      "version": "2025-12-15",
+      "unidades": 235,
+      "pdf": {
+        "sha256": "1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8",
+        "bytes": 972618,
+        "etag": "\"ed74a-648364c9c27c0\"",
+        "last_modified": "Mon, 12 Jan 2026 19:58:31 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lgs",
       "etiqueta": "Ley General de Salud",
       "sigla": "LGS",
@@ -3006,6 +3581,259 @@
         "bytes": 3286114,
         "etag": "\"322462-64b34298182c0\"",
         "last_modified": "Thu, 19 Feb 2026 21:41:07 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgsc",
+      "etiqueta": "Ley General de Sociedades Cooperativas",
+      "sigla": "LGSC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf",
+      "estado": "incluida",
+      "version": "2025-04-16",
+      "unidades": 123,
+      "pdf": {
+        "sha256": "7bed7f706ac5003e5089abf84b9134fa97495a1d6c9570c0841e418d48d7565f",
+        "bytes": 643242,
+        "etag": "\"9d0aa-634f5cbacdf40\"",
+        "last_modified": "Mon, 12 May 2025 20:02:29 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgscmm",
+      "etiqueta": "Ley General del Sistema para la Carrera de las Maestras y los Maestros",
+      "sigla": "LGSCMM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf",
+      "estado": "incluida",
+      "version": "2019-09-30",
+      "unidades": 107,
+      "pdf": {
+        "sha256": "40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87",
+        "bytes": 445583,
+        "etag": "\"6cc8f-593dae2df6c80\"",
+        "last_modified": "Tue, 01 Oct 2019 15:20:02 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgsm",
+      "etiqueta": "Ley General de Sociedades Mercantiles",
+      "sigla": "LGSM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf",
+      "estado": "incluida",
+      "version": "2023-10-20",
+      "unidades": 277,
+      "pdf": {
+        "sha256": "72b051296792cad896ac90e814ff8949e4ac140bf5ca5cc08f2f03e5e95aeac3",
+        "bytes": 835947,
+        "etag": "\"cc16b-6485caf63ac40\"",
+        "last_modified": "Wed, 14 Jan 2026 17:46:17 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgsmime",
+      "etiqueta": "Ley General del Sistema de Medios de Impugnación en Materia Electoral",
+      "sigla": "LGSMIME",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 118,
+      "pdf": {
+        "sha256": "fd6621adcf78becb507ef18cdf04d7ea043bf4e55a4f2c31833389c797898fc9",
+        "bytes": 1092616,
+        "etag": "\"10ac08-6451c5b188b80\"",
+        "last_modified": "Thu, 04 Dec 2025 08:45:50 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgsna",
+      "etiqueta": "Ley General del Sistema Nacional Anticorrupción",
+      "sigla": "LGSNA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf",
+      "estado": "incluida",
+      "version": "2021-05-20",
+      "unidades": 60,
+      "pdf": {
+        "sha256": "5edf7b5ad4dd65a9c97c02ec51f13499aa7ab5025f02ad6e9be3c948ff3cf185",
+        "bytes": 354577,
+        "etag": "\"56911-5c3be5cc266c0\"",
+        "last_modified": "Wed, 02 Jun 2021 01:27:31 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgsnsp",
+      "etiqueta": "Ley General del Sistema Nacional de Seguridad Pública",
+      "sigla": "LGSNSP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf",
+      "estado": "incluida",
+      "version": "2025-07-16",
+      "unidades": 147,
+      "pdf": {
+        "sha256": "7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0",
+        "bytes": 524259,
+        "etag": "\"7ffe3-63a3c15b69540\"",
+        "last_modified": "Fri, 18 Jul 2025 22:59:57 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgt",
+      "etiqueta": "Ley General de Turismo",
+      "sigla": "LGT",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 73,
+      "pdf": {
+        "sha256": "266023204bad762583d7837b0359d869c41704fcaff52b9da6bb67071cee0ef3",
+        "bytes": 693288,
+        "etag": "\"a9428-6450ed626f540\"",
+        "last_modified": "Wed, 03 Dec 2025 16:38:05 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgtaip",
+      "etiqueta": "Ley General de Transparencia y Acceso a la Información Pública",
+      "sigla": "LGTAIP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf",
+      "estado": "incluida",
+      "version": "2025-03-20",
+      "unidades": 216,
+      "pdf": {
+        "sha256": "e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b",
+        "bytes": 749599,
+        "etag": "\"b701f-6311aa1d0f280\"",
+        "last_modified": "Mon, 24 Mar 2025 18:18:34 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgtoc",
+      "etiqueta": "Ley General de Títulos y Operaciones de Crédito",
+      "sigla": "LGTOC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf",
+      "estado": "incluida",
+      "version": "2024-03-26",
+      "unidades": 440,
+      "pdf": {
+        "sha256": "cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361",
+        "bytes": 1205962,
+        "etag": "\"1266ca-616dc95bbe840\"",
+        "last_modified": "Wed, 24 Apr 2024 19:22:01 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgv",
+      "etiqueta": "Ley General de Víctimas",
+      "sigla": "LGV",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 202,
+      "pdf": {
+        "sha256": "a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8",
+        "bytes": 1008048,
+        "etag": "\"f61b0-6181f302444c0\"",
+        "last_modified": "Fri, 10 May 2024 20:14:51 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgvs",
+      "etiqueta": "Ley General de Vida Silvestre",
+      "sigla": "LGVS",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGVS.pdf",
+      "estado": "incluida",
+      "version": "2025-07-16",
+      "unidades": 143,
+      "pdf": {
+        "sha256": "b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911",
+        "bytes": 772548,
+        "etag": "\"bc9c4-63a8ef85ee6c0\"",
+        "last_modified": "Wed, 23 Jul 2025 01:53:07 GMT"
       },
       "extractor": "817e43250c609f69",
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
@@ -3350,6 +4178,29 @@
         "bytes": 614236,
         "etag": "\"95f5c-64862a22b3740\"",
         "last_modified": "Thu, 15 Jan 2026 00:52:05 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lisipl",
+      "etiqueta": "Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos)",
+      "sigla": "LISIPL",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf",
+      "estado": "incluida",
+      "version": "1968-12-31",
+      "unidades": 7,
+      "pdf": {
+        "sha256": "432feb3abb31b584418b275a1e4d42015eb7a4f4a440d09d938a7d74a9c13113",
+        "bytes": 263324,
+        "etag": "\"4049c-5763e8da4f000\"",
+        "last_modified": "Wed, 19 Sep 2018 19:38:40 GMT"
       },
       "extractor": "817e43250c609f69",
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",

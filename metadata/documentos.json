@@ -929,6 +929,14 @@
       "version": "2025-11-14"
     },
     {
+      "clave": "lgaas",
+      "etiqueta": "Ley General de la Alimentación Adecuada y Sostenible",
+      "sigla": "LGAAS",
+      "tipo": "ley",
+      "num_articulos": 111,
+      "version": "2024-04-17"
+    },
+    {
       "clave": "lgag",
       "etiqueta": "Ley General de Aguas",
       "sigla": "LGAg",
@@ -977,6 +985,14 @@
       "version": "2024-04-01"
     },
     {
+      "clave": "lgcdc",
+      "etiqueta": "Ley General de Cultura y Derechos Culturales",
+      "sigla": "LGCDC",
+      "tipo": "ley",
+      "num_articulos": 42,
+      "version": "2026-01-15"
+    },
+    {
       "clave": "lgcfd",
       "etiqueta": "Ley General de Cultura Física y Deporte",
       "sigla": "LGCFD",
@@ -1001,12 +1017,68 @@
       "version": "2024-04-01"
     },
     {
+      "clave": "lgct",
+      "etiqueta": "Ley General para el Control del Tabaco",
+      "sigla": "LGCT",
+      "tipo": "ley",
+      "num_articulos": 57,
+      "version": "2022-02-17"
+    },
+    {
+      "clave": "lgdfs",
+      "etiqueta": "Ley General de Desarrollo Forestal Sustentable",
+      "sigla": "LGDFS",
+      "tipo": "ley",
+      "num_articulos": 173,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lgdlpi",
+      "etiqueta": "Ley General de Derechos Lingüísticos de los Pueblos Indígenas",
+      "sigla": "LGDLPI",
+      "tipo": "ley",
+      "num_articulos": 25,
+      "version": "2023-10-18"
+    },
+    {
+      "clave": "lgdnna",
+      "etiqueta": "Ley General de los Derechos de Niñas, Niños y Adolescentes",
+      "sigla": "LGDNNA",
+      "tipo": "ley",
+      "num_articulos": 181,
+      "version": "2026-01-15"
+    },
+    {
       "clave": "lgdp",
       "etiqueta": "Ley Federal de Deuda Pública",
       "sigla": "LGDP",
       "tipo": "ley",
       "num_articulos": 32,
       "version": "2018-01-30"
+    },
+    {
+      "clave": "lgds",
+      "etiqueta": "Ley General de Desarrollo Social",
+      "sigla": "LGDS",
+      "tipo": "ley",
+      "num_articulos": 87,
+      "version": "2026-01-15"
+    },
+    {
+      "clave": "lge",
+      "etiqueta": "Ley General de Educación",
+      "sigla": "LGE",
+      "tipo": "ley",
+      "num_articulos": 183,
+      "version": "2026-01-15"
+    },
+    {
+      "clave": "lgec",
+      "etiqueta": "Ley General de Economía Circular",
+      "sigla": "LGEC",
+      "tipo": "ley",
+      "num_articulos": 49,
+      "version": "2026-01-19"
     },
     {
       "clave": "lgeepa",
@@ -1025,6 +1097,70 @@
       "version": "2025-03-18"
     },
     {
+      "clave": "lges",
+      "etiqueta": "Ley General de Educación Superior",
+      "sigla": "LGES",
+      "tipo": "ley",
+      "num_articulos": 77,
+      "version": "2021-04-20"
+    },
+    {
+      "clave": "lgfacr",
+      "etiqueta": "Ley General para el Fortalecimiento y Armonización Catastral y Registral",
+      "sigla": "LGFACR",
+      "tipo": "ley",
+      "num_articulos": 45,
+      "version": "2026-10-23"
+    },
+    {
+      "clave": "lgmasc",
+      "etiqueta": "Ley General de Mecanismos Alternativos de Solución de Controversias",
+      "sigla": "LGMASC",
+      "tipo": "ley",
+      "num_articulos": 144,
+      "version": "2024-01-26"
+    },
+    {
+      "clave": "lgmde",
+      "etiqueta": "Ley General en Materia de Delitos Electorales",
+      "sigla": "LGMDE",
+      "tipo": "ley",
+      "num_articulos": 29,
+      "version": "2021-05-20"
+    },
+    {
+      "clave": "lgmdfp",
+      "etiqueta": "Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
+      "sigla": "LGMDFP",
+      "tipo": "ley",
+      "num_articulos": 189,
+      "version": "2025-07-16"
+    },
+    {
+      "clave": "lgmhcti",
+      "etiqueta": "Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "sigla": "LGMHCTI",
+      "tipo": "ley",
+      "num_articulos": 100,
+      "version": "2023-05-08"
+    },
+    {
+      "clave": "lgmime",
+      "etiqueta": "Ley General de los Medios de Impugnación en Materia Electoral",
+      "sigla": "LGMIME",
+      "tipo": "ley",
+      "num_articulos": 70,
+      "version": "2023-03-02"
+    },
+    {
+      "clave": "lgmsv",
+      "etiqueta": "Ley General de Movilidad y Seguridad Vial",
+      "sigla": "LGMSV",
+      "tipo": "ley",
+      "num_articulos": 82,
+      "version": "2023-12-29"
+    },
+    {
       "clave": "lgn",
       "etiqueta": "Ley de la Guardia Nacional",
       "sigla": "LGN",
@@ -1033,12 +1169,164 @@
       "version": "2025-07-16"
     },
     {
+      "clave": "lgoaac",
+      "etiqueta": "Ley General de Organizaciones y Actividades Auxiliares del Crédito",
+      "sigla": "LGOAAC",
+      "tipo": "ley",
+      "num_articulos": 263,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lgp",
+      "etiqueta": "Ley General de Población",
+      "sigla": "LGP",
+      "tipo": "ley",
+      "num_articulos": 165,
+      "version": "2025-07-16"
+    },
+    {
+      "clave": "lgpas",
+      "etiqueta": "Ley General de Pesca y Acuacultura Sustentables",
+      "sigla": "LGPAS",
+      "tipo": "ley",
+      "num_articulos": 167,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lgpc",
+      "etiqueta": "Ley General de Protección Civil",
+      "sigla": "LGPC",
+      "tipo": "ley",
+      "num_articulos": 94,
+      "version": "2023-12-21"
+    },
+    {
+      "clave": "lgpdppso",
+      "etiqueta": "Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados",
+      "sigla": "LGPDPPSO",
+      "tipo": "ley",
+      "num_articulos": 137,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lgpp",
+      "etiqueta": "Ley General de Partidos Políticos",
+      "sigla": "LGPP",
+      "tipo": "ley",
+      "num_articulos": 97,
+      "version": "2023-03-02"
+    },
+    {
+      "clave": "lgpsacdii",
+      "etiqueta": "Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil",
+      "sigla": "LGPSACDII",
+      "tipo": "ley",
+      "num_articulos": 76,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lgra",
+      "etiqueta": "Ley General de Responsabilidades Administrativas",
+      "sigla": "LGRA",
+      "tipo": "ley",
+      "num_articulos": 235,
+      "version": "2025-12-15"
+    },
+    {
       "clave": "lgs",
       "etiqueta": "Ley General de Salud",
       "sigla": "LGS",
       "tipo": "ley",
       "num_articulos": 732,
       "version": "2026-01-15"
+    },
+    {
+      "clave": "lgsc",
+      "etiqueta": "Ley General de Sociedades Cooperativas",
+      "sigla": "LGSC",
+      "tipo": "ley",
+      "num_articulos": 123,
+      "version": "2025-04-16"
+    },
+    {
+      "clave": "lgscmm",
+      "etiqueta": "Ley General del Sistema para la Carrera de las Maestras y los Maestros",
+      "sigla": "LGSCMM",
+      "tipo": "ley",
+      "num_articulos": 107,
+      "version": "2019-09-30"
+    },
+    {
+      "clave": "lgsm",
+      "etiqueta": "Ley General de Sociedades Mercantiles",
+      "sigla": "LGSM",
+      "tipo": "ley",
+      "num_articulos": 277,
+      "version": "2023-10-20"
+    },
+    {
+      "clave": "lgsmime",
+      "etiqueta": "Ley General del Sistema de Medios de Impugnación en Materia Electoral",
+      "sigla": "LGSMIME",
+      "tipo": "ley",
+      "num_articulos": 118,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lgsna",
+      "etiqueta": "Ley General del Sistema Nacional Anticorrupción",
+      "sigla": "LGSNA",
+      "tipo": "ley",
+      "num_articulos": 60,
+      "version": "2021-05-20"
+    },
+    {
+      "clave": "lgsnsp",
+      "etiqueta": "Ley General del Sistema Nacional de Seguridad Pública",
+      "sigla": "LGSNSP",
+      "tipo": "ley",
+      "num_articulos": 147,
+      "version": "2025-07-16"
+    },
+    {
+      "clave": "lgt",
+      "etiqueta": "Ley General de Turismo",
+      "sigla": "LGT",
+      "tipo": "ley",
+      "num_articulos": 73,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lgtaip",
+      "etiqueta": "Ley General de Transparencia y Acceso a la Información Pública",
+      "sigla": "LGTAIP",
+      "tipo": "ley",
+      "num_articulos": 216,
+      "version": "2025-03-20"
+    },
+    {
+      "clave": "lgtoc",
+      "etiqueta": "Ley General de Títulos y Operaciones de Crédito",
+      "sigla": "LGTOC",
+      "tipo": "ley",
+      "num_articulos": 440,
+      "version": "2024-03-26"
+    },
+    {
+      "clave": "lgv",
+      "etiqueta": "Ley General de Víctimas",
+      "sigla": "LGV",
+      "tipo": "ley",
+      "num_articulos": 202,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lgvs",
+      "etiqueta": "Ley General de Vida Silvestre",
+      "sigla": "LGVS",
+      "tipo": "ley",
+      "num_articulos": 143,
+      "version": "2025-07-16"
     },
     {
       "clave": "lhheum",
@@ -1151,6 +1439,14 @@
       "tipo": "ley",
       "num_articulos": 64,
       "version": "2025-03-18"
+    },
+    {
+      "clave": "lisipl",
+      "etiqueta": "Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos)",
+      "sigla": "LISIPL",
+      "tipo": "ley",
+      "num_articulos": 7,
+      "version": "1968-12-31"
     },
     {
       "clave": "lisr",

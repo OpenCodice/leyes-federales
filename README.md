@@ -39,7 +39,7 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 
 | Ley | Carpeta | Artículos | Última reforma incorporada | PDF oficial |
 |---|---|---|---|---|
-| Código Civil Federal ⚠️ | [`ccf/`](ccf/) | 3085 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf) |
+| Código Civil Federal | [`ccf/`](ccf/) | 3103 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf) |
 | Código Fiscal de la Federación | [`cff/`](cff/) | 421 | 2026-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf) |
 | Código Militar de Procedimientos Penales | [`cmpp/`](cmpp/) | 452 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf) |
 | Código Nacional de Procedimientos Civiles y Familiares | [`cnpcf/`](cnpcf/) | 1191 | 2026-01-15 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf) |
@@ -84,9 +84,48 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley de Disciplina para el Personal de la Armada de México | [`ldparm/`](ldparm/) | 80 | 2002-12-13 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf) |
 | Ley de Economía Digital para Pagos Digitales y Electrónicos | [`ledpde/`](ledpde/) | 22 | 2026-11-04 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LEDPDE.pdf) |
 | Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional | [`lemefam/`](lemefam/) | 52 | 2025-07-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAGN.pdf) |
+| Ley de Educación Naval | [`len/`](len/) | 24 | 2023-03-24 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf) |
+| Ley de Energía para el Campo | [`lec/`](lec/) | 14 | 2012-12-28 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf) |
+| Ley de Expropiación | [`lexp/`](lexp/) | 25 | 2012-01-27 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf) |
+| Ley de Extradición Internacional | [`lei/`](lei/) | 38 | 2021-05-20 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/36_200521.pdf) |
+| Ley de Firma Electrónica Avanzada | [`lfea/`](lfea/) | 31 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf) |
+| Ley de Fiscalización y Rendición de Cuentas de la Federación | [`lfrcf/`](lfrcf/) | 115 | 2026-05-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf) |
+| Ley de Fomento a la Confianza Ciudadana | [`lfcc/`](lfcc/) | 17 | 2020-01-20 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf) |
 | Ley de Fomento a la Industria Vitivinícola | [`lfiv/`](lfiv/) | 35 | 2018-05-23 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf) |
+| Ley de Fomento para la Lectura y el Libro | [`lfll/`](lfll/) | 28 | 2023-11-29 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFLL.pdf) |
+| Ley de Fondos de Aseguramiento Agropecuario y Rural | [`lfaar/`](lfaar/) | 96 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf) |
+| Ley de Fondos de Inversión | [`lfi/`](lfi/) | 195 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf) |
+| Ley de Geotermia | [`lgeo/`](lgeo/) | 66 | 2025-03-18 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf) |
+| Ley de Infraestructura de la Calidad | [`lical/`](lical/) | 165 | 2020-07-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf) |
+| Ley de Ingresos de la Federación 2026 | [`lif-2026/`](lif-2026/) | 34 | 2025-11-07 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf) |
+| Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027 | [`lif-2027/`](lif-2027/) | 34 | 2026-11-13 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2027.pdf) |
+| Ley de Ingresos sobre Hidrocarburos | [`lish/`](lish/) | 64 | 2025-03-18 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf) |
+| Ley de Instituciones de Crédito | [`lic/`](lic/) | 490 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf) |
+| Ley de Instituciones de Seguros y de Fianzas | [`lisf/`](lisf/) | 510 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LISF.pdf) |
+| Ley de Inversión Extranjera | [`lie/`](lie/) | 39 | 2024-05-27 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf) |
+| Ley de Migración | [`lmigra/`](lmigra/) | 162 | 2026-01-15 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LMigra.pdf) |
+| Ley de Minería | [`lmin/`](lmin/) | 79 | 2023-05-08 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf) |
+| Ley de Nacionalidad | [`lnac/`](lnac/) | 37 | 2012-04-23 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf) |
+| Ley de Navegación y Comercio Marítimos | [`lncm/`](lncm/) | 334 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf) |
+| Ley de Obras Públicas y Servicios Relacionados con las Mismas | [`lopsrm/`](lopsrm/) | 133 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPSRM.pdf) |
+| Ley de Organizaciones Ganaderas | [`log/`](log/) | 26 | 2012-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf) |
+| Ley de Planeación | [`lplan/`](lplan/) | 48 | 2026-01-15 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf) |
+| Ley de Planeación y Transición Energética | [`lpte/`](lpte/) | 100 | 2025-03-18 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LPTE.pdf) |
 | Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos | [`lansi/`](lansi/) | 38 | 2022-05-11 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf) |
+| Ley de la Casa de Moneda de México | [`lcmm/`](lcmm/) | 17 | 2022-05-11 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf) |
+| Ley de la Comisión Nacional Bancaria y de Valores | [`lcnbv/`](lcnbv/) | 31 | 2022-05-11 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf) |
+| Ley de la Comisión Nacional de Energía | [`lcne/`](lcne/) | 28 | 2025-03-18 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNE.pdf) |
+| Ley de la Comisión Nacional de los Derechos Humanos | [`lcndh/`](lcndh/) | 86 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf) |
+| Ley de la Economía Social y Solidaria | [`less/`](less/) | 58 | 2025-04-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf) |
+| Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad | [`lepecfe/`](lepecfe/) | 131 | 2025-03-18 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPECFE.pdf) |
+| Ley de la Empresa Pública del Estado, Petróleos Mexicanos | [`lepepm/`](lepepm/) | 126 | 2025-03-18 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPEPM.pdf) |
+| Ley de la Fiscalía General de la República | [`lfgr/`](lfgr/) | 101 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf) |
+| Ley de la Guardia Nacional | [`lgn/`](lgn/) | 96 | 2025-07-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf) |
+| Ley de la Policía Federal | [`lpf/`](lpf/) | 55 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf) |
+| Ley de los Derechos de las Personas Adultas Mayores | [`ldpam/`](ldpam/) | 52 | 2024-06-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf) |
 | Ley de los Husos Horarios en los Estados Unidos Mexicanos | [`lhheum/`](lhheum/) | 7 | 2022-11-29 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf) |
+| Ley de los Institutos Nacionales de Salud | [`lins/`](lins/) | 60 | 2022-05-11 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf) |
+| Ley de los Sistemas de Ahorro para el Retiro | [`lsar/`](lsar/) | 145 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf) |
 | Ley del Mercado de Valores | [`lmv/`](lmv/) | 463 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf) |
 | Reglamento Interior del Servicio de Administración Tributaria | [`risat/`](risat/) | 56 | 2021-12-21 | [PDF](https://wwwmat.sat.gob.mx/cs/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1461176458878&ssbinary=true) |
 
@@ -105,5 +144,6 @@ cuando cambia su PDF o el extractor.
 | Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | invariantes rotos: [lisipl] al menos una unidad: 0 unidades | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf) |
 | Ley de Aguas Nacionales | invariantes rotos: [lan] índice == archivos == unidades: 215 md / 216 idx / 216 items (¿colisión de claves?). 1 unidades no reproducen el PDF (lan/029-bis-1) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf) |
 | Ley de Ahorro y Crédito Popular | invariantes rotos: [lacp] índice == archivos == unidades: 232 md / 234 idx / 234 items (¿colisión de claves?) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf) |
+| Ley de los Impuestos Generales de Importación y de Exportación | 1 unidades no reproducen el PDF (ligie-2022/001) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf) |
 
 <!-- EXCLUIDAS:FIN -->

@@ -1,0 +1,5 @@
+# Artículo 24 Quáter
+
+El Titular del Órgano Interno de Control será designado por la Cámara de Diputados del Congreso de la Unión, con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+_Artículo adicionado DOF 27-01-2017_

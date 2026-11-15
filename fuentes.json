@@ -10,27 +10,17 @@
       "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf",
       "estado": "incluida",
       "version": "2025-11-14",
-      "unidades": 3085,
+      "unidades": 3103,
       "pdf": {
         "sha256": "4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76",
         "bytes": 3415624,
         "etag": "\"341e48-6446ed857fbc0\"",
         "last_modified": "Tue, 25 Nov 2025 17:45:27 GMT"
       },
-      "extractor": "465f8539553a5cc3",
+      "extractor": "4156e0ab9704ba07",
       "alta": {
         "fecha": "2026-11-15",
         "via": "limpia"
-      },
-      "revision_pendiente": {
-        "fecha": "2026-11-15",
-        "motivo": "1 unidades no reproducen el PDF (ccf/2687)",
-        "pdf": {
-          "sha256": "4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76",
-          "bytes": 3415624,
-          "etag": "\"341e48-6446ed857fbc0\"",
-          "last_modified": "Tue, 25 Nov 2025 17:45:27 GMT"
-        }
       }
     },
     {
@@ -773,6 +763,28 @@
       }
     },
     {
+      "clave": "lcmm",
+      "etiqueta": "Ley de la Casa de Moneda de México",
+      "sigla": "LCMM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf",
+      "estado": "incluida",
+      "version": "2022-05-11",
+      "unidades": 17,
+      "pdf": {
+        "sha256": "873553817446789f00863e9cbc4a25bfbbf762cafa2dafd504577eb897796954",
+        "bytes": 348880,
+        "etag": "\"552d0-5e08126fbea40\"",
+        "last_modified": "Fri, 03 Jun 2022 01:36:33 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lcmopfih",
       "etiqueta": "Ley de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica",
       "sigla": "LCMOPFIH",
@@ -787,6 +799,72 @@
         "bytes": 285878,
         "etag": "\"45cb6-58a31466afac0\"",
         "last_modified": "Fri, 31 May 2019 16:12:03 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lcnbv",
+      "etiqueta": "Ley de la Comisión Nacional Bancaria y de Valores",
+      "sigla": "LCNBV",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf",
+      "estado": "incluida",
+      "version": "2022-05-11",
+      "unidades": 31,
+      "pdf": {
+        "sha256": "b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8",
+        "bytes": 505030,
+        "etag": "\"7b4c6-5e07c26425080\"",
+        "last_modified": "Thu, 02 Jun 2022 19:38:26 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lcndh",
+      "etiqueta": "Ley de la Comisión Nacional de los Derechos Humanos",
+      "sigla": "LCNDH",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 86,
+      "pdf": {
+        "sha256": "4e3a4d590c0554842ff0a27a9ecc09c7f2c22c87255a4c0f247ea68d2dca544c",
+        "bytes": 626200,
+        "etag": "\"98e18-617dfc83f4740\"",
+        "last_modified": "Tue, 07 May 2024 16:36:05 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lcne",
+      "etiqueta": "Ley de la Comisión Nacional de Energía",
+      "sigla": "LCNE",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNE.pdf",
+      "estado": "incluida",
+      "version": "2025-03-18",
+      "unidades": 28,
+      "pdf": {
+        "sha256": "7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de",
+        "bytes": 508412,
+        "etag": "\"7c1fc-64b94bb119a80\"",
+        "last_modified": "Tue, 24 Feb 2026 16:53:46 GMT"
       },
       "extractor": "4156e0ab9704ba07",
       "alta": {
@@ -883,6 +961,28 @@
       }
     },
     {
+      "clave": "ldpam",
+      "etiqueta": "Ley de los Derechos de las Personas Adultas Mayores",
+      "sigla": "LDPAM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf",
+      "estado": "incluida",
+      "version": "2024-06-14",
+      "unidades": 52,
+      "pdf": {
+        "sha256": "e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db",
+        "bytes": 543796,
+        "etag": "\"84c34-61cec43959500\"",
+        "last_modified": "Wed, 10 Jul 2024 22:35:32 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "ldparm",
       "etiqueta": "Ley de Disciplina para el Personal de la Armada de México",
       "sigla": "LDPARM",
@@ -971,6 +1071,28 @@
       }
     },
     {
+      "clave": "lec",
+      "etiqueta": "Ley de Energía para el Campo",
+      "sigla": "LEC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf",
+      "estado": "incluida",
+      "version": "2012-12-28",
+      "unidades": 14,
+      "pdf": {
+        "sha256": "71dca147c2bed643f28921065bc240abcd15879a1504a55a9c153d6b202bbc5f",
+        "bytes": 348166,
+        "etag": "\"55006-576a2b3826500\"",
+        "last_modified": "Mon, 24 Sep 2018 19:07:32 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "ledpde",
       "etiqueta": "Ley de Economía Digital para Pagos Digitales y Electrónicos",
       "sigla": "LEDPDE",
@@ -985,6 +1107,28 @@
         "bytes": 217036,
         "etag": "\"34fcc-660309f34d380\"",
         "last_modified": "Fri, 13 Nov 2026 23:16:46 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lei",
+      "etiqueta": "Ley de Extradición Internacional",
+      "sigla": "LEI",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/36_200521.pdf",
+      "estado": "incluida",
+      "version": "2021-05-20",
+      "unidades": 38,
+      "pdf": {
+        "sha256": "8fa795db61b78c3f09ea810793c1b7bc569c8d7fe48cf6a9fabc0fe414457ae5",
+        "bytes": 355899,
+        "etag": "\"56e3b-5c3f6cca09380\"",
+        "last_modified": "Fri, 04 Jun 2021 20:47:26 GMT"
       },
       "extractor": "4156e0ab9704ba07",
       "alta": {
@@ -1015,6 +1159,226 @@
       }
     },
     {
+      "clave": "len",
+      "etiqueta": "Ley de Educación Naval",
+      "sigla": "LEN",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf",
+      "estado": "incluida",
+      "version": "2023-03-24",
+      "unidades": 24,
+      "pdf": {
+        "sha256": "1cbe263920b6492766c004f8a08e5d20b06c1463a730f0c82f6bbd38406ff91a",
+        "bytes": 332667,
+        "etag": "\"5137b-5f821f8c7b4c0\"",
+        "last_modified": "Thu, 30 Mar 2023 18:07:55 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lepecfe",
+      "etiqueta": "Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad",
+      "sigla": "LEPECFE",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPECFE.pdf",
+      "estado": "incluida",
+      "version": "2025-03-18",
+      "unidades": 131,
+      "pdf": {
+        "sha256": "6e45ab84a076cbd9cfd5fbd8abbe5f2d88fbd767229f21f5e7327aaf692b22a5",
+        "bytes": 559703,
+        "etag": "\"88a57-630e2111b2e00\"",
+        "last_modified": "Fri, 21 Mar 2025 22:49:28 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lepepm",
+      "etiqueta": "Ley de la Empresa Pública del Estado, Petróleos Mexicanos",
+      "sigla": "LEPEPM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPEPM.pdf",
+      "estado": "incluida",
+      "version": "2025-03-18",
+      "unidades": 126,
+      "pdf": {
+        "sha256": "e090d2278f98a33ce43b69070c3bbbec5e3b7177f0ffdbee8d4c9bf29c36c317",
+        "bytes": 598559,
+        "etag": "\"9221f-630e2cceb9fc0\"",
+        "last_modified": "Fri, 21 Mar 2025 23:41:59 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "less",
+      "etiqueta": "Ley de la Economía Social y Solidaria",
+      "sigla": "LESS",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf",
+      "estado": "incluida",
+      "version": "2025-04-16",
+      "unidades": 58,
+      "pdf": {
+        "sha256": "74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb",
+        "bytes": 502806,
+        "etag": "\"7ac16-634b8d1dfdd00\"",
+        "last_modified": "Fri, 09 May 2025 19:17:40 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lexp",
+      "etiqueta": "Ley de Expropiación",
+      "sigla": "LEXP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf",
+      "estado": "incluida",
+      "version": "2012-01-27",
+      "unidades": 25,
+      "pdf": {
+        "sha256": "40f5c7459f53df7a14ee5aaf70cbb819f8808b14691a63dfd773e36a9f5dd1cb",
+        "bytes": 291346,
+        "etag": "\"47212-576a87a7aba40\"",
+        "last_modified": "Tue, 25 Sep 2018 02:01:05 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfaar",
+      "etiqueta": "Ley de Fondos de Aseguramiento Agropecuario y Rural",
+      "sigla": "LFAAR",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 96,
+      "pdf": {
+        "sha256": "c15f1084289b8990a4e345e6854c3e14333de0c452edc2df7b73b52050f9ae4e",
+        "bytes": 500663,
+        "etag": "\"7a3b7-64485a9994fc0\"",
+        "last_modified": "Wed, 26 Nov 2025 20:58:47 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfcc",
+      "etiqueta": "Ley de Fomento a la Confianza Ciudadana",
+      "sigla": "LFCC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf",
+      "estado": "incluida",
+      "version": "2020-01-20",
+      "unidades": 17,
+      "pdf": {
+        "sha256": "0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde",
+        "bytes": 221238,
+        "etag": "\"36036-5ae4795b2fe40\"",
+        "last_modified": "Tue, 01 Sep 2020 21:56:01 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfea",
+      "etiqueta": "Ley de Firma Electrónica Avanzada",
+      "sigla": "LFEA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 31,
+      "pdf": {
+        "sha256": "102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842",
+        "bytes": 409700,
+        "etag": "\"64064-644854037c5c0\"",
+        "last_modified": "Wed, 26 Nov 2025 20:29:19 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfgr",
+      "etiqueta": "Ley de la Fiscalía General de la República",
+      "sigla": "LFGR",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 101,
+      "pdf": {
+        "sha256": "cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1",
+        "bytes": 1115528,
+        "etag": "\"110588-6449725ab55c0\"",
+        "last_modified": "Thu, 27 Nov 2025 17:50:23 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfi",
+      "etiqueta": "Ley de Fondos de Inversión",
+      "sigla": "LFI",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 195,
+      "pdf": {
+        "sha256": "77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d",
+        "bytes": 1139853,
+        "etag": "\"11648d-64485ec3ca340\"",
+        "last_modified": "Wed, 26 Nov 2025 21:17:25 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lfiv",
       "etiqueta": "Ley de Fomento a la Industria Vitivinícola",
       "sigla": "LFIV",
@@ -1029,6 +1393,50 @@
         "bytes": 246385,
         "etag": "\"3c271-57654638bf3c0\"",
         "last_modified": "Thu, 20 Sep 2018 21:41:43 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfll",
+      "etiqueta": "Ley de Fomento para la Lectura y el Libro",
+      "sigla": "LFLL",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFLL.pdf",
+      "estado": "incluida",
+      "version": "2023-11-29",
+      "unidades": 28,
+      "pdf": {
+        "sha256": "1e1d42f23bc87d8b6c3d094e5b49b4a1cf14cb984956590f7d0b708485fef3fd",
+        "bytes": 338245,
+        "etag": "\"52945-60c465135fa80\"",
+        "last_modified": "Tue, 12 Dec 2023 01:53:30 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfrcf",
+      "etiqueta": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "sigla": "LFRCF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf",
+      "estado": "incluida",
+      "version": "2026-05-14",
+      "unidades": 115,
+      "pdf": {
+        "sha256": "cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c",
+        "bytes": 657518,
+        "etag": "\"a086e-65221d6a80d40\"",
+        "last_modified": "Tue, 19 May 2026 01:45:49 GMT"
       },
       "extractor": "4156e0ab9704ba07",
       "alta": {
@@ -1081,6 +1489,50 @@
       }
     },
     {
+      "clave": "lgeo",
+      "etiqueta": "Ley de Geotermia",
+      "sigla": "LGeo",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf",
+      "estado": "incluida",
+      "version": "2025-03-18",
+      "unidades": 66,
+      "pdf": {
+        "sha256": "67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35",
+        "bytes": 443402,
+        "etag": "\"6c40a-6419b7392c9c0\"",
+        "last_modified": "Mon, 20 Oct 2025 18:42:55 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgn",
+      "etiqueta": "Ley de la Guardia Nacional",
+      "sigla": "LGN",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf",
+      "estado": "incluida",
+      "version": "2025-07-16",
+      "unidades": 96,
+      "pdf": {
+        "sha256": "dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd",
+        "bytes": 482695,
+        "etag": "\"75d87-63a3a19d27100\"",
+        "last_modified": "Fri, 18 Jul 2025 20:37:56 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lgs",
       "etiqueta": "Ley General de Salud",
       "sigla": "LGS",
@@ -1125,6 +1577,201 @@
       }
     },
     {
+      "clave": "lic",
+      "etiqueta": "Ley de Instituciones de Crédito",
+      "sigla": "LIC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 490,
+      "pdf": {
+        "sha256": "98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d",
+        "bytes": 2704455,
+        "etag": "\"294447-644867286b080\"",
+        "last_modified": "Wed, 26 Nov 2025 21:54:58 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "reparada",
+        "reparacion": "articulado: numeral y nombre con nota antes de un capítulo, y artículos con letra separada por espacio ('118 A.')"
+      }
+    },
+    {
+      "clave": "lical",
+      "etiqueta": "Ley de Infraestructura de la Calidad",
+      "sigla": "LICal",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf",
+      "estado": "incluida",
+      "version": "2020-07-01",
+      "unidades": 165,
+      "pdf": {
+        "sha256": "a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a",
+        "bytes": 680036,
+        "etag": "\"a6064-5ae48dd0c4340\"",
+        "last_modified": "Tue, 01 Sep 2020 23:27:33 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lie",
+      "etiqueta": "Ley de Inversión Extranjera",
+      "sigla": "LIE",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf",
+      "estado": "incluida",
+      "version": "2024-05-27",
+      "unidades": 39,
+      "pdf": {
+        "sha256": "14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953",
+        "bytes": 728116,
+        "etag": "\"b1c34-6198c840fae80\"",
+        "last_modified": "Wed, 29 May 2024 00:06:02 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lif-2026",
+      "etiqueta": "Ley de Ingresos de la Federación 2026",
+      "sigla": "LIF 2026",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
+      "estado": "incluida",
+      "version": "2025-11-07",
+      "unidades": 34,
+      "pdf": {
+        "sha256": "a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c",
+        "bytes": 756083,
+        "etag": "\"b8973-64344d9bad080\"",
+        "last_modified": "Mon, 10 Nov 2025 22:14:10 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lif-2027",
+      "etiqueta": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027",
+      "sigla": "LIF_2027",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2027.pdf",
+      "estado": "incluida",
+      "version": "2026-11-13",
+      "unidades": 34,
+      "pdf": {
+        "sha256": "1c247831459988960cbb9ef86868c9174e1bce7532957e8156b359e214ac10db",
+        "bytes": 763072,
+        "etag": "\"ba4c0-66032864ba680\"",
+        "last_modified": "Sat, 14 Nov 2026 01:32:58 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "ligie-2022",
+      "etiqueta": "Ley de los Impuestos Generales de Importación y de Exportación",
+      "sigla": "LIGIE_2022",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf",
+      "estado": "excluida",
+      "motivo": "1 unidades no reproducen el PDF (ligie-2022/001)",
+      "fecha": "2026-11-15",
+      "pdf": {
+        "sha256": "955510d7ea82cf42d18c72e3146f999af254c0fda5eda3f12a1fd1c10e9864ce",
+        "bytes": 19158939,
+        "etag": "\"124579b-65dd0cf042500\"",
+        "last_modified": "Wed, 14 Oct 2026 18:07:48 GMT"
+      },
+      "extractor": "4156e0ab9704ba07"
+    },
+    {
+      "clave": "lins",
+      "etiqueta": "Ley de los Institutos Nacionales de Salud",
+      "sigla": "LINS",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf",
+      "estado": "incluida",
+      "version": "2022-05-11",
+      "unidades": 60,
+      "pdf": {
+        "sha256": "40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e",
+        "bytes": 565527,
+        "etag": "\"8a117-5e090b6f56040\"",
+        "last_modified": "Fri, 03 Jun 2022 20:10:33 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lisf",
+      "etiqueta": "Ley de Instituciones de Seguros y de Fianzas",
+      "sigla": "LISF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISF.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 510,
+      "pdf": {
+        "sha256": "1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416",
+        "bytes": 2184319,
+        "etag": "\"21547f-64486bff3db40\"",
+        "last_modified": "Wed, 26 Nov 2025 22:16:37 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lish",
+      "etiqueta": "Ley de Ingresos sobre Hidrocarburos",
+      "sigla": "LISH",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf",
+      "estado": "incluida",
+      "version": "2025-03-18",
+      "unidades": 64,
+      "pdf": {
+        "sha256": "8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6",
+        "bytes": 614236,
+        "etag": "\"95f5c-64862a22b3740\"",
+        "last_modified": "Thu, 15 Jan 2026 00:52:05 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lisipl",
       "etiqueta": "Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos)",
       "sigla": "LISIPL",
@@ -1143,6 +1790,50 @@
       "extractor": "4156e0ab9704ba07"
     },
     {
+      "clave": "lmigra",
+      "etiqueta": "Ley de Migración",
+      "sigla": "LMigra",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMigra.pdf",
+      "estado": "incluida",
+      "version": "2026-01-15",
+      "unidades": 162,
+      "pdf": {
+        "sha256": "a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de",
+        "bytes": 781391,
+        "etag": "\"bec4f-64978ed747740\"",
+        "last_modified": "Wed, 28 Jan 2026 20:53:09 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lmin",
+      "etiqueta": "Ley de Minería",
+      "sigla": "LMin",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf",
+      "estado": "incluida",
+      "version": "2023-05-08",
+      "unidades": 79,
+      "pdf": {
+        "sha256": "22262b49007ce5a26efe0c942142721b710b0de7675459bf05bf8e99b60b7746",
+        "bytes": 647752,
+        "etag": "\"9e248-5fed588d98840\"",
+        "last_modified": "Sat, 24 Jun 2023 00:52:41 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lmv",
       "etiqueta": "Ley del Mercado de Valores",
       "sigla": "LMV",
@@ -1157,6 +1848,182 @@
         "bytes": 1933761,
         "etag": "\"1d81c1-644b314cbcfc0\"",
         "last_modified": "Sat, 29 Nov 2025 03:09:59 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lnac",
+      "etiqueta": "Ley de Nacionalidad",
+      "sigla": "LNAC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf",
+      "estado": "incluida",
+      "version": "2012-04-23",
+      "unidades": 37,
+      "pdf": {
+        "sha256": "0d1600be2162e00dfec7505d7ce4c23ec2e29f43e298bc94e7301146eead38f7",
+        "bytes": 434236,
+        "etag": "\"6a03c-5766acb103040\"",
+        "last_modified": "Sat, 22 Sep 2018 00:25:29 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lncm",
+      "etiqueta": "Ley de Navegación y Comercio Marítimos",
+      "sigla": "LNCM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 334,
+      "pdf": {
+        "sha256": "f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926",
+        "bytes": 946507,
+        "etag": "\"e714b-6449ddb5b1e40\"",
+        "last_modified": "Fri, 28 Nov 2025 01:50:41 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "log",
+      "etiqueta": "Ley de Organizaciones Ganaderas",
+      "sigla": "LOG",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf",
+      "estado": "incluida",
+      "version": "2012-04-09",
+      "unidades": 26,
+      "pdf": {
+        "sha256": "35e6323676758412d100ff5b3725985ebb07af19c74e1657f9e15151f3b21d8f",
+        "bytes": 360373,
+        "etag": "\"57fb5-576521cac4100\"",
+        "last_modified": "Thu, 20 Sep 2018 18:58:44 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lopsrm",
+      "etiqueta": "Ley de Obras Públicas y Servicios Relacionados con las Mismas",
+      "sigla": "LOPSRM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPSRM.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 133,
+      "pdf": {
+        "sha256": "b760b87cb82b23955e149500a1a832a608029ca814f0653b1430f6948d33e9f5",
+        "bytes": 989068,
+        "etag": "\"f178c-6449e1ae4fcc0\"",
+        "last_modified": "Fri, 28 Nov 2025 02:08:27 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lpf",
+      "etiqueta": "Ley de la Policía Federal",
+      "sigla": "LPF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 55,
+      "pdf": {
+        "sha256": "fecec9ae534befd8467e94bb8eb7e39444938f6ef3346b9cc0e91932f4082885",
+        "bytes": 548519,
+        "etag": "\"85ea7-6449e5f244d00\"",
+        "last_modified": "Fri, 28 Nov 2025 02:27:32 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lplan",
+      "etiqueta": "Ley de Planeación",
+      "sigla": "LPlan",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf",
+      "estado": "incluida",
+      "version": "2026-01-15",
+      "unidades": 48,
+      "pdf": {
+        "sha256": "5a909996d6ef791fa377611c040a212dcf838cbf54ba16a7d7d0baaa57ac9962",
+        "bytes": 496203,
+        "etag": "\"7924b-649915147a7c0\"",
+        "last_modified": "Fri, 30 Jan 2026 01:59:03 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lpte",
+      "etiqueta": "Ley de Planeación y Transición Energética",
+      "sigla": "LPTE",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPTE.pdf",
+      "estado": "incluida",
+      "version": "2025-03-18",
+      "unidades": 100,
+      "pdf": {
+        "sha256": "c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41",
+        "bytes": 448133,
+        "etag": "\"6d685-630e4447d4100\"",
+        "last_modified": "Sat, 22 Mar 2025 01:27:00 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lsar",
+      "etiqueta": "Ley de los Sistemas de Ahorro para el Retiro",
+      "sigla": "LSAR",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 145,
+      "pdf": {
+        "sha256": "02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1",
+        "bytes": 1394805,
+        "etag": "\"154875-6449b4a27b5c0\"",
+        "last_modified": "Thu, 27 Nov 2025 22:46:55 GMT"
       },
       "extractor": "4156e0ab9704ba07",
       "alta": {

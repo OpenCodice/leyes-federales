@@ -5,7 +5,7 @@
       "etiqueta": "Código Civil Federal",
       "sigla": "CCF",
       "tipo": "ley",
-      "num_articulos": 3085,
+      "num_articulos": 3103,
       "version": "2025-11-14"
     },
     {
@@ -257,12 +257,44 @@
       "version": "2025-11-14"
     },
     {
+      "clave": "lcmm",
+      "etiqueta": "Ley de la Casa de Moneda de México",
+      "sigla": "LCMM",
+      "tipo": "ley",
+      "num_articulos": 17,
+      "version": "2022-05-11"
+    },
+    {
       "clave": "lcmopfih",
       "etiqueta": "Ley de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica",
       "sigla": "LCMOPFIH",
       "tipo": "ley",
       "num_articulos": 15,
       "version": "1990-12-26"
+    },
+    {
+      "clave": "lcnbv",
+      "etiqueta": "Ley de la Comisión Nacional Bancaria y de Valores",
+      "sigla": "LCNBV",
+      "tipo": "ley",
+      "num_articulos": 31,
+      "version": "2022-05-11"
+    },
+    {
+      "clave": "lcndh",
+      "etiqueta": "Ley de la Comisión Nacional de los Derechos Humanos",
+      "sigla": "LCNDH",
+      "tipo": "ley",
+      "num_articulos": 86,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lcne",
+      "etiqueta": "Ley de la Comisión Nacional de Energía",
+      "sigla": "LCNE",
+      "tipo": "ley",
+      "num_articulos": 28,
+      "version": "2025-03-18"
     },
     {
       "clave": "lcpaf",
@@ -297,6 +329,14 @@
       "version": "2022-05-10"
     },
     {
+      "clave": "ldpam",
+      "etiqueta": "Ley de los Derechos de las Personas Adultas Mayores",
+      "sigla": "LDPAM",
+      "tipo": "ley",
+      "num_articulos": 52,
+      "version": "2024-06-14"
+    },
+    {
       "clave": "ldparm",
       "etiqueta": "Ley de Disciplina para el Personal de la Armada de México",
       "sigla": "LDPARM",
@@ -329,12 +369,28 @@
       "version": "2025-11-14"
     },
     {
+      "clave": "lec",
+      "etiqueta": "Ley de Energía para el Campo",
+      "sigla": "LEC",
+      "tipo": "ley",
+      "num_articulos": 14,
+      "version": "2012-12-28"
+    },
+    {
       "clave": "ledpde",
       "etiqueta": "Ley de Economía Digital para Pagos Digitales y Electrónicos",
       "sigla": "LEDPDE",
       "tipo": "ley",
       "num_articulos": 22,
       "version": "2026-11-04"
+    },
+    {
+      "clave": "lei",
+      "etiqueta": "Ley de Extradición Internacional",
+      "sigla": "LEI",
+      "tipo": "ley",
+      "num_articulos": 38,
+      "version": "2021-05-20"
     },
     {
       "clave": "lemefam",
@@ -345,12 +401,108 @@
       "version": "2025-07-16"
     },
     {
+      "clave": "len",
+      "etiqueta": "Ley de Educación Naval",
+      "sigla": "LEN",
+      "tipo": "ley",
+      "num_articulos": 24,
+      "version": "2023-03-24"
+    },
+    {
+      "clave": "lepecfe",
+      "etiqueta": "Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad",
+      "sigla": "LEPECFE",
+      "tipo": "ley",
+      "num_articulos": 131,
+      "version": "2025-03-18"
+    },
+    {
+      "clave": "lepepm",
+      "etiqueta": "Ley de la Empresa Pública del Estado, Petróleos Mexicanos",
+      "sigla": "LEPEPM",
+      "tipo": "ley",
+      "num_articulos": 126,
+      "version": "2025-03-18"
+    },
+    {
+      "clave": "less",
+      "etiqueta": "Ley de la Economía Social y Solidaria",
+      "sigla": "LESS",
+      "tipo": "ley",
+      "num_articulos": 58,
+      "version": "2025-04-16"
+    },
+    {
+      "clave": "lexp",
+      "etiqueta": "Ley de Expropiación",
+      "sigla": "LEXP",
+      "tipo": "ley",
+      "num_articulos": 25,
+      "version": "2012-01-27"
+    },
+    {
+      "clave": "lfaar",
+      "etiqueta": "Ley de Fondos de Aseguramiento Agropecuario y Rural",
+      "sigla": "LFAAR",
+      "tipo": "ley",
+      "num_articulos": 96,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lfcc",
+      "etiqueta": "Ley de Fomento a la Confianza Ciudadana",
+      "sigla": "LFCC",
+      "tipo": "ley",
+      "num_articulos": 17,
+      "version": "2020-01-20"
+    },
+    {
+      "clave": "lfea",
+      "etiqueta": "Ley de Firma Electrónica Avanzada",
+      "sigla": "LFEA",
+      "tipo": "ley",
+      "num_articulos": 31,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lfgr",
+      "etiqueta": "Ley de la Fiscalía General de la República",
+      "sigla": "LFGR",
+      "tipo": "ley",
+      "num_articulos": 101,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lfi",
+      "etiqueta": "Ley de Fondos de Inversión",
+      "sigla": "LFI",
+      "tipo": "ley",
+      "num_articulos": 195,
+      "version": "2025-11-14"
+    },
+    {
       "clave": "lfiv",
       "etiqueta": "Ley de Fomento a la Industria Vitivinícola",
       "sigla": "LFIV",
       "tipo": "ley",
       "num_articulos": 35,
       "version": "2018-05-23"
+    },
+    {
+      "clave": "lfll",
+      "etiqueta": "Ley de Fomento para la Lectura y el Libro",
+      "sigla": "LFLL",
+      "tipo": "ley",
+      "num_articulos": 28,
+      "version": "2023-11-29"
+    },
+    {
+      "clave": "lfrcf",
+      "etiqueta": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "sigla": "LFRCF",
+      "tipo": "ley",
+      "num_articulos": 115,
+      "version": "2026-05-14"
     },
     {
       "clave": "lft",
@@ -369,6 +521,22 @@
       "version": "2026-01-19"
     },
     {
+      "clave": "lgeo",
+      "etiqueta": "Ley de Geotermia",
+      "sigla": "LGeo",
+      "tipo": "ley",
+      "num_articulos": 66,
+      "version": "2025-03-18"
+    },
+    {
+      "clave": "lgn",
+      "etiqueta": "Ley de la Guardia Nacional",
+      "sigla": "LGN",
+      "tipo": "ley",
+      "num_articulos": 96,
+      "version": "2025-07-16"
+    },
+    {
       "clave": "lgs",
       "etiqueta": "Ley General de Salud",
       "sigla": "LGS",
@@ -385,11 +553,155 @@
       "version": "2022-11-29"
     },
     {
+      "clave": "lic",
+      "etiqueta": "Ley de Instituciones de Crédito",
+      "sigla": "LIC",
+      "tipo": "ley",
+      "num_articulos": 490,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lical",
+      "etiqueta": "Ley de Infraestructura de la Calidad",
+      "sigla": "LICal",
+      "tipo": "ley",
+      "num_articulos": 165,
+      "version": "2020-07-01"
+    },
+    {
+      "clave": "lie",
+      "etiqueta": "Ley de Inversión Extranjera",
+      "sigla": "LIE",
+      "tipo": "ley",
+      "num_articulos": 39,
+      "version": "2024-05-27"
+    },
+    {
+      "clave": "lif-2026",
+      "etiqueta": "Ley de Ingresos de la Federación 2026",
+      "sigla": "LIF 2026",
+      "tipo": "ley",
+      "num_articulos": 34,
+      "version": "2025-11-07"
+    },
+    {
+      "clave": "lif-2027",
+      "etiqueta": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027",
+      "sigla": "LIF_2027",
+      "tipo": "ley",
+      "num_articulos": 34,
+      "version": "2026-11-13"
+    },
+    {
+      "clave": "lins",
+      "etiqueta": "Ley de los Institutos Nacionales de Salud",
+      "sigla": "LINS",
+      "tipo": "ley",
+      "num_articulos": 60,
+      "version": "2022-05-11"
+    },
+    {
+      "clave": "lisf",
+      "etiqueta": "Ley de Instituciones de Seguros y de Fianzas",
+      "sigla": "LISF",
+      "tipo": "ley",
+      "num_articulos": 510,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lish",
+      "etiqueta": "Ley de Ingresos sobre Hidrocarburos",
+      "sigla": "LISH",
+      "tipo": "ley",
+      "num_articulos": 64,
+      "version": "2025-03-18"
+    },
+    {
+      "clave": "lmigra",
+      "etiqueta": "Ley de Migración",
+      "sigla": "LMigra",
+      "tipo": "ley",
+      "num_articulos": 162,
+      "version": "2026-01-15"
+    },
+    {
+      "clave": "lmin",
+      "etiqueta": "Ley de Minería",
+      "sigla": "LMin",
+      "tipo": "ley",
+      "num_articulos": 79,
+      "version": "2023-05-08"
+    },
+    {
       "clave": "lmv",
       "etiqueta": "Ley del Mercado de Valores",
       "sigla": "LMV",
       "tipo": "ley",
       "num_articulos": 463,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lnac",
+      "etiqueta": "Ley de Nacionalidad",
+      "sigla": "LNAC",
+      "tipo": "ley",
+      "num_articulos": 37,
+      "version": "2012-04-23"
+    },
+    {
+      "clave": "lncm",
+      "etiqueta": "Ley de Navegación y Comercio Marítimos",
+      "sigla": "LNCM",
+      "tipo": "ley",
+      "num_articulos": 334,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "log",
+      "etiqueta": "Ley de Organizaciones Ganaderas",
+      "sigla": "LOG",
+      "tipo": "ley",
+      "num_articulos": 26,
+      "version": "2012-04-09"
+    },
+    {
+      "clave": "lopsrm",
+      "etiqueta": "Ley de Obras Públicas y Servicios Relacionados con las Mismas",
+      "sigla": "LOPSRM",
+      "tipo": "ley",
+      "num_articulos": 133,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lpf",
+      "etiqueta": "Ley de la Policía Federal",
+      "sigla": "LPF",
+      "tipo": "ley",
+      "num_articulos": 55,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lplan",
+      "etiqueta": "Ley de Planeación",
+      "sigla": "LPlan",
+      "tipo": "ley",
+      "num_articulos": 48,
+      "version": "2026-01-15"
+    },
+    {
+      "clave": "lpte",
+      "etiqueta": "Ley de Planeación y Transición Energética",
+      "sigla": "LPTE",
+      "tipo": "ley",
+      "num_articulos": 100,
+      "version": "2025-03-18"
+    },
+    {
+      "clave": "lsar",
+      "etiqueta": "Ley de los Sistemas de Ahorro para el Retiro",
+      "sigla": "LSAR",
+      "tipo": "ley",
+      "num_articulos": 145,
       "version": "2025-11-14"
     },
     {

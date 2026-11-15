@@ -1,0 +1,7 @@
+# Artículo 1o Quinquies
+
+La Secretaría emitirá las políticas, bases y lineamientos para llevar a cabo los procedimientos de contratación a que se refiere esta Ley, así como para promover la estandarización de las contrataciones públicas, que deberán observar las dependencias y entidades.
+
+Previa autorización de la Secretaría, las dependencias y entidades podrán emitir lineamientos de contratación específicos para precisar situaciones particulares en relación con los actos vinculados con las obras públicas y los servicios relacionados con las mismas a contratar.
+
+_Artículo adicionado DOF 16-04-2025_

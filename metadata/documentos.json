@@ -489,6 +489,14 @@
       "version": "2025-11-14"
     },
     {
+      "clave": "lfaebsp",
+      "etiqueta": "Ley Federal para la Administración y Enajenación de Bienes del Sector Público",
+      "sigla": "LFAEBSP",
+      "tipo": "ley",
+      "num_articulos": 100,
+      "version": "2024-04-30"
+    },
+    {
       "clave": "lfafe",
       "etiqueta": "Ley Federal de Armas de Fuego y Explosivos",
       "sigla": "LFAFE",
@@ -553,12 +561,36 @@
       "version": "2021-05-19"
     },
     {
+      "clave": "lfcpq",
+      "etiqueta": "Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos",
+      "sigla": "LFCPQ",
+      "tipo": "ley",
+      "num_articulos": 31,
+      "version": "2023-05-03"
+    },
+    {
+      "clave": "lfcsq",
+      "etiqueta": "Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas",
+      "sigla": "LFCSQ",
+      "tipo": "ley",
+      "num_articulos": 75,
+      "version": "2025-11-14"
+    },
+    {
       "clave": "lfd",
       "etiqueta": "Ley Federal de Derechos",
       "sigla": "LFD",
       "tipo": "ley",
       "num_articulos": 782,
       "version": "2025-11-07"
+    },
+    {
+      "clave": "lfda",
+      "etiqueta": "Ley Federal del Derecho de Autor",
+      "sigla": "LFDA",
+      "tipo": "ley",
+      "num_articulos": 259,
+      "version": "2026-05-14"
     },
     {
       "clave": "lfdc",
@@ -609,6 +641,22 @@
       "version": "2024-04-01"
     },
     {
+      "clave": "lffmaa",
+      "etiqueta": "Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal",
+      "sigla": "LFFMAA",
+      "tipo": "ley",
+      "num_articulos": 45,
+      "version": "2023-03-27"
+    },
+    {
+      "clave": "lffpmn",
+      "etiqueta": "Ley Federal para el Fomento y Protección del Maíz Nativo",
+      "sigla": "LFFPMN",
+      "tipo": "ley",
+      "num_articulos": 13,
+      "version": "2020-04-13"
+    },
+    {
       "clave": "lfgr",
       "etiqueta": "Ley de la Fiscalía General de la República",
       "sigla": "LFGR",
@@ -623,6 +671,14 @@
       "tipo": "ley",
       "num_articulos": 195,
       "version": "2025-11-14"
+    },
+    {
+      "clave": "lfisan",
+      "etiqueta": "Ley Federal del Impuesto sobre Automóviles Nuevos",
+      "sigla": "LFISAN",
+      "tipo": "ley",
+      "num_articulos": 14,
+      "version": "2021-11-12"
     },
     {
       "clave": "lfiv",
@@ -649,12 +705,28 @@
       "version": "2023-11-29"
     },
     {
+      "clave": "lfm",
+      "etiqueta": "Ley Federal del Mar",
+      "sigla": "LFM",
+      "tipo": "ley",
+      "num_articulos": 65,
+      "version": "1986-01-08"
+    },
+    {
       "clave": "lfmped",
       "etiqueta": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
       "sigla": "LFMPED",
       "tipo": "ley",
       "num_articulos": 25,
       "version": "2025-03-18"
+    },
+    {
+      "clave": "lfmzaah",
+      "etiqueta": "Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos",
+      "sigla": "LFMZAAH",
+      "tipo": "ley",
+      "num_articulos": 62,
+      "version": "2025-11-14"
     },
     {
       "clave": "lfpa",
@@ -681,12 +753,52 @@
       "version": "2026-06-09"
     },
     {
+      "clave": "lfpdppp",
+      "etiqueta": "Ley Federal de Protección de Datos Personales en Posesión de los Particulares",
+      "sigla": "LFPDPPP",
+      "tipo": "ley",
+      "num_articulos": 64,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lfped",
+      "etiqueta": "Ley Federal para Prevenir y Eliminar la Discriminación",
+      "sigla": "LFPED",
+      "tipo": "ley",
+      "num_articulos": 105,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lfpiorpi",
+      "etiqueta": "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+      "sigla": "LFPIORPI",
+      "tipo": "ley",
+      "num_articulos": 73,
+      "version": "2025-07-16"
+    },
+    {
+      "clave": "lfppcpcia",
+      "etiqueta": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "sigla": "LFPPCPCIA",
+      "tipo": "ley",
+      "num_articulos": 75,
+      "version": "2025-11-14"
+    },
+    {
       "clave": "lfppi",
       "etiqueta": "Ley Federal de Protección a la Propiedad Industrial",
       "sigla": "LFPPI",
       "tipo": "ley",
       "num_articulos": 421,
       "version": "2026-04-03"
+    },
+    {
+      "clave": "lfppipp",
+      "etiqueta": "Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal",
+      "sigla": "LFPPIPP",
+      "tipo": "ley",
+      "num_articulos": 52,
+      "version": "2021-05-20"
     },
     {
       "clave": "lfprh",
@@ -697,12 +809,84 @@
       "version": "2026-04-09"
     },
     {
+      "clave": "lfpsdmh",
+      "etiqueta": "Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+      "sigla": "LFPSDMH",
+      "tipo": "ley",
+      "num_articulos": 24,
+      "version": "2021-11-12"
+    },
+    {
+      "clave": "lfra",
+      "etiqueta": "Ley Federal de Responsabilidad Ambiental",
+      "sigla": "LFRA",
+      "tipo": "ley",
+      "num_articulos": 56,
+      "version": "2025-11-14"
+    },
+    {
       "clave": "lfrcf",
       "etiqueta": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
       "sigla": "LFRCF",
       "tipo": "ley",
       "num_articulos": 115,
       "version": "2026-05-14"
+    },
+    {
+      "clave": "lfremsp",
+      "etiqueta": "Ley Federal de Remuneraciones de los Servidores Públicos",
+      "sigla": "LFRemSP",
+      "tipo": "ley",
+      "num_articulos": 34,
+      "version": "2021-05-19"
+    },
+    {
+      "clave": "lfrm",
+      "etiqueta": "Ley Federal de Revocación de Mandato",
+      "sigla": "LFRM",
+      "tipo": "ley",
+      "num_articulos": 61,
+      "version": "2021-09-14"
+    },
+    {
+      "clave": "lfrpe",
+      "etiqueta": "Ley Federal de Responsabilidad Patrimonial del Estado",
+      "sigla": "LFRPE",
+      "tipo": "ley",
+      "num_articulos": 35,
+      "version": "2023-12-29"
+    },
+    {
+      "clave": "lfrsp",
+      "etiqueta": "Ley Federal de Responsabilidades de los Servidores Públicos",
+      "sigla": "LFRSP",
+      "tipo": "ley",
+      "num_articulos": 94,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lfsa",
+      "etiqueta": "Ley Federal de Sanidad Animal",
+      "sigla": "LFSA",
+      "tipo": "ley",
+      "num_articulos": 177,
+      "version": "2024-05-21"
+    },
+    {
+      "clave": "lfsp",
+      "etiqueta": "Ley Federal de Seguridad Privada",
+      "sigla": "LFSP",
+      "tipo": "ley",
+      "num_articulos": 50,
+      "version": "2011-10-17"
+    },
+    {
+      "clave": "lfsv",
+      "etiqueta": "Ley Federal de Sanidad Vegetal",
+      "sigla": "LFSV",
+      "tipo": "ley",
+      "num_articulos": 97,
+      "version": "2022-05-11"
     },
     {
       "clave": "lft",
@@ -719,6 +903,102 @@
       "tipo": "ley",
       "num_articulos": 177,
       "version": "2026-01-15"
+    },
+    {
+      "clave": "lfvv",
+      "etiqueta": "Ley Federal de Variedades Vegetales",
+      "sigla": "LFVV",
+      "tipo": "ley",
+      "num_articulos": 48,
+      "version": "2022-05-11"
+    },
+    {
+      "clave": "lfzee",
+      "etiqueta": "Ley Federal de Zonas Económicas Especiales",
+      "sigla": "LFZEE",
+      "tipo": "ley",
+      "num_articulos": 50,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lga",
+      "etiqueta": "Ley General de Archivos",
+      "sigla": "LGA",
+      "tipo": "ley",
+      "num_articulos": 123,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lgag",
+      "etiqueta": "Ley General de Aguas",
+      "sigla": "LGAg",
+      "tipo": "ley",
+      "num_articulos": 45,
+      "version": "2025-12-11"
+    },
+    {
+      "clave": "lgahotdu",
+      "etiqueta": "Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+      "sigla": "LGAHOTDU",
+      "tipo": "ley",
+      "num_articulos": 119,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lgamvlv",
+      "etiqueta": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencias",
+      "sigla": "LGAMVLV",
+      "tipo": "ley",
+      "num_articulos": 103,
+      "version": "2026-01-15"
+    },
+    {
+      "clave": "lgb",
+      "etiqueta": "Ley General de Bibliotecas",
+      "sigla": "LGB",
+      "tipo": "ley",
+      "num_articulos": 45,
+      "version": "2023-11-29"
+    },
+    {
+      "clave": "lgbn",
+      "etiqueta": "Ley General de Bienes Nacionales",
+      "sigla": "LGBN",
+      "tipo": "ley",
+      "num_articulos": 158,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lgcc",
+      "etiqueta": "Ley General de Cambio Climático",
+      "sigla": "LGCC",
+      "tipo": "ley",
+      "num_articulos": 116,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lgcfd",
+      "etiqueta": "Ley General de Cultura Física y Deporte",
+      "sigla": "LGCFD",
+      "tipo": "ley",
+      "num_articulos": 157,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lgcg",
+      "etiqueta": "Ley General de Contabilidad Gubernamental",
+      "sigla": "LGCG",
+      "tipo": "ley",
+      "num_articulos": 87,
+      "version": "2026-05-14"
+    },
+    {
+      "clave": "lgcs",
+      "etiqueta": "Ley General de Comunicación Social",
+      "sigla": "LGCS",
+      "tipo": "ley",
+      "num_articulos": 45,
+      "version": "2024-04-01"
     },
     {
       "clave": "lgdp",
@@ -879,6 +1159,14 @@
       "tipo": "ley",
       "num_articulos": 236,
       "version": "2024-04-01"
+    },
+    {
+      "clave": "lissfam",
+      "etiqueta": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+      "sigla": "LISSFAM",
+      "tipo": "ley",
+      "num_articulos": 231,
+      "version": "2025-11-14"
     },
     {
       "clave": "lissste",
@@ -1175,6 +1463,14 @@
       "tipo": "ley",
       "num_articulos": 32,
       "version": "2025-11-14"
+    },
+    {
+      "clave": "lsrlip",
+      "etiqueta": "Ley de Sociedades de Responsabilidad Limitada de Interés Público",
+      "sigla": "LSRLIP",
+      "tipo": "ley",
+      "num_articulos": 13,
+      "version": "2012-04-09"
     },
     {
       "clave": "lss",

@@ -1408,6 +1408,29 @@
       }
     },
     {
+      "clave": "lfaebsp",
+      "etiqueta": "Ley Federal para la Administración y Enajenación de Bienes del Sector Público",
+      "sigla": "LFAEBSP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf",
+      "estado": "incluida",
+      "version": "2024-04-30",
+      "unidades": 100,
+      "pdf": {
+        "sha256": "269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059",
+        "bytes": 666996,
+        "etag": "\"a2d74-61783331da780\"",
+        "last_modified": "Fri, 03 May 2024 02:08:46 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lfafe",
       "etiqueta": "Ley Federal de Armas de Fuego y Explosivos",
       "sigla": "LFAFE",
@@ -1592,6 +1615,52 @@
       }
     },
     {
+      "clave": "lfcpq",
+      "etiqueta": "Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos",
+      "sigla": "LFCPQ",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPQ.pdf",
+      "estado": "incluida",
+      "version": "2023-05-03",
+      "unidades": 31,
+      "pdf": {
+        "sha256": "39d132d9b54587ce0636972dfe474936d152717e7d656864e160a637347628c6",
+        "bytes": 457273,
+        "etag": "\"6fa39-5fd085c520c80\"",
+        "last_modified": "Thu, 01 Jun 2023 02:40:34 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfcsq",
+      "etiqueta": "Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas",
+      "sigla": "LFCSQ",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 75,
+      "pdf": {
+        "sha256": "414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923",
+        "bytes": 773039,
+        "etag": "\"bcbaf-64500b6981280\"",
+        "last_modified": "Tue, 02 Dec 2025 23:47:06 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lfd",
       "etiqueta": "Ley Federal de Derechos",
       "sigla": "LFD",
@@ -1612,6 +1681,30 @@
       "alta": {
         "fecha": "2026-11-15",
         "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfda",
+      "etiqueta": "Ley Federal del Derecho de Autor",
+      "sigla": "LFDA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
+      "estado": "incluida",
+      "version": "2026-05-14",
+      "unidades": 259,
+      "pdf": {
+        "sha256": "1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5",
+        "bytes": 969098,
+        "etag": "\"ec98a-65220e8893080\"",
+        "last_modified": "Tue, 19 May 2026 00:39:14 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "reparada",
+        "reparacion": "articulado: 'Artículos 135.-' en plural abre artículo y nombres de capítulo entre corchetes con notas de invalidez de la SCJN son estructura"
       }
     },
     {
@@ -1753,6 +1846,52 @@
       }
     },
     {
+      "clave": "lffmaa",
+      "etiqueta": "Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal",
+      "sigla": "LFFMAA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFMAA.pdf",
+      "estado": "incluida",
+      "version": "2023-03-27",
+      "unidades": 45,
+      "pdf": {
+        "sha256": "31d853037c0fe8c97535b508ed8a5366dfd6c83e53b6b32967c816554504dbaa",
+        "bytes": 430121,
+        "etag": "\"69029-5f8289358bd80\"",
+        "last_modified": "Fri, 31 Mar 2023 02:00:38 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lffpmn",
+      "etiqueta": "Ley Federal para el Fomento y Protección del Maíz Nativo",
+      "sigla": "LFFPMN",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFPMN_130420.pdf",
+      "estado": "incluida",
+      "version": "2020-04-13",
+      "unidades": 13,
+      "pdf": {
+        "sha256": "3564da0e2d5216d234ef006ac52ce494528a018a67301be009026db9f1edf91b",
+        "bytes": 181105,
+        "etag": "\"2c371-5a48c6fb40a00\"",
+        "last_modified": "Fri, 01 May 2020 01:52:40 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lfgr",
       "etiqueta": "Ley de la Fiscalía General de la República",
       "sigla": "LFGR",
@@ -1790,6 +1929,29 @@
         "bytes": 1139853,
         "etag": "\"11648d-64485ec3ca340\"",
         "last_modified": "Wed, 26 Nov 2025 21:17:25 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfisan",
+      "etiqueta": "Ley Federal del Impuesto sobre Automóviles Nuevos",
+      "sigla": "LFISAN",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf",
+      "estado": "incluida",
+      "version": "2021-11-12",
+      "unidades": 14,
+      "pdf": {
+        "sha256": "ef658aa6a3b15e99a4d19edaa6713598a37523f4179ae69a4462bcb8ca870eb1",
+        "bytes": 580378,
+        "etag": "\"8db1a-64861b0a69a40\"",
+        "last_modified": "Wed, 14 Jan 2026 23:44:33 GMT"
       },
       "extractor": "817e43250c609f69",
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
@@ -1868,6 +2030,29 @@
       }
     },
     {
+      "clave": "lfm",
+      "etiqueta": "Ley Federal del Mar",
+      "sigla": "LFM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/124.pdf",
+      "estado": "incluida",
+      "version": "1986-01-08",
+      "unidades": 65,
+      "pdf": {
+        "sha256": "8d9eac4d6509cf79f1755895a3e93d6268d423ab101ab08c6fd734f55a5a7818",
+        "bytes": 317132,
+        "etag": "\"4d6cc-57652777363c0\"",
+        "last_modified": "Thu, 20 Sep 2018 19:24:07 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lfmped",
       "etiqueta": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
       "sigla": "LFMPED",
@@ -1887,6 +2072,29 @@
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
       "alta": {
         "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfmzaah",
+      "etiqueta": "Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos",
+      "sigla": "LFMZAAH",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMZAAH.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 62,
+      "pdf": {
+        "sha256": "bce07ae6b706e935ded9023e4d11d8797aa725ecbe4d1a0ef219ca1a8080b4cb",
+        "bytes": 461457,
+        "etag": "\"70a91-6450172a58d40\"",
+        "last_modified": "Wed, 03 Dec 2025 00:39:41 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
         "via": "limpia"
       }
     },
@@ -1978,6 +2186,98 @@
       "fecha": "2026-11-16"
     },
     {
+      "clave": "lfpdppp",
+      "etiqueta": "Ley Federal de Protección de Datos Personales en Posesión de los Particulares",
+      "sigla": "LFPDPPP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 64,
+      "pdf": {
+        "sha256": "04d67464e1efc0472040e2ff8012ced52c73ff4fc3573c8e2d3477fd976359c6",
+        "bytes": 457399,
+        "etag": "\"6fab7-644fc96388dc0\"",
+        "last_modified": "Tue, 02 Dec 2025 18:51:43 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfped",
+      "etiqueta": "Ley Federal para Prevenir y Eliminar la Discriminación",
+      "sigla": "LFPED",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 105,
+      "pdf": {
+        "sha256": "f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9",
+        "bytes": 688437,
+        "etag": "\"a8135-64500f12f7640\"",
+        "last_modified": "Wed, 03 Dec 2025 00:03:29 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfpiorpi",
+      "etiqueta": "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+      "sigla": "LFPIORPI",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf",
+      "estado": "incluida",
+      "version": "2025-07-16",
+      "unidades": 73,
+      "pdf": {
+        "sha256": "2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f",
+        "bytes": 570526,
+        "etag": "\"8b49e-63d8a4ef93500\"",
+        "last_modified": "Sat, 30 Aug 2025 00:35:00 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfppcpcia",
+      "etiqueta": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "sigla": "LFPPCPCIA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 75,
+      "pdf": {
+        "sha256": "7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe",
+        "bytes": 390268,
+        "etag": "\"5f47c-644fccfbd4900\"",
+        "last_modified": "Tue, 02 Dec 2025 19:07:48 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lfppi",
       "etiqueta": "Ley Federal de Protección a la Propiedad Industrial",
       "sigla": "LFPPI",
@@ -1992,6 +2292,29 @@
         "bytes": 1263932,
         "etag": "\"13493c-6507d40e2bf80\"",
         "last_modified": "Tue, 28 Apr 2026 03:59:10 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfppipp",
+      "etiqueta": "Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal",
+      "sigla": "LFPPIPP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_200521.pdf",
+      "estado": "incluida",
+      "version": "2021-05-20",
+      "unidades": 52,
+      "pdf": {
+        "sha256": "2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56",
+        "bytes": 391564,
+        "etag": "\"5f98c-5c4e874f19740\"",
+        "last_modified": "Wed, 16 Jun 2021 21:05:57 GMT"
       },
       "extractor": "817e43250c609f69",
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
@@ -2024,6 +2347,52 @@
       }
     },
     {
+      "clave": "lfpsdmh",
+      "etiqueta": "Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+      "sigla": "LFPSDMH",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPSDMH.pdf",
+      "estado": "incluida",
+      "version": "2021-11-12",
+      "unidades": 24,
+      "pdf": {
+        "sha256": "ace34ed71b587262c6c3a59657b3706960600744b170a830c4996e419e5abd1a",
+        "bytes": 394014,
+        "etag": "\"6031e-5d11ab904aec0\"",
+        "last_modified": "Fri, 19 Nov 2021 02:06:27 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfra",
+      "etiqueta": "Ley Federal de Responsabilidad Ambiental",
+      "sigla": "LFRA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 56,
+      "pdf": {
+        "sha256": "7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744",
+        "bytes": 450385,
+        "etag": "\"6df51-644fd21dfe580\"",
+        "last_modified": "Tue, 02 Dec 2025 19:30:46 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lfrcf",
       "etiqueta": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
       "sigla": "LFRCF",
@@ -2043,6 +2412,167 @@
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
       "alta": {
         "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfremsp",
+      "etiqueta": "Ley Federal de Remuneraciones de los Servidores Públicos",
+      "sigla": "LFRemSP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRemSP_190521.pdf",
+      "estado": "incluida",
+      "version": "2021-05-19",
+      "unidades": 34,
+      "pdf": {
+        "sha256": "1ae9c606fad4de72ca0d2379696b39adb17826fbb112f1ae46c9acb952fa7a5d",
+        "bytes": 253995,
+        "etag": "\"3e02b-5c2b140759180\"",
+        "last_modified": "Wed, 19 May 2021 16:23:50 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfrm",
+      "etiqueta": "Ley Federal de Revocación de Mandato",
+      "sigla": "LFRM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRM.pdf",
+      "estado": "incluida",
+      "version": "2021-09-14",
+      "unidades": 61,
+      "pdf": {
+        "sha256": "eddfcf458c46cacee55392a138412b0d014bcc306c455d92ed94250efce4904c",
+        "bytes": 608253,
+        "etag": "\"947fd-608b85c7d8ac0\"",
+        "last_modified": "Fri, 27 Oct 2023 20:16:19 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfrpe",
+      "etiqueta": "Ley Federal de Responsabilidad Patrimonial del Estado",
+      "sigla": "LFRPE",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf",
+      "estado": "incluida",
+      "version": "2023-12-29",
+      "unidades": 35,
+      "pdf": {
+        "sha256": "05390b6c1389b13c8004675b51e5da49bbdbba01c352e844ec1ccaf9b5abf1da",
+        "bytes": 391126,
+        "etag": "\"5f7d6-60f4062130080\"",
+        "last_modified": "Thu, 18 Jan 2024 23:04:18 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfrsp",
+      "etiqueta": "Ley Federal de Responsabilidades de los Servidores Públicos",
+      "sigla": "LFRSP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRSP.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 94,
+      "pdf": {
+        "sha256": "b377014351dbf3e21a9a031fa24fb97658db1d78f6d44d7b20efa1840d49d599",
+        "bytes": 545975,
+        "etag": "\"854b7-6179671cc1f80\"",
+        "last_modified": "Sat, 04 May 2024 01:06:22 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfsa",
+      "etiqueta": "Ley Federal de Sanidad Animal",
+      "sigla": "LFSA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSA.pdf",
+      "estado": "incluida",
+      "version": "2024-05-21",
+      "unidades": 177,
+      "pdf": {
+        "sha256": "199baa54ad422398c57a8c173ef25c3a75ed0d6532128d244fcd46246e6f4e08",
+        "bytes": 802286,
+        "etag": "\"c3dee-619885e439d00\"",
+        "last_modified": "Tue, 28 May 2024 19:09:08 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfsp",
+      "etiqueta": "Ley Federal de Seguridad Privada",
+      "sigla": "LFSP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf",
+      "estado": "incluida",
+      "version": "2011-10-17",
+      "unidades": 50,
+      "pdf": {
+        "sha256": "08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69",
+        "bytes": 365989,
+        "etag": "\"595a5-576cfdb2cafc0\"",
+        "last_modified": "Thu, 27 Sep 2018 00:59:51 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfsv",
+      "etiqueta": "Ley Federal de Sanidad Vegetal",
+      "sigla": "LFSV",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf",
+      "estado": "incluida",
+      "version": "2022-05-11",
+      "unidades": 97,
+      "pdf": {
+        "sha256": "ca472228c60fb0c4f46b3f473ad478b2fbe2909d7b21da7bf9ba483aa2a5edd6",
+        "bytes": 635629,
+        "etag": "\"9b2ed-5e08e2e9444c0\"",
+        "last_modified": "Fri, 03 Jun 2022 17:09:15 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
         "via": "limpia"
       }
     },
@@ -2090,6 +2620,283 @@
       "alta": {
         "fecha": "2026-11-15",
         "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfvv",
+      "etiqueta": "Ley Federal de Variedades Vegetales",
+      "sigla": "LFVV",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFVV.pdf",
+      "estado": "incluida",
+      "version": "2022-05-11",
+      "unidades": 48,
+      "pdf": {
+        "sha256": "9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343",
+        "bytes": 397205,
+        "etag": "\"60f95-5e08dee164240\"",
+        "last_modified": "Fri, 03 Jun 2022 16:51:13 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfzee",
+      "etiqueta": "Ley Federal de Zonas Económicas Especiales",
+      "sigla": "LFZEE",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 50,
+      "pdf": {
+        "sha256": "a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e",
+        "bytes": 504123,
+        "etag": "\"7b13b-617950e5ff6c0\"",
+        "last_modified": "Fri, 03 May 2024 23:26:59 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lga",
+      "etiqueta": "Ley General de Archivos",
+      "sigla": "LGA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGA.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 123,
+      "pdf": {
+        "sha256": "2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688",
+        "bytes": 591615,
+        "etag": "\"906ff-64501c560c040\"",
+        "last_modified": "Wed, 03 Dec 2025 01:02:49 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgag",
+      "etiqueta": "Ley General de Aguas",
+      "sigla": "LGAg",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAg.pdf",
+      "estado": "incluida",
+      "version": "2025-12-11",
+      "unidades": 45,
+      "pdf": {
+        "sha256": "025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409",
+        "bytes": 310018,
+        "etag": "\"4bb02-6484764d7b500\"",
+        "last_modified": "Tue, 13 Jan 2026 16:22:12 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgahotdu",
+      "etiqueta": "Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+      "sigla": "LGAHOTDU",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 119,
+      "pdf": {
+        "sha256": "dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5",
+        "bytes": 653615,
+        "etag": "\"9f92f-6175b7e3306c0\"",
+        "last_modified": "Wed, 01 May 2024 02:46:27 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgamvlv",
+      "etiqueta": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencias",
+      "sigla": "LGAMVLV",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf",
+      "estado": "incluida",
+      "version": "2026-01-15",
+      "unidades": 103,
+      "pdf": {
+        "sha256": "9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535",
+        "bytes": 903623,
+        "etag": "\"dc9c7-6491a2d678400\"",
+        "last_modified": "Sat, 24 Jan 2026 03:50:40 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgb",
+      "etiqueta": "Ley General de Bibliotecas",
+      "sigla": "LGB",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf",
+      "estado": "incluida",
+      "version": "2023-11-29",
+      "unidades": 45,
+      "pdf": {
+        "sha256": "1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19",
+        "bytes": 280045,
+        "etag": "\"445ed-60c5422fc2500\"",
+        "last_modified": "Tue, 12 Dec 2023 18:22:44 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgbn",
+      "etiqueta": "Ley General de Bienes Nacionales",
+      "sigla": "LGBN",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGBN.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 158,
+      "pdf": {
+        "sha256": "ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5",
+        "bytes": 868289,
+        "etag": "\"d3fc1-645021e6d61c0\"",
+        "last_modified": "Wed, 03 Dec 2025 01:27:43 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgcc",
+      "etiqueta": "Ley General de Cambio Climático",
+      "sigla": "LGCC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCC.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 116,
+      "pdf": {
+        "sha256": "fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15",
+        "bytes": 698437,
+        "etag": "\"aa845-617098d5b9d80\"",
+        "last_modified": "Sat, 27 Apr 2024 01:00:54 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgcfd",
+      "etiqueta": "Ley General de Cultura Física y Deporte",
+      "sigla": "LGCFD",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCFD.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 157,
+      "pdf": {
+        "sha256": "7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d",
+        "bytes": 815207,
+        "etag": "\"c7067-64502b87217c0\"",
+        "last_modified": "Wed, 03 Dec 2025 02:10:47 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgcg",
+      "etiqueta": "Ley General de Contabilidad Gubernamental",
+      "sigla": "LGCG",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf",
+      "estado": "incluida",
+      "version": "2026-05-14",
+      "unidades": 87,
+      "pdf": {
+        "sha256": "cf7f5220f083bdcd8eed4104bbdf40299221f32cd5c51e17b1f03b033e677815",
+        "bytes": 636591,
+        "etag": "\"9b6af-6521d699278c0\"",
+        "last_modified": "Mon, 18 May 2026 20:28:59 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lgcs",
+      "etiqueta": "Ley General de Comunicación Social",
+      "sigla": "LGCS",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCS.pdf",
+      "estado": "incluida",
+      "version": "2024-04-01",
+      "unidades": 45,
+      "pdf": {
+        "sha256": "f0bce536c7b11ef67cbc2aea3216310a0293fd3971fdf98913368151b6a1ac62",
+        "bytes": 789036,
+        "etag": "\"c0a2c-6170946aab100\"",
+        "last_modified": "Sat, 27 Apr 2024 00:41:08 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "reparada",
+        "reparacion": "articulado: 'Artículos 135.-' en plural abre artículo y nombres de capítulo entre corchetes con notas de invalidez de la SCJN son estructura"
       }
     },
     {
@@ -2569,6 +3376,29 @@
         "bytes": 3021915,
         "etag": "\"2e1c5b-617d1f3d9b9c0\"",
         "last_modified": "Tue, 07 May 2024 00:06:07 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lissfam",
+      "etiqueta": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+      "sigla": "LISSFAM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 231,
+      "pdf": {
+        "sha256": "35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc",
+        "bytes": 1040647,
+        "etag": "\"fe107-64b80be8be440\"",
+        "last_modified": "Mon, 23 Feb 2026 17:03:05 GMT"
       },
       "extractor": "817e43250c609f69",
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
@@ -3423,6 +4253,29 @@
         "bytes": 646502,
         "etag": "\"9dd66-644b3791c5a80\"",
         "last_modified": "Sat, 29 Nov 2025 03:38:02 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lsrlip",
+      "etiqueta": "Ley de Sociedades de Responsabilidad Limitada de Interés Público",
+      "sigla": "LSRLIP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf",
+      "estado": "incluida",
+      "version": "2012-04-09",
+      "unidades": 13,
+      "pdf": {
+        "sha256": "18a1d80243cd419c3ffc7173cf90b8509ab8d78b4b5f64de97025fb51a170613",
+        "bytes": 327778,
+        "etag": "\"50062-5763d3dc5a940\"",
+        "last_modified": "Wed, 19 Sep 2018 18:04:45 GMT"
       },
       "extractor": "817e43250c609f69",
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",

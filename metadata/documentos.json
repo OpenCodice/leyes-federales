@@ -25,6 +25,14 @@
       "version": "2026-04-09"
     },
     {
+      "clave": "cfpc",
+      "etiqueta": "Código Federal de Procedimientos Civiles",
+      "sigla": "CFPC",
+      "tipo": "ley",
+      "num_articulos": 630,
+      "version": "2021-06-07"
+    },
+    {
       "clave": "cjm",
       "etiqueta": "Código de Justicia Militar",
       "sigla": "CJM",
@@ -105,6 +113,14 @@
       "version": "2025-11-14"
     },
     {
+      "clave": "lacp",
+      "etiqueta": "Ley de Ahorro y Crédito Popular",
+      "sigla": "LACP",
+      "tipo": "ley",
+      "num_articulos": 232,
+      "version": "2025-11-14"
+    },
+    {
       "clave": "ladua",
       "etiqueta": "Ley Aduanera",
       "sigla": "L. Aduanera",
@@ -151,6 +167,14 @@
       "tipo": "ley",
       "num_articulos": 272,
       "version": "2025-10-16"
+    },
+    {
+      "clave": "lan",
+      "etiqueta": "Ley de Aguas Nacionales",
+      "sigla": "LAN",
+      "tipo": "ley",
+      "num_articulos": 215,
+      "version": "2025-12-11"
     },
     {
       "clave": "lansi",
@@ -465,6 +489,30 @@
       "version": "2025-11-14"
     },
     {
+      "clave": "lfafe",
+      "etiqueta": "Ley Federal de Armas de Fuego y Explosivos",
+      "sigla": "LFAFE",
+      "tipo": "ley",
+      "num_articulos": 125,
+      "version": "2025-05-29"
+    },
+    {
+      "clave": "lfar",
+      "etiqueta": "Ley Federal de Austeridad Republicana",
+      "sigla": "LFAR",
+      "tipo": "ley",
+      "num_articulos": 30,
+      "version": "2025-04-16"
+    },
+    {
+      "clave": "lfca",
+      "etiqueta": "Ley Federal de Cine y el Audiovisual",
+      "sigla": "LFCA",
+      "tipo": "ley",
+      "num_articulos": 68,
+      "version": "2026-05-22"
+    },
+    {
       "clave": "lfcc",
       "etiqueta": "Ley de Fomento a la Confianza Ciudadana",
       "sigla": "LFCC",
@@ -473,12 +521,92 @@
       "version": "2020-01-20"
     },
     {
+      "clave": "lfcdo",
+      "etiqueta": "Ley Federal contra la Delincuencia Organizada",
+      "sigla": "LFCDO",
+      "tipo": "ley",
+      "num_articulos": 57,
+      "version": "2025-11-28"
+    },
+    {
+      "clave": "lfce",
+      "etiqueta": "Ley Federal de Competencia Económica",
+      "sigla": "LFCE",
+      "tipo": "ley",
+      "num_articulos": 153,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lfcp",
+      "etiqueta": "Ley Federal de Correduría Pública",
+      "sigla": "LFCP",
+      "tipo": "ley",
+      "num_articulos": 23,
+      "version": "2012-04-09"
+    },
+    {
+      "clave": "lfcpo",
+      "etiqueta": "Ley Federal de Consulta Popular",
+      "sigla": "LFCPo",
+      "tipo": "ley",
+      "num_articulos": 65,
+      "version": "2021-05-19"
+    },
+    {
+      "clave": "lfd",
+      "etiqueta": "Ley Federal de Derechos",
+      "sigla": "LFD",
+      "tipo": "ley",
+      "num_articulos": 782,
+      "version": "2025-11-07"
+    },
+    {
+      "clave": "lfdc",
+      "etiqueta": "Ley Federal de los Derechos del Contribuyente",
+      "sigla": "LFDC",
+      "tipo": "ley",
+      "num_articulos": 24,
+      "version": "2005-06-23"
+    },
+    {
+      "clave": "lfdeapd",
+      "etiqueta": "Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas",
+      "sigla": "LFDEAPD",
+      "tipo": "ley",
+      "num_articulos": 33,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "lfdefp",
+      "etiqueta": "Ley Federal de Defensoría Pública",
+      "sigla": "LFDefP",
+      "tipo": "ley",
+      "num_articulos": 42,
+      "version": "2024-04-01"
+    },
+    {
       "clave": "lfea",
       "etiqueta": "Ley de Firma Electrónica Avanzada",
       "sigla": "LFEA",
       "tipo": "ley",
       "num_articulos": 31,
       "version": "2025-11-14"
+    },
+    {
+      "clave": "lfep",
+      "etiqueta": "Ley Federal de las Entidades Paraestatales",
+      "sigla": "LFEP",
+      "tipo": "ley",
+      "num_articulos": 69,
+      "version": "2025-07-16"
+    },
+    {
+      "clave": "lffaosc",
+      "etiqueta": "Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "sigla": "LFFAOSC",
+      "tipo": "ley",
+      "num_articulos": 32,
+      "version": "2024-04-01"
     },
     {
       "clave": "lfgr",
@@ -505,6 +633,14 @@
       "version": "2018-05-23"
     },
     {
+      "clave": "lfjs",
+      "etiqueta": "Ley Federal de Juegos y Sorteos",
+      "sigla": "LFJS",
+      "tipo": "ley",
+      "num_articulos": 17,
+      "version": "1947-12-31"
+    },
+    {
       "clave": "lfll",
       "etiqueta": "Ley de Fomento para la Lectura y el Libro",
       "sigla": "LFLL",
@@ -521,6 +657,46 @@
       "version": "2025-03-18"
     },
     {
+      "clave": "lfpa",
+      "etiqueta": "Ley Federal de Procedimiento Administrativo",
+      "sigla": "LFPA",
+      "tipo": "ley",
+      "num_articulos": 118,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lfpc",
+      "etiqueta": "Ley Federal de Protección al Consumidor",
+      "sigla": "LFPC",
+      "tipo": "ley",
+      "num_articulos": 190,
+      "version": "2025-12-12"
+    },
+    {
+      "clave": "lfpca",
+      "etiqueta": "Ley Federal de Procedimiento Contencioso Administrativo",
+      "sigla": "LFPCA",
+      "tipo": "ley",
+      "num_articulos": 135,
+      "version": "2026-06-09"
+    },
+    {
+      "clave": "lfppi",
+      "etiqueta": "Ley Federal de Protección a la Propiedad Industrial",
+      "sigla": "LFPPI",
+      "tipo": "ley",
+      "num_articulos": 421,
+      "version": "2026-04-03"
+    },
+    {
+      "clave": "lfprh",
+      "etiqueta": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
+      "sigla": "LFPRH",
+      "tipo": "ley",
+      "num_articulos": 124,
+      "version": "2026-04-09"
+    },
+    {
       "clave": "lfrcf",
       "etiqueta": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
       "sigla": "LFRCF",
@@ -535,6 +711,22 @@
       "tipo": "ley",
       "num_articulos": 1265,
       "version": "2026-05-14"
+    },
+    {
+      "clave": "lftse",
+      "etiqueta": "Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional",
+      "sigla": "LFTSE",
+      "tipo": "ley",
+      "num_articulos": 177,
+      "version": "2026-01-15"
+    },
+    {
+      "clave": "lgdp",
+      "etiqueta": "Ley Federal de Deuda Pública",
+      "sigla": "LGDP",
+      "tipo": "ley",
+      "num_articulos": 32,
+      "version": "2018-01-30"
     },
     {
       "clave": "lgeepa",
@@ -721,6 +913,14 @@
       "version": "2023-05-08"
     },
     {
+      "clave": "lmtr",
+      "etiqueta": "Ley en Materia de Telecomunicaciones y Radiodifusión",
+      "sigla": "LMTR",
+      "tipo": "ley",
+      "num_articulos": 299,
+      "version": "2025-07-16"
+    },
+    {
       "clave": "lmv",
       "etiqueta": "Ley del Mercado de Valores",
       "sigla": "LMV",
@@ -873,11 +1073,35 @@
       "version": "2025-11-14"
     },
     {
+      "clave": "lsat",
+      "etiqueta": "Ley del Servicio de Administración Tributaria",
+      "sigla": "LSAT",
+      "tipo": "ley",
+      "num_articulos": 41,
+      "version": "2018-12-04"
+    },
+    {
       "clave": "lse",
       "etiqueta": "Ley del Sector Eléctrico",
       "sigla": "LSE",
       "tipo": "ley",
       "num_articulos": 188,
+      "version": "2025-03-18"
+    },
+    {
+      "clave": "lsem",
+      "etiqueta": "Ley del Servicio Exterior Mexicano",
+      "sigla": "LSEM",
+      "tipo": "ley",
+      "num_articulos": 86,
+      "version": "2018-04-19"
+    },
+    {
+      "clave": "lsh",
+      "etiqueta": "Ley del Sector Hidrocarburos",
+      "sigla": "LSH",
+      "tipo": "ley",
+      "num_articulos": 166,
       "version": "2025-03-18"
     },
     {
@@ -889,6 +1113,14 @@
       "version": "2017-12-21"
     },
     {
+      "clave": "lsm",
+      "etiqueta": "Ley del Servicio Militar",
+      "sigla": "LSM",
+      "tipo": "ley",
+      "num_articulos": 65,
+      "version": "2022-05-18"
+    },
+    {
       "clave": "lsn",
       "etiqueta": "Ley de Seguridad Nacional",
       "sigla": "LSN",
@@ -897,12 +1129,60 @@
       "version": "2025-11-14"
     },
     {
+      "clave": "lsnieg",
+      "etiqueta": "Ley del Sistema Nacional de Información Estadística y Geográfica",
+      "sigla": "LSNIEG",
+      "tipo": "ley",
+      "num_articulos": 134,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lsniimsp",
+      "etiqueta": "Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+      "sigla": "LSNIIMSP",
+      "tipo": "ley",
+      "num_articulos": 51,
+      "version": "2025-07-16"
+    },
+    {
       "clave": "lsp",
       "etiqueta": "Ley de Sistemas de Pagos",
       "sigla": "LSP",
       "tipo": "ley",
       "num_articulos": 44,
       "version": "2025-11-14"
+    },
+    {
+      "clave": "lspcapf",
+      "etiqueta": "Ley del Servicio Profesional de Carrera en la Administración Pública Federal",
+      "sigla": "LSPCAPF",
+      "tipo": "ley",
+      "num_articulos": 80,
+      "version": "2006-01-09"
+    },
+    {
+      "clave": "lspm",
+      "etiqueta": "Ley del Servicio Postal Mexicano",
+      "sigla": "LSPM",
+      "tipo": "ley",
+      "num_articulos": 72,
+      "version": "2023-01-19"
+    },
+    {
+      "clave": "lsprem",
+      "etiqueta": "Ley del Sistema Público de Radiodifusión del Estado Mexicano",
+      "sigla": "LSPREM",
+      "tipo": "ley",
+      "num_articulos": 32,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lss",
+      "etiqueta": "Ley del Seguro Social",
+      "sigla": "LSS",
+      "tipo": "ley",
+      "num_articulos": 385,
+      "version": "2026-01-15"
     },
     {
       "clave": "lsss",

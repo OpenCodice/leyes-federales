@@ -487,6 +487,28 @@
       "extractor": "4156e0ab9704ba07"
     },
     {
+      "clave": "lansi",
+      "etiqueta": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
+      "sigla": "LANSI",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf",
+      "estado": "incluida",
+      "version": "2022-05-11",
+      "unidades": 38,
+      "pdf": {
+        "sha256": "0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44",
+        "bytes": 463396,
+        "etag": "\"71224-5e07b646cbb80\"",
+        "last_modified": "Thu, 02 Jun 2022 18:44:14 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lapp",
       "etiqueta": "Ley de Asociaciones Público Privadas",
       "sigla": "LAPP",
@@ -993,6 +1015,28 @@
       }
     },
     {
+      "clave": "lfiv",
+      "etiqueta": "Ley de Fomento a la Industria Vitivinícola",
+      "sigla": "LFIV",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf",
+      "estado": "incluida",
+      "version": "2018-05-23",
+      "unidades": 35,
+      "pdf": {
+        "sha256": "db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087",
+        "bytes": 246385,
+        "etag": "\"3c271-57654638bf3c0\"",
+        "last_modified": "Thu, 20 Sep 2018 21:41:43 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lft",
       "etiqueta": "Ley Federal del Trabajo",
       "sigla": "LFT",
@@ -1051,6 +1095,28 @@
         "bytes": 3286114,
         "etag": "\"322462-64b34298182c0\"",
         "last_modified": "Thu, 19 Feb 2026 21:41:07 GMT"
+      },
+      "extractor": "4156e0ab9704ba07",
+      "alta": {
+        "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lhheum",
+      "etiqueta": "Ley de los Husos Horarios en los Estados Unidos Mexicanos",
+      "sigla": "LHHEUM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf",
+      "estado": "incluida",
+      "version": "2022-11-29",
+      "unidades": 7,
+      "pdf": {
+        "sha256": "ee7dcf952a44974e79227e9b8b8752899672827c1adfcabedc0739ceca51e49e",
+        "bytes": 264727,
+        "etag": "\"40a17-5efe47babec80\"",
+        "last_modified": "Thu, 15 Dec 2022 21:24:50 GMT"
       },
       "extractor": "4156e0ab9704ba07",
       "alta": {

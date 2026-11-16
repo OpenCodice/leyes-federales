@@ -69,7 +69,6 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley Federal de Presupuesto y Responsabilidad Hacendaria | [`lfprh/`](lfprh/) | 124 | 2026-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf) |
 | Ley Federal de Procedimiento Administrativo | [`lfpa/`](lfpa/) | 118 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf) |
 | Ley Federal de Procedimiento Contencioso Administrativo | [`lfpca/`](lfpca/) | 106 | 2026-06-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf) |
-| Ley Federal de Producción, Certificación y Comercio de Semillas | [`lfpccs/`](lfpccs/) | 42 | 2018-05-11 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf) |
 | Ley Federal de Protección a la Propiedad Industrial | [`lfppi/`](lfppi/) | 421 | 2026-04-03 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf) |
 | Ley Federal de Protección al Consumidor | [`lfpc/`](lfpc/) | 190 | 2025-12-12 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf) |
 | Ley Federal de Protección de Datos Personales en Posesión de los Particulares | [`lfpdppp/`](lfpdppp/) | 64 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf) |
@@ -129,7 +128,7 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley General de Protección Civil | [`lgpc/`](lgpc/) | 94 | 2023-12-21 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf) |
 | Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados | [`lgpdppso/`](lgpdppso/) | 137 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf) |
 | Ley General de Responsabilidades Administrativas | [`lgra/`](lgra/) | 235 | 2025-12-15 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf) |
-| Ley General de Salud | [`lgs/`](lgs/) | 728 | 2026-01-15 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf) |
+| Ley General de Salud | [`lgs/`](lgs/) | 732 | 2026-01-15 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf) |
 | Ley General de Sociedades Cooperativas | [`lgsc/`](lgsc/) | 123 | 2025-04-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf) |
 | Ley General de Sociedades Mercantiles | [`lgsm/`](lgsm/) | 277 | 2023-10-20 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf) |
 | Ley General de Transparencia y Acceso a la Información Pública | [`lgtaip/`](lgtaip/) | 216 | 2025-03-20 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf) |
@@ -192,6 +191,7 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley Orgánica del Tribunal Federal de Justicia Administrativa | [`lotfja/`](lotfja/) | 70 | 2025-10-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf) |
 | Ley Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República | [`lrfv-art76/`](lrfv-art76/) | 15 | 1978-12-29 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/202.pdf) |
 | Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos | [`lrfxiiib-art123/`](lrfxiiib-art123/) | 25 | 2021-07-31 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf) |
+| Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera | [`lrfxviii-art73/`](lrfxviii-art73/) | 2 | 1982-12-27 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf) |
 | Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos | [`lrart76-fracvi/`](lrart76-fracvi/) | 25 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf) |
 | Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos | [`lrfiyii-art105/`](lrfiyii-art105/) | 74 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf) |
 | Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear | [`lrart27-mn/`](lrart27-mn/) | 52 | 2012-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/207.pdf) |
@@ -221,7 +221,7 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley de Capitalización del Procampo | [`lcpro/`](lcpro/) | 22 | 2001-12-31 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/238.pdf) |
 | Ley de Carrera Judicial del Poder Judicial de la Federación | [`lcjpjf/`](lcjpjf/) | 74 | 2025-01-02 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf) |
 | Ley de Comercio Exterior | [`lce/`](lce/) | 109 | 2026-05-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LCE.pdf) |
-| Ley de Concursos Mercantiles | [`lcm/`](lcm/) | 353 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf) |
+| Ley de Concursos Mercantiles | [`lcm/`](lcm/) | 355 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf) |
 | Ley de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica | [`lcmopfih/`](lcmopfih/) | 15 | 1990-12-26 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf) |
 | Ley de Cooperación Internacional para el Desarrollo | [`lcid/`](lcid/) | 42 | 2020-11-06 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf) |
 | Ley de Coordinación Fiscal | [`lcf/`](lcf/) | 67 | 2024-01-03 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf) |
@@ -322,6 +322,7 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública | [`lsniimsp/`](lsniimsp/) | 51 | 2025-07-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf) |
 | Ley del Sistema Público de Radiodifusión del Estado Mexicano | [`lsprem/`](lsprem/) | 32 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPREM.pdf) |
 | Ley en Materia de Telecomunicaciones y Radiodifusión | [`lmtr/`](lmtr/) | 299 | 2025-07-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf) |
+| Ley para Conservar la Neutralidad del País | [`lcnp/`](lcnp/) | 4 | 2018-06-21 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf) |
 | Ley para Determinar el Valor de la Unidad de Medida y Actualización | [`ldvuma/`](ldvuma/) | 5 | 2016-12-30 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA_301216.pdf) |
 | Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional | [`liispcen/`](liispcen/) | 21 | 2024-04-17 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf) |
 | Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo | [`lrascap/`](lrascap/) | 144 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LRASCAP.pdf) |
@@ -374,8 +375,7 @@ cuando cambia su PDF o el extractor.
 
 | Ley | Motivo | PDF oficial |
 |---|---|---|
-| Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera | invariantes rotos: [lrfxviii-art73] al menos una unidad: 0 unidades | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf) |
+| Ley Federal de Producción, Certificación y Comercio de Semillas | La marca de agua girada del PDF deja letras sueltas dentro del texto de varios artículos. | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf) |
 | Ley de los Impuestos Generales de Importación y de Exportación | La tarifa del artículo 1o. es una tabla de varias columnas; en texto plano las columnas se mezclan a media descripción. | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf) |
-| Ley para Conservar la Neutralidad del País | invariantes rotos: [lcnp] al menos una unidad: 0 unidades | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf) |
 
 <!-- EXCLUIDAS:FIN -->

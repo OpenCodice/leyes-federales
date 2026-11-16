@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf",
   "version": "2026-01-15",
-  "num_articulos": 728,
+  "num_articulos": 732,
   "articulos": [
     {
       "clave": "001",
@@ -9218,6 +9218,26 @@
       "archivo": "lgs/268-bis.md"
     },
     {
+      "clave": "268-bis-1",
+      "articulo": 268,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 268 Bis 1",
+      "cita": "Artículo 268 Bis 1 LGS",
+      "titulo": "TITULO DECIMO SEGUNDO. Control Sanitario de Productos y Servicios de su Importación y Exportación",
+      "capitulo": "CAPITULO VIII. Equipos médicos, prótesis, ortesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "Control Sanitario de Productos y Servicios de su Importación y Exportación · Equipos médicos, prótesis, ortesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos",
+      "derogado": false,
+      "ultima_reforma": "2006-04-24",
+      "num_reformas": 1,
+      "reformas": [
+        "2006-04-24"
+      ],
+      "archivo": "lgs/268-bis-1.md"
+    },
+    {
       "clave": "269",
       "articulo": 269,
       "letra": "",
@@ -11974,13 +11994,33 @@
       "contexto": "Donación, Trasplantes y Pérdida de la Vida · Cadáveres",
       "derogado": false,
       "ultima_reforma": "2017-11-17",
-      "num_reformas": 3,
+      "num_reformas": 2,
       "reformas": [
         "2000-05-26",
-        "2005-06-07",
         "2017-11-17"
       ],
       "archivo": "lgs/350-bis-5.md"
+    },
+    {
+      "clave": "350-bis-6",
+      "articulo": 350,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 350 Bis 6",
+      "cita": "Artículo 350 Bis 6 LGS",
+      "titulo": "TITULO DECIMO CUARTO. Donación, Trasplantes y Pérdida de la Vida",
+      "capitulo": "CAPITULO V. Cadáveres",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "Donación, Trasplantes y Pérdida de la Vida · Cadáveres",
+      "derogado": false,
+      "ultima_reforma": "2005-06-07",
+      "num_reformas": 2,
+      "reformas": [
+        "2000-05-26",
+        "2005-06-07"
+      ],
+      "archivo": "lgs/350-bis-6.md"
     },
     {
       "clave": "350-bis-7",
@@ -13174,6 +13214,46 @@
         "1997-05-07"
       ],
       "archivo": "lgs/401-bis.md"
+    },
+    {
+      "clave": "401-bis-1",
+      "articulo": 401,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 401 Bis 1",
+      "cita": "Artículo 401 Bis 1 LGS",
+      "titulo": "TITULO DECIMO SEPTIMO. Vigilancia Sanitaria",
+      "capitulo": "CAPITULO UNICO",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "Vigilancia Sanitaria",
+      "derogado": false,
+      "ultima_reforma": "1991-06-14",
+      "num_reformas": 1,
+      "reformas": [
+        "1991-06-14"
+      ],
+      "archivo": "lgs/401-bis-1.md"
+    },
+    {
+      "clave": "401-bis-2",
+      "articulo": 401,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 401 Bis 2",
+      "cita": "Artículo 401 Bis 2 LGS",
+      "titulo": "TITULO DECIMO SEPTIMO. Vigilancia Sanitaria",
+      "capitulo": "CAPITULO UNICO",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "Vigilancia Sanitaria",
+      "derogado": false,
+      "ultima_reforma": "1991-06-14",
+      "num_reformas": 1,
+      "reformas": [
+        "1991-06-14"
+      ],
+      "archivo": "lgs/401-bis-2.md"
     },
     {
       "clave": "402",

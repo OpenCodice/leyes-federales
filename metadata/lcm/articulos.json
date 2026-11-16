@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf",
   "version": "2025-11-14",
-  "num_articulos": 353,
+  "num_articulos": 355,
   "articulos": [
     {
       "clave": "001",
@@ -5263,6 +5263,46 @@
         "2014-01-10"
       ],
       "archivo": "lcm/270-bis.md"
+    },
+    {
+      "clave": "270-bis-1",
+      "articulo": 270,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 270 Bis 1",
+      "cita": "Artículo 270 Bis 1 LCM",
+      "titulo": "TÍTULO DÉCIMO BIS. Responsabilidad de los administradores",
+      "capitulo": "",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "Responsabilidad de los administradores",
+      "derogado": false,
+      "ultima_reforma": "2014-01-10",
+      "num_reformas": 1,
+      "reformas": [
+        "2014-01-10"
+      ],
+      "archivo": "lcm/270-bis-1.md"
+    },
+    {
+      "clave": "270-bis-2",
+      "articulo": 270,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 270 Bis 2",
+      "cita": "Artículo 270 Bis 2 LCM",
+      "titulo": "TÍTULO DÉCIMO BIS. Responsabilidad de los administradores",
+      "capitulo": "",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "Responsabilidad de los administradores",
+      "derogado": false,
+      "ultima_reforma": "2014-01-10",
+      "num_reformas": 1,
+      "reformas": [
+        "2014-01-10"
+      ],
+      "archivo": "lcm/270-bis-2.md"
     },
     {
       "clave": "271",

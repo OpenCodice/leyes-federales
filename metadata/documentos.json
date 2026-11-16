@@ -1265,6 +1265,14 @@
       "version": "2024-06-14"
     },
     {
+      "clave": "lgipe",
+      "etiqueta": "Ley General de Instituciones y Procedimientos Electorales",
+      "sigla": "LGIPE",
+      "tipo": "ley",
+      "num_articulos": 542,
+      "version": "2026-06-02"
+    },
+    {
       "clave": "lgmasc",
       "etiqueta": "Ley General de Mecanismos Alternativos de Solución de Controversias",
       "sigla": "LGMASC",
@@ -1601,6 +1609,14 @@
       "version": "2025-02-21"
     },
     {
+      "clave": "liispcen",
+      "etiqueta": "Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "sigla": "LIISPCEN",
+      "tipo": "ley",
+      "num_articulos": 21,
+      "version": "2024-04-17"
+    },
+    {
       "clave": "limj",
       "etiqueta": "Ley del Instituto Mexicano de la Juventud",
       "sigla": "LIMJ",
@@ -1871,6 +1887,14 @@
       "tipo": "ley",
       "num_articulos": 151,
       "version": "2025-07-07"
+    },
+    {
+      "clave": "loefam",
+      "etiqueta": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
+      "sigla": "LOEFAM",
+      "tipo": "ley",
+      "num_articulos": 233,
+      "version": "2025-07-16"
     },
     {
       "clave": "log",
@@ -2385,6 +2409,14 @@
       "version": "2014-01-10"
     },
     {
+      "clave": "ltosf",
+      "etiqueta": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "sigla": "LTOSF",
+      "tipo": "ley",
+      "num_articulos": 88,
+      "version": "2025-11-14"
+    },
+    {
       "clave": "ltpcpimcp",
       "etiqueta": "Ley para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad",
       "sigla": "LTPCPIMCP",
@@ -2449,6 +2481,14 @@
       "version": "2025-11-14"
     },
     {
+      "clave": "oga",
+      "etiqueta": "Ordenanza General de la Armada",
+      "sigla": "OGA",
+      "tipo": "ley",
+      "num_articulos": 1868,
+      "version": "2000-10-19"
+    },
+    {
       "clave": "pef-2026",
       "etiqueta": "Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026",
       "sigla": "PEF_2026",
@@ -2495,6 +2535,22 @@
       "tipo": "reglamento",
       "num_articulos": 56,
       "version": "2021-12-21"
+    },
+    {
+      "clave": "rladua",
+      "etiqueta": "Reglamento de la Ley Aduanera",
+      "sigla": "RLA",
+      "tipo": "reglamento",
+      "num_articulos": 282,
+      "version": "2026-02-23"
+    },
+    {
+      "clave": "rlfpiorpi",
+      "etiqueta": "Reglamento de la LFPIORPI",
+      "sigla": "RLFPIORPI",
+      "tipo": "reglamento",
+      "num_articulos": 70,
+      "version": "2026-03-27"
     },
     {
       "clave": "rlieps",

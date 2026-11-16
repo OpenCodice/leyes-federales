@@ -3659,6 +3659,29 @@
       }
     },
     {
+      "clave": "lgipe",
+      "etiqueta": "Ley General de Instituciones y Procedimientos Electorales",
+      "sigla": "LGIPE",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf",
+      "estado": "incluida",
+      "version": "2026-06-02",
+      "unidades": 542,
+      "pdf": {
+        "sha256": "8d6253c7ac28c654543484bac172ca12bbda8db41564b07f27ca5bbea0b4cf80",
+        "bytes": 2962213,
+        "etag": "\"2d3325-653716c6174c0\"",
+        "last_modified": "Thu, 04 Jun 2026 18:07:55 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lgmasc",
       "etiqueta": "Ley General de Mecanismos Alternativos de Solución de Controversias",
       "sigla": "LGMASC",
@@ -4647,6 +4670,29 @@
       "fecha": "2026-11-16"
     },
     {
+      "clave": "liispcen",
+      "etiqueta": "Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "sigla": "LIISPCEN",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf",
+      "estado": "incluida",
+      "version": "2024-04-17",
+      "unidades": 21,
+      "pdf": {
+        "sha256": "1b8883c465f17c991ae5faeffeedffc8fee4b0b5bd7c2d2f080264fee2b3805c",
+        "bytes": 387514,
+        "etag": "\"5e9ba-616cb60889580\"",
+        "last_modified": "Tue, 23 Apr 2024 22:50:14 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "limj",
       "etiqueta": "Ley del Instituto Mexicano de la Juventud",
       "sigla": "LIMJ",
@@ -5426,6 +5472,29 @@
         "bytes": 1059317,
         "etag": "\"1029f5-6398420431f00\"",
         "last_modified": "Wed, 09 Jul 2025 19:31:40 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "loefam",
+      "etiqueta": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
+      "sigla": "LOEFAM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf",
+      "estado": "incluida",
+      "version": "2025-07-16",
+      "unidades": 233,
+      "pdf": {
+        "sha256": "6edcf3cbe4e1e01dd12e691d672534d0d2e22028f7bf81c46ecf9e6f4c9148c7",
+        "bytes": 991498,
+        "etag": "\"f210a-63ca9dbbcff80\"",
+        "last_modified": "Mon, 18 Aug 2025 20:48:14 GMT"
       },
       "extractor": "817e43250c609f69",
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
@@ -6907,6 +6976,29 @@
       }
     },
     {
+      "clave": "ltosf",
+      "etiqueta": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "sigla": "LTOSF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 88,
+      "pdf": {
+        "sha256": "bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667",
+        "bytes": 575248,
+        "etag": "\"8c710-64515099a4980\"",
+        "last_modified": "Thu, 04 Dec 2025 00:01:58 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "ltpcpimcp",
       "etiqueta": "Ley para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad",
       "sigla": "LTPCPIMCP",
@@ -7091,6 +7183,30 @@
       }
     },
     {
+      "clave": "oga",
+      "etiqueta": "Ordenanza General de la Armada",
+      "sigla": "OGA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/218.pdf",
+      "estado": "incluida",
+      "version": "2000-10-19",
+      "unidades": 1868,
+      "pdf": {
+        "sha256": "25c0da0a39813a4ad1a8189c67a693c131b9df2fc05689881251f15d42b9fdb3",
+        "bytes": 1882238,
+        "etag": "\"1cb87e-58ca7c56968c0\"",
+        "last_modified": "Tue, 02 Jul 2019 00:24:43 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "reparada",
+        "reparacion": "articulado: artículos con coma de millares (1,555), 'Bis-1' con guion, marca de agua girada y rótulo 'Disposiciones transitorias'"
+      }
+    },
+    {
       "clave": "pef-2026",
       "etiqueta": "Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026",
       "sigla": "PEF_2026",
@@ -7231,6 +7347,52 @@
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
       "alta": {
         "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "rladua",
+      "etiqueta": "Reglamento de la Ley Aduanera",
+      "sigla": "RLA",
+      "tipo": "reglamento",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAdua.pdf",
+      "estado": "incluida",
+      "version": "2026-02-23",
+      "unidades": 282,
+      "pdf": {
+        "sha256": "bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812",
+        "bytes": 903770,
+        "etag": "\"dca5a-6526e5919b0c0\"",
+        "last_modified": "Fri, 22 May 2026 21:02:35 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "rlfpiorpi",
+      "etiqueta": "Reglamento de la LFPIORPI",
+      "sigla": "RLFPIORPI",
+      "tipo": "reglamento",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPIORPI.pdf",
+      "estado": "incluida",
+      "version": "2026-03-27",
+      "unidades": 70,
+      "pdf": {
+        "sha256": "8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9",
+        "bytes": 385110,
+        "etag": "\"5e056-6533a830ade00\"",
+        "last_modified": "Tue, 02 Jun 2026 00:37:12 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
         "via": "limpia"
       }
     },

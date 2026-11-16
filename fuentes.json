@@ -1109,6 +1109,30 @@
       }
     },
     {
+      "clave": "lcnp",
+      "etiqueta": "Ley para Conservar la Neutralidad del País",
+      "sigla": "LCNP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf",
+      "estado": "incluida",
+      "version": "2018-06-21",
+      "unidades": 4,
+      "pdf": {
+        "sha256": "b1de107a982a73c02c12c952586d16063c9fc51c8e1e29594924f24d0107395a",
+        "bytes": 315527,
+        "etag": "\"4d087-5763ecebb8900\"",
+        "last_modified": "Wed, 19 Sep 2018 19:56:52 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "reparada",
+        "reparacion": "articulado: filas numéricas de tabla no son marca de agua y leyes breves con artículos en ordinal ('ARTICULO PRIMERO.-')"
+      }
+    },
+    {
       "clave": "lcpaf",
       "etiqueta": "Ley de Caminos, Puentes y Autotransporte Federal",
       "sigla": "LCPAF",
@@ -6375,6 +6399,30 @@
       "alta": {
         "fecha": "2026-11-16",
         "via": "limpia"
+      }
+    },
+    {
+      "clave": "lrfxviii-art73",
+      "etiqueta": "Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera",
+      "sigla": "LRFXVIII_ART73",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf",
+      "estado": "incluida",
+      "version": "1982-12-27",
+      "unidades": 2,
+      "pdf": {
+        "sha256": "d946e7696c01236d288d0b36d4fa8a0ac61a937c6c4a1280a0913389852ec30b",
+        "bytes": 195581,
+        "etag": "\"2fbfd-5763fa40ebdc0\"",
+        "last_modified": "Wed, 19 Sep 2018 20:56:31 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "reparada",
+        "reparacion": "articulado: filas numéricas de tabla no son marca de agua y leyes breves con artículos en ordinal ('ARTICULO PRIMERO.-')"
       }
     },
     {

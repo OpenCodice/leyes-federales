@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
   "version": "2025-11-07",
-  "num_articulos": 694,
+  "num_articulos": 782,
   "articulos": [
     {
       "clave": "001",
@@ -640,15 +640,35 @@
       "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Gobernación · Certificados de Licitud",
       "derogado": false,
       "ultima_reforma": "2010-11-18",
-      "num_reformas": 5,
+      "num_reformas": 3,
       "reformas": [
         "1989-12-28",
         "1990-12-26",
+        "2010-11-18"
+      ],
+      "archivo": "lfd/019.md"
+    },
+    {
+      "clave": "019-1",
+      "articulo": 19,
+      "letra": "",
+      "ordinal": "",
+      "etiqueta": "Artículo 19-1",
+      "cita": "Artículo 19-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO I. De la Secretaría de Gobernación",
+      "seccion": "Sección Segunda. Certificados de Licitud",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Gobernación · Certificados de Licitud",
+      "derogado": true,
+      "ultima_reforma": "2010-11-18",
+      "num_reformas": 3,
+      "reformas": [
         "1999-12-31",
         "2002-12-30",
         "2010-11-18"
       ],
-      "archivo": "lfd/019.md"
+      "archivo": "lfd/019-1.md"
     },
     {
       "clave": "019-a",
@@ -2105,20 +2125,63 @@
       "epigrafe": "",
       "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Hacienda y Crédito Público · Inspección y Vigilancia",
       "derogado": false,
-      "ultima_reforma": "2015-11-18",
-      "num_reformas": 9,
+      "ultima_reforma": "2010-11-18",
+      "num_reformas": 7,
       "reformas": [
         "1989-12-28",
         "1990-12-26",
-        "1991-12-20",
         "1996-12-30",
         "1998-12-31",
         "2000-12-31",
         "2003-12-31",
-        "2010-11-18",
-        "2015-11-18"
+        "2010-11-18"
       ],
       "archivo": "lfd/031-a.md"
+    },
+    {
+      "clave": "031-a-1",
+      "articulo": 31,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 31-A-1",
+      "cita": "Artículo 31-A-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO III. De la Secretaría de Hacienda y Crédito Público",
+      "seccion": "Sección Primera. Inspección y Vigilancia",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Hacienda y Crédito Público · Inspección y Vigilancia",
+      "derogado": false,
+      "ultima_reforma": "2015-11-18",
+      "num_reformas": 5,
+      "reformas": [
+        "1990-12-26",
+        "1991-12-20",
+        "1996-12-30",
+        "2003-12-31",
+        "2015-11-18"
+      ],
+      "archivo": "lfd/031-a-1.md"
+    },
+    {
+      "clave": "031-a-2",
+      "articulo": 31,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 31-A-2",
+      "cita": "Artículo 31-A-2 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO III. De la Secretaría de Hacienda y Crédito Público",
+      "seccion": "Sección Primera. Inspección y Vigilancia",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Hacienda y Crédito Público · Inspección y Vigilancia",
+      "derogado": false,
+      "ultima_reforma": "2015-11-18",
+      "num_reformas": 2,
+      "reformas": [
+        "2003-12-31",
+        "2015-11-18"
+      ],
+      "archivo": "lfd/031-a-2.md"
     },
     {
       "clave": "031-b",
@@ -4792,16 +4855,55 @@
       "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Agricultura, Ganadería y Desarrollo Rural · Sanidad Fitozoosanitaria",
       "derogado": false,
       "ultima_reforma": "2015-11-18",
-      "num_reformas": 6,
+      "num_reformas": 3,
       "reformas": [
         "1996-12-30",
-        "2002-01-01",
-        "2004-12-01",
-        "2009-11-27",
         "2011-12-12",
         "2015-11-18"
       ],
       "archivo": "lfd/086-d.md"
+    },
+    {
+      "clave": "086-d-1",
+      "articulo": 86,
+      "letra": "D",
+      "ordinal": "",
+      "etiqueta": "Artículo 86-D-1",
+      "cita": "Artículo 86-D-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO VII. Secretaría de Agricultura, Ganadería y Desarrollo Rural",
+      "seccion": "SECCIÓN SEGUNDA. Sanidad Fitozoosanitaria",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Agricultura, Ganadería y Desarrollo Rural · Sanidad Fitozoosanitaria",
+      "derogado": false,
+      "ultima_reforma": "2009-11-27",
+      "num_reformas": 3,
+      "reformas": [
+        "2002-01-01",
+        "2004-12-01",
+        "2009-11-27"
+      ],
+      "archivo": "lfd/086-d-1.md"
+    },
+    {
+      "clave": "086-d-2",
+      "articulo": 86,
+      "letra": "D",
+      "ordinal": "",
+      "etiqueta": "Artículo 86-D-2",
+      "cita": "Artículo 86-D-2 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO VII. Secretaría de Agricultura, Ganadería y Desarrollo Rural",
+      "seccion": "SECCIÓN SEGUNDA. Sanidad Fitozoosanitaria",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Agricultura, Ganadería y Desarrollo Rural · Sanidad Fitozoosanitaria",
+      "derogado": false,
+      "ultima_reforma": "2015-11-18",
+      "num_reformas": 1,
+      "reformas": [
+        "2015-11-18"
+      ],
+      "archivo": "lfd/086-d-2.md"
     },
     {
       "clave": "086-e",
@@ -9421,6 +9523,66 @@
       "archivo": "lfd/174-l.md"
     },
     {
+      "clave": "174-l-1",
+      "articulo": 174,
+      "letra": "L",
+      "ordinal": "",
+      "etiqueta": "Artículo 174-L-1",
+      "cita": "Artículo 174-L-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO IX. De la Comisión Reguladora de Telecomunicaciones",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Comisión Reguladora de Telecomunicaciones",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/174-l-1.md"
+    },
+    {
+      "clave": "174-l-2",
+      "articulo": 174,
+      "letra": "L",
+      "ordinal": "",
+      "etiqueta": "Artículo 174-L-2",
+      "cita": "Artículo 174-L-2 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO IX. De la Comisión Reguladora de Telecomunicaciones",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Comisión Reguladora de Telecomunicaciones",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/174-l-2.md"
+    },
+    {
+      "clave": "174-l-3",
+      "articulo": 174,
+      "letra": "L",
+      "ordinal": "",
+      "etiqueta": "Artículo 174-L-3",
+      "cita": "Artículo 174-L-3 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO IX. De la Comisión Reguladora de Telecomunicaciones",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Comisión Reguladora de Telecomunicaciones",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/174-l-3.md"
+    },
+    {
       "clave": "174-m",
       "articulo": 174,
       "letra": "M",
@@ -9442,6 +9604,26 @@
         "2025-11-07"
       ],
       "archivo": "lfd/174-m.md"
+    },
+    {
+      "clave": "174-m-1",
+      "articulo": 174,
+      "letra": "M",
+      "ordinal": "",
+      "etiqueta": "Artículo 174-M-1",
+      "cita": "Artículo 174-M-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO IX. De la Comisión Reguladora de Telecomunicaciones",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Comisión Reguladora de Telecomunicaciones",
+      "derogado": false,
+      "ultima_reforma": "2025-11-07",
+      "num_reformas": 1,
+      "reformas": [
+        "2025-11-07"
+      ],
+      "archivo": "lfd/174-m-1.md"
     },
     {
       "clave": "174-n",
@@ -10528,6 +10710,26 @@
       "archivo": "lfd/194-c.md"
     },
     {
+      "clave": "194-c-1",
+      "articulo": 194,
+      "letra": "C",
+      "ordinal": "",
+      "etiqueta": "Artículo 194-C-1",
+      "cita": "Artículo 194-C-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+      "seccion": "Sección Cuarta. De las Areas Naturales Protegidas",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · De las Areas Naturales Protegidas",
+      "derogado": false,
+      "ultima_reforma": "1999-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1999-12-31"
+      ],
+      "archivo": "lfd/194-c-1.md"
+    },
+    {
       "clave": "194-d",
       "articulo": 194,
       "letra": "D",
@@ -10589,13 +10791,37 @@
       "epigrafe": "",
       "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Servicios de Vida Silvestre",
       "derogado": false,
-      "ultima_reforma": "2011-12-12",
-      "num_reformas": 14,
+      "ultima_reforma": "2005-12-21",
+      "num_reformas": 9,
       "reformas": [
         "1996-05-10",
         "1996-12-30",
         "1997-12-29",
         "1998-12-31",
+        "1999-12-31",
+        "2000-12-31",
+        "2002-01-01",
+        "2002-12-30",
+        "2005-12-21"
+      ],
+      "archivo": "lfd/194-f.md"
+    },
+    {
+      "clave": "194-f-1",
+      "articulo": 194,
+      "letra": "F",
+      "ordinal": "",
+      "etiqueta": "Artículo 194-F-1",
+      "cita": "Artículo 194-F-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+      "seccion": "Sección Sexta. Servicios de Vida Silvestre",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Servicios de Vida Silvestre",
+      "derogado": false,
+      "ultima_reforma": "2011-12-12",
+      "num_reformas": 10,
+      "reformas": [
         "1999-12-31",
         "2000-12-31",
         "2002-01-01",
@@ -10607,7 +10833,7 @@
         "2008-11-13",
         "2011-12-12"
       ],
-      "archivo": "lfd/194-f.md"
+      "archivo": "lfd/194-f-1.md"
     },
     {
       "clave": "194-g",
@@ -10793,21 +11019,130 @@
       "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Servicios Forestales",
       "derogado": true,
       "ultima_reforma": "2023-11-13",
-      "num_reformas": 11,
+      "num_reformas": 7,
       "reformas": [
         "1996-05-10",
-        "1996-12-30",
         "1999-12-31",
-        "2002-12-30",
         "2003-12-31",
         "2005-12-21",
-        "2006-12-27",
-        "2011-12-12",
         "2020-12-08",
         "2021-11-12",
         "2023-11-13"
       ],
       "archivo": "lfd/194-n.md"
+    },
+    {
+      "clave": "194-n-1",
+      "articulo": 194,
+      "letra": "N",
+      "ordinal": "",
+      "etiqueta": "Artículo 194-N-1",
+      "cita": "Artículo 194-N-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+      "seccion": "Sección Octava. Servicios Forestales",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Servicios Forestales",
+      "derogado": false,
+      "ultima_reforma": "2020-12-08",
+      "num_reformas": 3,
+      "reformas": [
+        "1996-12-30",
+        "2003-12-31",
+        "2020-12-08"
+      ],
+      "archivo": "lfd/194-n-1.md"
+    },
+    {
+      "clave": "194-n-2",
+      "articulo": 194,
+      "letra": "N",
+      "ordinal": "",
+      "etiqueta": "Artículo 194-N-2",
+      "cita": "Artículo 194-N-2 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+      "seccion": "Sección Octava. Servicios Forestales",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Servicios Forestales",
+      "derogado": false,
+      "ultima_reforma": "2021-11-12",
+      "num_reformas": 7,
+      "reformas": [
+        "1999-12-31",
+        "2002-12-30",
+        "2003-12-31",
+        "2005-12-21",
+        "2011-12-12",
+        "2020-12-08",
+        "2021-11-12"
+      ],
+      "archivo": "lfd/194-n-2.md"
+    },
+    {
+      "clave": "194-n-3",
+      "articulo": 194,
+      "letra": "N",
+      "ordinal": "",
+      "etiqueta": "Artículo 194-N-3",
+      "cita": "Artículo 194-N-3 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+      "seccion": "Sección Octava. Servicios Forestales",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Servicios Forestales",
+      "derogado": false,
+      "ultima_reforma": "2003-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "2003-12-31"
+      ],
+      "archivo": "lfd/194-n-3.md"
+    },
+    {
+      "clave": "194-n-4",
+      "articulo": 194,
+      "letra": "N",
+      "ordinal": "",
+      "etiqueta": "Artículo 194-N-4",
+      "cita": "Artículo 194-N-4 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+      "seccion": "Sección Octava. Servicios Forestales",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Servicios Forestales",
+      "derogado": false,
+      "ultima_reforma": "2021-11-12",
+      "num_reformas": 3,
+      "reformas": [
+        "2003-12-31",
+        "2005-12-21",
+        "2021-11-12"
+      ],
+      "archivo": "lfd/194-n-4.md"
+    },
+    {
+      "clave": "194-n-5",
+      "articulo": 194,
+      "letra": "N",
+      "ordinal": "",
+      "etiqueta": "Artículo 194-N-5",
+      "cita": "Artículo 194-N-5 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+      "seccion": "Sección Octava. Servicios Forestales",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Servicios Forestales",
+      "derogado": true,
+      "ultima_reforma": "2011-12-12",
+      "num_reformas": 4,
+      "reformas": [
+        "2003-12-31",
+        "2005-12-21",
+        "2006-12-27",
+        "2011-12-12"
+      ],
+      "archivo": "lfd/194-n-5.md"
     },
     {
       "clave": "194-o",
@@ -10931,19 +11266,144 @@
       "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Prevención y Control de la Contaminación",
       "derogado": false,
       "ultima_reforma": "2010-11-18",
-      "num_reformas": 9,
+      "num_reformas": 7,
       "reformas": [
         "1996-05-10",
         "1999-12-31",
-        "2000-12-31",
         "2003-12-31",
         "2004-12-01",
-        "2005-12-21",
         "2007-12-24",
         "2008-11-13",
         "2010-11-18"
       ],
       "archivo": "lfd/194-t.md"
+    },
+    {
+      "clave": "194-t-1",
+      "articulo": 194,
+      "letra": "T",
+      "ordinal": "",
+      "etiqueta": "Artículo 194-T-1",
+      "cita": "Artículo 194-T-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+      "seccion": "Sección Novena. Prevención y Control de la Contaminación",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Prevención y Control de la Contaminación",
+      "derogado": false,
+      "ultima_reforma": "2007-12-24",
+      "num_reformas": 3,
+      "reformas": [
+        "1999-12-31",
+        "2004-12-01",
+        "2007-12-24"
+      ],
+      "archivo": "lfd/194-t-1.md"
+    },
+    {
+      "clave": "194-t-2",
+      "articulo": 194,
+      "letra": "T",
+      "ordinal": "",
+      "etiqueta": "Artículo 194-T-2",
+      "cita": "Artículo 194-T-2 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+      "seccion": "Sección Novena. Prevención y Control de la Contaminación",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Prevención y Control de la Contaminación",
+      "derogado": false,
+      "ultima_reforma": "1999-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1999-12-31"
+      ],
+      "archivo": "lfd/194-t-2.md"
+    },
+    {
+      "clave": "194-t-3",
+      "articulo": 194,
+      "letra": "T",
+      "ordinal": "",
+      "etiqueta": "Artículo 194-T-3",
+      "cita": "Artículo 194-T-3 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+      "seccion": "Sección Novena. Prevención y Control de la Contaminación",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Prevención y Control de la Contaminación",
+      "derogado": false,
+      "ultima_reforma": "2004-12-01",
+      "num_reformas": 2,
+      "reformas": [
+        "2000-12-31",
+        "2004-12-01"
+      ],
+      "archivo": "lfd/194-t-3.md"
+    },
+    {
+      "clave": "194-t-4",
+      "articulo": 194,
+      "letra": "T",
+      "ordinal": "",
+      "etiqueta": "Artículo 194-T-4",
+      "cita": "Artículo 194-T-4 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+      "seccion": "Sección Novena. Prevención y Control de la Contaminación",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Prevención y Control de la Contaminación",
+      "derogado": false,
+      "ultima_reforma": "2010-11-18",
+      "num_reformas": 3,
+      "reformas": [
+        "2005-12-21",
+        "2008-11-13",
+        "2010-11-18"
+      ],
+      "archivo": "lfd/194-t-4.md"
+    },
+    {
+      "clave": "194-t-5",
+      "articulo": 194,
+      "letra": "T",
+      "ordinal": "",
+      "etiqueta": "Artículo 194-T-5",
+      "cita": "Artículo 194-T-5 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+      "seccion": "Sección Novena. Prevención y Control de la Contaminación",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Prevención y Control de la Contaminación",
+      "derogado": false,
+      "ultima_reforma": "2008-11-13",
+      "num_reformas": 2,
+      "reformas": [
+        "2007-12-24",
+        "2008-11-13"
+      ],
+      "archivo": "lfd/194-t-5.md"
+    },
+    {
+      "clave": "194-t-6",
+      "articulo": 194,
+      "letra": "T",
+      "ordinal": "",
+      "etiqueta": "Artículo 194-T-6",
+      "cita": "Artículo 194-T-6 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+      "seccion": "Sección Novena. Prevención y Control de la Contaminación",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · Secretaría de Medio Ambiente, Recursos Naturales y Pesca · Prevención y Control de la Contaminación",
+      "derogado": false,
+      "ultima_reforma": "2008-11-13",
+      "num_reformas": 2,
+      "reformas": [
+        "2007-12-24",
+        "2008-11-13"
+      ],
+      "archivo": "lfd/194-t-6.md"
     },
     {
       "clave": "194-u",
@@ -11192,6 +11652,24 @@
       "epigrafe": "",
       "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Fomento y Análisis Sanitario",
       "derogado": false,
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "lfd/195-d.md"
+    },
+    {
+      "clave": "195-d-1",
+      "articulo": 195,
+      "letra": "D",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-D-1",
+      "cita": "Artículo 195-D-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Tercera. Fomento y Análisis Sanitario",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Fomento y Análisis Sanitario",
+      "derogado": true,
       "ultima_reforma": "1996-12-30",
       "num_reformas": 3,
       "reformas": [
@@ -11199,7 +11677,7 @@
         "1995-12-15",
         "1996-12-30"
       ],
-      "archivo": "lfd/195-d.md"
+      "archivo": "lfd/195-d-1.md"
     },
     {
       "clave": "195-e",
@@ -11374,19 +11852,259 @@
       "epigrafe": "",
       "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Otros Servicios",
       "derogado": false,
-      "ultima_reforma": "2021-11-12",
-      "num_reformas": 8,
+      "ultima_reforma": "1990-12-26",
+      "num_reformas": 1,
       "reformas": [
-        "1990-12-26",
-        "2000-12-31",
-        "2002-12-30",
-        "2003-12-31",
-        "2004-12-01",
-        "2010-11-18",
-        "2013-12-11",
-        "2021-11-12"
+        "1990-12-26"
       ],
       "archivo": "lfd/195-k.md"
+    },
+    {
+      "clave": "195-k-1",
+      "articulo": 195,
+      "letra": "K",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-K-1",
+      "cita": "Artículo 195-K-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Cuarta. Otros Servicios",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Otros Servicios",
+      "derogado": false,
+      "ultima_reforma": "2000-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "2000-12-31"
+      ],
+      "archivo": "lfd/195-k-1.md"
+    },
+    {
+      "clave": "195-k-2",
+      "articulo": 195,
+      "letra": "K",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-K-2",
+      "cita": "Artículo 195-K-2 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Cuarta. Otros Servicios",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Otros Servicios",
+      "derogado": false,
+      "ultima_reforma": "2004-12-01",
+      "num_reformas": 3,
+      "reformas": [
+        "2002-12-30",
+        "2003-12-31",
+        "2004-12-01"
+      ],
+      "archivo": "lfd/195-k-2.md"
+    },
+    {
+      "clave": "195-k-3",
+      "articulo": 195,
+      "letra": "K",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-K-3",
+      "cita": "Artículo 195-K-3 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Cuarta. Otros Servicios",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Otros Servicios",
+      "derogado": false,
+      "ultima_reforma": "2021-11-12",
+      "num_reformas": 2,
+      "reformas": [
+        "2002-12-30",
+        "2021-11-12"
+      ],
+      "archivo": "lfd/195-k-3.md"
+    },
+    {
+      "clave": "195-k-4",
+      "articulo": 195,
+      "letra": "K",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-K-4",
+      "cita": "Artículo 195-K-4 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Cuarta. Otros Servicios",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Otros Servicios",
+      "derogado": false,
+      "ultima_reforma": "2013-12-11",
+      "num_reformas": 2,
+      "reformas": [
+        "2002-12-30",
+        "2013-12-11"
+      ],
+      "archivo": "lfd/195-k-4.md"
+    },
+    {
+      "clave": "195-k-5",
+      "articulo": 195,
+      "letra": "K",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-K-5",
+      "cita": "Artículo 195-K-5 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Cuarta. Otros Servicios",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Otros Servicios",
+      "derogado": false,
+      "ultima_reforma": "2002-12-30",
+      "num_reformas": 1,
+      "reformas": [
+        "2002-12-30"
+      ],
+      "archivo": "lfd/195-k-5.md"
+    },
+    {
+      "clave": "195-k-6",
+      "articulo": 195,
+      "letra": "K",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-K-6",
+      "cita": "Artículo 195-K-6 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Cuarta. Otros Servicios",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Otros Servicios",
+      "derogado": true,
+      "ultima_reforma": "2013-12-11",
+      "num_reformas": 2,
+      "reformas": [
+        "2002-12-30",
+        "2013-12-11"
+      ],
+      "archivo": "lfd/195-k-6.md"
+    },
+    {
+      "clave": "195-k-7",
+      "articulo": 195,
+      "letra": "K",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-K-7",
+      "cita": "Artículo 195-K-7 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Cuarta. Otros Servicios",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Otros Servicios",
+      "derogado": false,
+      "ultima_reforma": "2002-12-30",
+      "num_reformas": 1,
+      "reformas": [
+        "2002-12-30"
+      ],
+      "archivo": "lfd/195-k-7.md"
+    },
+    {
+      "clave": "195-k-8",
+      "articulo": 195,
+      "letra": "K",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-K-8",
+      "cita": "Artículo 195-K-8 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Cuarta. Otros Servicios",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Otros Servicios",
+      "derogado": false,
+      "ultima_reforma": "2002-12-30",
+      "num_reformas": 1,
+      "reformas": [
+        "2002-12-30"
+      ],
+      "archivo": "lfd/195-k-8.md"
+    },
+    {
+      "clave": "195-k-9",
+      "articulo": 195,
+      "letra": "K",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-K-9",
+      "cita": "Artículo 195-K-9 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Cuarta. Otros Servicios",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Otros Servicios",
+      "derogado": false,
+      "ultima_reforma": "2010-11-18",
+      "num_reformas": 2,
+      "reformas": [
+        "2002-12-30",
+        "2010-11-18"
+      ],
+      "archivo": "lfd/195-k-9.md"
+    },
+    {
+      "clave": "195-k-10",
+      "articulo": 195,
+      "letra": "K",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-K-10",
+      "cita": "Artículo 195-K-10 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Cuarta. Otros Servicios",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Otros Servicios",
+      "derogado": false,
+      "ultima_reforma": "2010-11-18",
+      "num_reformas": 2,
+      "reformas": [
+        "2002-12-30",
+        "2010-11-18"
+      ],
+      "archivo": "lfd/195-k-10.md"
+    },
+    {
+      "clave": "195-k-11",
+      "articulo": 195,
+      "letra": "K",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-K-11",
+      "cita": "Artículo 195-K-11 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Cuarta. Otros Servicios",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Otros Servicios",
+      "derogado": false,
+      "ultima_reforma": "2002-12-30",
+      "num_reformas": 1,
+      "reformas": [
+        "2002-12-30"
+      ],
+      "archivo": "lfd/195-k-11.md"
+    },
+    {
+      "clave": "195-k-12",
+      "articulo": 195,
+      "letra": "K",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-K-12",
+      "cita": "Artículo 195-K-12 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Cuarta. Otros Servicios",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Otros Servicios",
+      "derogado": false,
+      "ultima_reforma": "2002-12-30",
+      "num_reformas": 1,
+      "reformas": [
+        "2002-12-30"
+      ],
+      "archivo": "lfd/195-k-12.md"
     },
     {
       "clave": "195-l",
@@ -11409,6 +12127,95 @@
       "archivo": "lfd/195-l.md"
     },
     {
+      "clave": "195-l-1",
+      "articulo": 195,
+      "letra": "L",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-L-1",
+      "cita": "Artículo 195-L-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Quinta. Servicios que presta la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Servicios que presta la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas",
+      "derogado": true,
+      "ultima_reforma": "2010-11-18",
+      "num_reformas": 4,
+      "reformas": [
+        "1999-12-31",
+        "2002-12-30",
+        "2003-12-31",
+        "2010-11-18"
+      ],
+      "archivo": "lfd/195-l-1.md"
+    },
+    {
+      "clave": "195-l-2",
+      "articulo": 195,
+      "letra": "L",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-L-2",
+      "cita": "Artículo 195-L-2 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Quinta. Servicios que presta la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Servicios que presta la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas",
+      "derogado": true,
+      "ultima_reforma": "2010-11-18",
+      "num_reformas": 4,
+      "reformas": [
+        "1999-12-31",
+        "2002-12-30",
+        "2003-12-31",
+        "2010-11-18"
+      ],
+      "archivo": "lfd/195-l-2.md"
+    },
+    {
+      "clave": "195-l-3",
+      "articulo": 195,
+      "letra": "L",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-L-3",
+      "cita": "Artículo 195-L-3 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Quinta. Servicios que presta la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Servicios que presta la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas",
+      "derogado": true,
+      "ultima_reforma": "2010-11-18",
+      "num_reformas": 2,
+      "reformas": [
+        "1999-12-31",
+        "2010-11-18"
+      ],
+      "archivo": "lfd/195-l-3.md"
+    },
+    {
+      "clave": "195-l-4",
+      "articulo": 195,
+      "letra": "L",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-L-4",
+      "cita": "Artículo 195-L-4 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XIV. De la Secretaría de Salud",
+      "seccion": "Sección Quinta. Servicios que presta la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Salud · Servicios que presta la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas",
+      "derogado": false,
+      "ultima_reforma": "2003-12-31",
+      "num_reformas": 3,
+      "reformas": [
+        "2002-01-01",
+        "2002-12-30",
+        "2003-12-31"
+      ],
+      "archivo": "lfd/195-l-4.md"
+    },
+    {
       "clave": "195-m",
       "articulo": 195,
       "letra": "M",
@@ -11416,10 +12223,10 @@
       "etiqueta": "Artículo 195-M",
       "cita": "Artículo 195-M LFD",
       "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
-      "capitulo": "CAPITULO XV. De los Derechos a cargo de Organismos Descentralizados por Prestar Servicios",
+      "capitulo": "CAPITULO XV. De los Derechos a cargo de Organismos Descentralizados por Prestar Servicios Exclusivos del Estado",
       "seccion": "",
       "epigrafe": "",
-      "contexto": "De los Derechos por la Prestación de Servicios · De los Derechos a cargo de Organismos Descentralizados por Prestar Servicios",
+      "contexto": "De los Derechos por la Prestación de Servicios · De los Derechos a cargo de Organismos Descentralizados por Prestar Servicios Exclusivos del Estado",
       "derogado": true,
       "ultima_reforma": "2002-01-01",
       "num_reformas": 2,
@@ -11437,10 +12244,10 @@
       "etiqueta": "Artículo 195-N",
       "cita": "Artículo 195-N LFD",
       "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
-      "capitulo": "CAPITULO XV. De los Derechos a cargo de Organismos Descentralizados por Prestar Servicios",
+      "capitulo": "CAPITULO XV. De los Derechos a cargo de Organismos Descentralizados por Prestar Servicios Exclusivos del Estado",
       "seccion": "",
       "epigrafe": "",
-      "contexto": "De los Derechos por la Prestación de Servicios · De los Derechos a cargo de Organismos Descentralizados por Prestar Servicios",
+      "contexto": "De los Derechos por la Prestación de Servicios · De los Derechos a cargo de Organismos Descentralizados por Prestar Servicios Exclusivos del Estado",
       "derogado": true,
       "ultima_reforma": "2002-01-01",
       "num_reformas": 4,
@@ -11460,10 +12267,10 @@
       "etiqueta": "Artículo 195-O",
       "cita": "Artículo 195-O LFD",
       "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
-      "capitulo": "CAPITULO XV. De los Derechos a cargo de Organismos Descentralizados por Prestar Servicios",
+      "capitulo": "CAPITULO XV. De los Derechos a cargo de Organismos Descentralizados por Prestar Servicios Exclusivos del Estado",
       "seccion": "",
       "epigrafe": "",
-      "contexto": "De los Derechos por la Prestación de Servicios · De los Derechos a cargo de Organismos Descentralizados por Prestar Servicios",
+      "contexto": "De los Derechos por la Prestación de Servicios · De los Derechos a cargo de Organismos Descentralizados por Prestar Servicios Exclusivos del Estado",
       "derogado": true,
       "ultima_reforma": "2002-01-01",
       "num_reformas": 1,
@@ -11682,6 +12489,46 @@
       "archivo": "lfd/195-x.md"
     },
     {
+      "clave": "195-x-1",
+      "articulo": 195,
+      "letra": "X",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-X-1",
+      "cita": "Artículo 195-X-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XVIII. De la Secretaría de Seguridad Pública",
+      "seccion": "Sección Unica. Servicios Privados de Seguridad y Armas de Fuego",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Seguridad Pública · Servicios Privados de Seguridad y Armas de Fuego",
+      "derogado": false,
+      "ultima_reforma": "2002-01-01",
+      "num_reformas": 1,
+      "reformas": [
+        "2002-01-01"
+      ],
+      "archivo": "lfd/195-x-1.md"
+    },
+    {
+      "clave": "195-x-2",
+      "articulo": 195,
+      "letra": "X",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-X-2",
+      "cita": "Artículo 195-X-2 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPITULO XVIII. De la Secretaría de Seguridad Pública",
+      "seccion": "Sección Unica. Servicios Privados de Seguridad y Armas de Fuego",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Seguridad Pública · Servicios Privados de Seguridad y Armas de Fuego",
+      "derogado": false,
+      "ultima_reforma": "2002-01-01",
+      "num_reformas": 1,
+      "reformas": [
+        "2002-01-01"
+      ],
+      "archivo": "lfd/195-x-2.md"
+    },
+    {
       "clave": "195-y",
       "articulo": 195,
       "letra": "Y",
@@ -11715,19 +12562,807 @@
       "epigrafe": "",
       "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
       "derogado": false,
-      "ultima_reforma": "2025-11-07",
-      "num_reformas": 8,
+      "ultima_reforma": "2022-11-14",
+      "num_reformas": 5,
       "reformas": [
         "2002-01-01",
         "2010-11-18",
         "2019-12-09",
         "2020-12-08",
-        "2021-11-12",
-        "2022-11-14",
-        "2023-11-13",
-        "2025-11-07"
+        "2022-11-14"
       ],
       "archivo": "lfd/195-z.md"
+    },
+    {
+      "clave": "195-z-1",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-1",
+      "cita": "Artículo 195-Z-1 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-1.md"
+    },
+    {
+      "clave": "195-z-2",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-2",
+      "cita": "Artículo 195-Z-2 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-2.md"
+    },
+    {
+      "clave": "195-z-3",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-3",
+      "cita": "Artículo 195-Z-3 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2025-11-07",
+      "num_reformas": 3,
+      "reformas": [
+        "2019-12-09",
+        "2020-12-08",
+        "2025-11-07"
+      ],
+      "archivo": "lfd/195-z-3.md"
+    },
+    {
+      "clave": "195-z-4",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-4",
+      "cita": "Artículo 195-Z-4 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2022-11-14",
+      "num_reformas": 3,
+      "reformas": [
+        "2019-12-09",
+        "2020-12-08",
+        "2022-11-14"
+      ],
+      "archivo": "lfd/195-z-4.md"
+    },
+    {
+      "clave": "195-z-5",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-5",
+      "cita": "Artículo 195-Z-5 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2025-11-07",
+      "num_reformas": 2,
+      "reformas": [
+        "2019-12-09",
+        "2025-11-07"
+      ],
+      "archivo": "lfd/195-z-5.md"
+    },
+    {
+      "clave": "195-z-6",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-6",
+      "cita": "Artículo 195-Z-6 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-6.md"
+    },
+    {
+      "clave": "195-z-7",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-7",
+      "cita": "Artículo 195-Z-7 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-7.md"
+    },
+    {
+      "clave": "195-z-8",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-8",
+      "cita": "Artículo 195-Z-8 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-8.md"
+    },
+    {
+      "clave": "195-z-9",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-9",
+      "cita": "Artículo 195-Z-9 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2022-11-14",
+      "num_reformas": 3,
+      "reformas": [
+        "2019-12-09",
+        "2020-12-08",
+        "2022-11-14"
+      ],
+      "archivo": "lfd/195-z-9.md"
+    },
+    {
+      "clave": "195-z-10",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-10",
+      "cita": "Artículo 195-Z-10 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-10.md"
+    },
+    {
+      "clave": "195-z-11",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-11",
+      "cita": "Artículo 195-Z-11 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2020-12-08",
+      "num_reformas": 2,
+      "reformas": [
+        "2019-12-09",
+        "2020-12-08"
+      ],
+      "archivo": "lfd/195-z-11.md"
+    },
+    {
+      "clave": "195-z-11-bis",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 195-Z-11 Bis",
+      "cita": "Artículo 195-Z-11 Bis LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2021-11-12",
+      "num_reformas": 1,
+      "reformas": [
+        "2021-11-12"
+      ],
+      "archivo": "lfd/195-z-11-bis.md"
+    },
+    {
+      "clave": "195-z-11-ter",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "Ter",
+      "etiqueta": "Artículo 195-Z-11 Ter",
+      "cita": "Artículo 195-Z-11 Ter LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2021-11-12",
+      "num_reformas": 1,
+      "reformas": [
+        "2021-11-12"
+      ],
+      "archivo": "lfd/195-z-11-ter.md"
+    },
+    {
+      "clave": "195-z-11-quater",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "Quáter",
+      "etiqueta": "Artículo 195-Z-11 Quáter",
+      "cita": "Artículo 195-Z-11 Quáter LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2021-11-12",
+      "num_reformas": 1,
+      "reformas": [
+        "2021-11-12"
+      ],
+      "archivo": "lfd/195-z-11-quater.md"
+    },
+    {
+      "clave": "195-z-12",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-12",
+      "cita": "Artículo 195-Z-12 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-12.md"
+    },
+    {
+      "clave": "195-z-13",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-13",
+      "cita": "Artículo 195-Z-13 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-13.md"
+    },
+    {
+      "clave": "195-z-14",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-14",
+      "cita": "Artículo 195-Z-14 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-14.md"
+    },
+    {
+      "clave": "195-z-15",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-15",
+      "cita": "Artículo 195-Z-15 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-15.md"
+    },
+    {
+      "clave": "195-z-16",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-16",
+      "cita": "Artículo 195-Z-16 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2020-12-08",
+      "num_reformas": 2,
+      "reformas": [
+        "2019-12-09",
+        "2020-12-08"
+      ],
+      "archivo": "lfd/195-z-16.md"
+    },
+    {
+      "clave": "195-z-17",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-17",
+      "cita": "Artículo 195-Z-17 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-17.md"
+    },
+    {
+      "clave": "195-z-18",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-18",
+      "cita": "Artículo 195-Z-18 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-18.md"
+    },
+    {
+      "clave": "195-z-19",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-19",
+      "cita": "Artículo 195-Z-19 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-19.md"
+    },
+    {
+      "clave": "195-z-20",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-20",
+      "cita": "Artículo 195-Z-20 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-20.md"
+    },
+    {
+      "clave": "195-z-21",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-21",
+      "cita": "Artículo 195-Z-21 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2019-12-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2019-12-09"
+      ],
+      "archivo": "lfd/195-z-21.md"
+    },
+    {
+      "clave": "195-z-22",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-22",
+      "cita": "Artículo 195-Z-22 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2020-12-08",
+      "num_reformas": 2,
+      "reformas": [
+        "2019-12-09",
+        "2020-12-08"
+      ],
+      "archivo": "lfd/195-z-22.md"
+    },
+    {
+      "clave": "195-z-23",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-23",
+      "cita": "Artículo 195-Z-23 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2020-12-08",
+      "num_reformas": 1,
+      "reformas": [
+        "2020-12-08"
+      ],
+      "archivo": "lfd/195-z-23.md"
+    },
+    {
+      "clave": "195-z-24",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-24",
+      "cita": "Artículo 195-Z-24 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2020-12-08",
+      "num_reformas": 1,
+      "reformas": [
+        "2020-12-08"
+      ],
+      "archivo": "lfd/195-z-24.md"
+    },
+    {
+      "clave": "195-z-25",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-25",
+      "cita": "Artículo 195-Z-25 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2021-11-12",
+      "num_reformas": 2,
+      "reformas": [
+        "2020-12-08",
+        "2021-11-12"
+      ],
+      "archivo": "lfd/195-z-25.md"
+    },
+    {
+      "clave": "195-z-26",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-26",
+      "cita": "Artículo 195-Z-26 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2020-12-08",
+      "num_reformas": 1,
+      "reformas": [
+        "2020-12-08"
+      ],
+      "archivo": "lfd/195-z-26.md"
+    },
+    {
+      "clave": "195-z-27",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-27",
+      "cita": "Artículo 195-Z-27 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2020-12-08",
+      "num_reformas": 1,
+      "reformas": [
+        "2020-12-08"
+      ],
+      "archivo": "lfd/195-z-27.md"
+    },
+    {
+      "clave": "195-z-28",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-28",
+      "cita": "Artículo 195-Z-28 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2021-11-12",
+      "num_reformas": 1,
+      "reformas": [
+        "2021-11-12"
+      ],
+      "archivo": "lfd/195-z-28.md"
+    },
+    {
+      "clave": "195-z-29",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-29",
+      "cita": "Artículo 195-Z-29 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2022-11-14",
+      "num_reformas": 1,
+      "reformas": [
+        "2022-11-14"
+      ],
+      "archivo": "lfd/195-z-29.md"
+    },
+    {
+      "clave": "195-z-30",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-30",
+      "cita": "Artículo 195-Z-30 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2023-11-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-11-13"
+      ],
+      "archivo": "lfd/195-z-30.md"
+    },
+    {
+      "clave": "195-z-31",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-31",
+      "cita": "Artículo 195-Z-31 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2023-11-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-11-13"
+      ],
+      "archivo": "lfd/195-z-31.md"
+    },
+    {
+      "clave": "195-z-32",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-32",
+      "cita": "Artículo 195-Z-32 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2023-11-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-11-13"
+      ],
+      "archivo": "lfd/195-z-32.md"
+    },
+    {
+      "clave": "195-z-33",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-33",
+      "cita": "Artículo 195-Z-33 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2023-11-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-11-13"
+      ],
+      "archivo": "lfd/195-z-33.md"
+    },
+    {
+      "clave": "195-z-34",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-34",
+      "cita": "Artículo 195-Z-34 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2023-11-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-11-13"
+      ],
+      "archivo": "lfd/195-z-34.md"
+    },
+    {
+      "clave": "195-z-35",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-35",
+      "cita": "Artículo 195-Z-35 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2023-11-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-11-13"
+      ],
+      "archivo": "lfd/195-z-35.md"
+    },
+    {
+      "clave": "195-z-36",
+      "articulo": 195,
+      "letra": "Z",
+      "ordinal": "",
+      "etiqueta": "Artículo 195-Z-36",
+      "cita": "Artículo 195-Z-36 LFD",
+      "titulo": "TITULO PRIMERO. De los Derechos por la Prestación de Servicios",
+      "capitulo": "CAPÍTULO XX. De la Secretaría de Marina",
+      "seccion": "Sección Única. Servicios Marítimos",
+      "epigrafe": "",
+      "contexto": "De los Derechos por la Prestación de Servicios · De la Secretaría de Marina · Servicios Marítimos",
+      "derogado": false,
+      "ultima_reforma": "2023-11-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-11-13"
+      ],
+      "archivo": "lfd/195-z-36.md"
     },
     {
       "clave": "196",
@@ -13170,17 +14805,13 @@
       "contexto": "De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público · Uso o Goce de Inmuebles",
       "derogado": false,
       "ultima_reforma": "2025-11-07",
-      "num_reformas": 15,
+      "num_reformas": 11,
       "reformas": [
         "1997-12-29",
         "1998-12-31",
         "1999-12-31",
-        "2002-12-30",
-        "2003-12-31",
-        "2004-12-01",
         "2005-12-21",
         "2008-11-13",
-        "2011-12-12",
         "2016-12-07",
         "2019-12-09",
         "2020-12-08",
@@ -13189,6 +14820,49 @@
         "2025-11-07"
       ],
       "archivo": "lfd/232-d.md"
+    },
+    {
+      "clave": "232-d-1",
+      "articulo": 232,
+      "letra": "D",
+      "ordinal": "",
+      "etiqueta": "Artículo 232-D-1",
+      "cita": "Artículo 232-D-1 LFD",
+      "titulo": "TITULO SEGUNDO. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público",
+      "capitulo": "CAPITULO IX. Uso o Goce de Inmuebles",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público · Uso o Goce de Inmuebles",
+      "derogado": false,
+      "ultima_reforma": "2003-12-31",
+      "num_reformas": 2,
+      "reformas": [
+        "2002-12-30",
+        "2003-12-31"
+      ],
+      "archivo": "lfd/232-d-1.md"
+    },
+    {
+      "clave": "232-d-2",
+      "articulo": 232,
+      "letra": "D",
+      "ordinal": "",
+      "etiqueta": "Artículo 232-D-2",
+      "cita": "Artículo 232-D-2 LFD",
+      "titulo": "TITULO SEGUNDO. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público",
+      "capitulo": "CAPITULO IX. Uso o Goce de Inmuebles",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público · Uso o Goce de Inmuebles",
+      "derogado": true,
+      "ultima_reforma": "2011-12-12",
+      "num_reformas": 3,
+      "reformas": [
+        "2002-12-30",
+        "2004-12-01",
+        "2011-12-12"
+      ],
+      "archivo": "lfd/232-d-2.md"
     },
     {
       "clave": "232-e",
@@ -13353,6 +15027,26 @@
         "2002-01-01"
       ],
       "archivo": "lfd/236-a.md"
+    },
+    {
+      "clave": "236-a-1",
+      "articulo": 236,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 236-A-1",
+      "cita": "Artículo 236-A-1 LFD",
+      "titulo": "TITULO SEGUNDO. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público",
+      "capitulo": "CAPITULO IX. Uso o Goce de Inmuebles",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público · Uso o Goce de Inmuebles",
+      "derogado": false,
+      "ultima_reforma": "2002-01-01",
+      "num_reformas": 1,
+      "reformas": [
+        "2002-01-01"
+      ],
+      "archivo": "lfd/236-a-1.md"
     },
     {
       "clave": "236-b",
@@ -13963,13 +15657,33 @@
       "contexto": "De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público · Espacio Aéreo",
       "derogado": false,
       "ultima_reforma": "2025-11-07",
-      "num_reformas": 3,
+      "num_reformas": 2,
       "reformas": [
         "2009-11-27",
-        "2015-11-18",
         "2025-11-07"
       ],
       "archivo": "lfd/244-e.md"
+    },
+    {
+      "clave": "244-e-1",
+      "articulo": 244,
+      "letra": "E",
+      "ordinal": "",
+      "etiqueta": "Artículo 244-E-1",
+      "cita": "Artículo 244-E-1 LFD",
+      "titulo": "TITULO SEGUNDO. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público",
+      "capitulo": "CAPITULO XI. Espacio Aéreo",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público · Espacio Aéreo",
+      "derogado": false,
+      "ultima_reforma": "2025-11-07",
+      "num_reformas": 2,
+      "reformas": [
+        "2015-11-18",
+        "2025-11-07"
+      ],
+      "archivo": "lfd/244-e-1.md"
     },
     {
       "clave": "244-f",
@@ -15808,19 +17522,78 @@
       "epigrafe": "",
       "contexto": "De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público · De los Bienes Culturales Propiedad de la Nación",
       "derogado": false,
-      "ultima_reforma": "2025-11-07",
-      "num_reformas": 8,
+      "ultima_reforma": "2005-12-21",
+      "num_reformas": 2,
       "reformas": [
         "2004-12-01",
-        "2005-12-21",
+        "2005-12-21"
+      ],
+      "archivo": "lfd/288-a.md"
+    },
+    {
+      "clave": "288-a-1",
+      "articulo": 288,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 288-A-1",
+      "cita": "Artículo 288-A-1 LFD",
+      "titulo": "TITULO SEGUNDO. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público",
+      "capitulo": "CAPÍTULO XVI. De los Bienes Culturales Propiedad de la Nación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público · De los Bienes Culturales Propiedad de la Nación",
+      "derogado": false,
+      "ultima_reforma": "2025-11-07",
+      "num_reformas": 4,
+      "reformas": [
         "2006-12-27",
-        "2007-12-24",
-        "2008-11-13",
         "2015-11-18",
         "2022-11-14",
         "2025-11-07"
       ],
-      "archivo": "lfd/288-a.md"
+      "archivo": "lfd/288-a-1.md"
+    },
+    {
+      "clave": "288-a-2",
+      "articulo": 288,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 288-A-2",
+      "cita": "Artículo 288-A-2 LFD",
+      "titulo": "TITULO SEGUNDO. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público",
+      "capitulo": "CAPÍTULO XVI. De los Bienes Culturales Propiedad de la Nación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público · De los Bienes Culturales Propiedad de la Nación",
+      "derogado": false,
+      "ultima_reforma": "2022-11-14",
+      "num_reformas": 2,
+      "reformas": [
+        "2007-12-24",
+        "2022-11-14"
+      ],
+      "archivo": "lfd/288-a-2.md"
+    },
+    {
+      "clave": "288-a-3",
+      "articulo": 288,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 288-A-3",
+      "cita": "Artículo 288-A-3 LFD",
+      "titulo": "TITULO SEGUNDO. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público",
+      "capitulo": "CAPÍTULO XVI. De los Bienes Culturales Propiedad de la Nación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público · De los Bienes Culturales Propiedad de la Nación",
+      "derogado": false,
+      "ultima_reforma": "2008-11-13",
+      "num_reformas": 2,
+      "reformas": [
+        "2007-12-24",
+        "2008-11-13"
+      ],
+      "archivo": "lfd/288-a-3.md"
     },
     {
       "clave": "288-b",
@@ -15875,13 +17648,32 @@
       "epigrafe": "",
       "contexto": "De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público · De los Bienes Culturales Propiedad de la Nación",
       "derogado": false,
-      "ultima_reforma": "2007-12-24",
-      "num_reformas": 2,
+      "ultima_reforma": "2004-12-01",
+      "num_reformas": 1,
       "reformas": [
-        "2004-12-01",
-        "2007-12-24"
+        "2004-12-01"
       ],
       "archivo": "lfd/288-d.md"
+    },
+    {
+      "clave": "288-d-1",
+      "articulo": 288,
+      "letra": "D",
+      "ordinal": "",
+      "etiqueta": "Artículo 288-D-1",
+      "cita": "Artículo 288-D-1 LFD",
+      "titulo": "TITULO SEGUNDO. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público",
+      "capitulo": "CAPÍTULO XVI. De los Bienes Culturales Propiedad de la Nación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público · De los Bienes Culturales Propiedad de la Nación",
+      "derogado": false,
+      "ultima_reforma": "2007-12-24",
+      "num_reformas": 1,
+      "reformas": [
+        "2007-12-24"
+      ],
+      "archivo": "lfd/288-d-1.md"
     },
     {
       "clave": "288-e",

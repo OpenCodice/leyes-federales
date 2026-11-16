@@ -55,6 +55,7 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley Federal de Armas de Fuego y Explosivos | [`lfafe/`](lfafe/) | 125 | 2025-05-29 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAFE.pdf) |
 | Ley Federal de Austeridad Republicana | [`lfar/`](lfar/) | 30 | 2025-04-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAR.pdf) |
 | Ley Federal de Cine y el Audiovisual | [`lfca/`](lfca/) | 68 | 2026-05-22 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCA.pdf) |
+| Ley Federal de Cinematografía | [`lfc/`](lfc/) | 58 | 2021-03-22 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFC.pdf) |
 | Ley Federal de Consulta Popular | [`lfcpo/`](lfcpo/) | 65 | 2021-05-19 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo_190521.pdf) |
 | Ley Federal de Correduría Pública | [`lfcp/`](lfcp/) | 23 | 2012-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf) |
 | Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas | [`lfdeapd/`](lfdeapd/) | 33 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEAPD.pdf) |
@@ -169,6 +170,7 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada | [`lobnefaa/`](lobnefaa/) | 59 | 2014-01-10 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/167.pdf) |
 | Ley Orgánica del Banco del Bienestar | [`lobb/`](lobb/) | 41 | 2019-07-19 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/164_190719.pdf) |
 | Ley Orgánica del Centro Federal de Conciliación y Registro Laboral | [`locfcrl/`](locfcrl/) | 25 | 2020-01-06 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf) |
+| Ley Orgánica del Congreso General de los Estados Unidos Mexicanos | [`locg/`](locg/) | 151 | 2025-07-07 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf) |
 | Ley Orgánica del Instituto Nacional de Antropología e Historia | [`loinah/`](loinah/) | 20 | 2015-12-17 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/170_171215.pdf) |
 | Ley Orgánica del Instituto Politécnico Nacional | [`loipn/`](loipn/) | 34 | 1981-12-29 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/171.pdf) |
 | Ley Orgánica del Poder Judicial de la Federación | [`lopjf/`](lopjf/) | 307 | 2025-11-28 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf) |
@@ -183,6 +185,8 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México | [`lrart5-prof/`](lrart5-prof/) | 73 | 2018-01-19 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/208_190118.pdf) |
 | Ley Reglamentaria del Servicio Ferroviario | [`lrsf/`](lrsf/) | 69 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSF.pdf) |
 | Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica | [`lrart6-mdr/`](lrart6-mdr/) | 42 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf) |
+| Ley Sobre el Contrato de Seguro | [`lcs/`](lcs/) | 210 | 2013-04-04 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/211.pdf) |
+| Ley Sobre la Aprobación de Tratados Internacionales en Materia Económica | [`latime/`](latime/) | 14 | 2004-09-02 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/271.pdf) |
 | Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público | [`laassp/`](laassp/) | 120 | 2025-04-16 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf) |
 | Ley de Aeropuertos | [`laero/`](laero/) | 101 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf) |
 | Ley de Aguas Nacionales | [`lan/`](lan/) | 215 | 2025-12-11 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf) |
@@ -321,7 +325,18 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley que crea la Agencia Espacial Mexicana | [`laem/`](laem/) | 17 | 2010-07-30 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf) |
 | Ley que crea la Universidad Autónoma Chapingo | [`luach/`](luach/) | 16 | 1977-12-30 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/195.pdf) |
 | Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas | [`lcaaa/`](lcaaa/) | 19 | 2012-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf) |
+| Ley sobre Refugiados, Protección Complementaria y Asilo Político | [`lrpcap/`](lrpcap/) | 79 | 2022-02-18 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf) |
+| Ley sobre el Escudo, la Bandera y el Himno Nacionales | [`lebhn/`](lebhn/) | 70 | 2025-07-21 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LEBHN.pdf) |
+| Ley sobre la Celebración de Tratados | [`lsct/`](lsct/) | 11 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LSCT.pdf) |
+| Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026 | [`pef-2026/`](pef-2026/) | 39 | — | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf) |
 | Reglamento Interior del Servicio de Administración Tributaria | [`risat/`](risat/) | 56 | 2021-12-21 | [PDF](https://wwwmat.sat.gob.mx/cs/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1461176458878&ssbinary=true) |
+| Reglamento de la Cámara de Diputados | [`reg-diputados/`](reg-diputados/) | 323 | 2025-05-07 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf) |
+| Reglamento de la Ley del IEPS | [`rlieps/`](rlieps/) | 19 | 2006-12-04 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEPS.pdf) |
+| Reglamento de la Ley del Impuesto al Valor Agregado | [`rliva/`](rliva/) | 84 | 2014-09-25 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIVA_250914.pdf) |
+| Reglamento de la Ley del Impuesto sobre la Renta | [`rlisr/`](rlisr/) | 313 | 2016-05-06 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf) |
+| Reglamento del Código Fiscal de la Federación | [`rcff/`](rcff/) | 113 | 2014-04-02 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.pdf) |
+| Reglamento del Senado de la República | [`reg-senado/`](reg-senado/) | 317 | 2024-12-06 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf) |
+| Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos | [`rgic/`](rgic/) | 214 | 2010-12-24 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf) |
 
 <!-- DOCUMENTOS:FIN -->
 
@@ -334,31 +349,31 @@ cuando cambia su PDF o el extractor.
 
 | Ley | Motivo | PDF oficial |
 |---|---|---|
-| Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | 1 unidades no reproducen el PDF (lisipl/007). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf) |
-| Ley Federal de Competencia Económica | 1 unidades no reproducen el PDF (lfce/145). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf) |
-| Ley Federal de Defensoría Pública | 1 unidades no reproducen el PDF (lfdefp/039). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDefP.pdf) |
-| Ley Federal de Producción, Certificación y Comercio de Semillas | 5 unidades no reproducen el PDF (lfpccs/003, lfpccs/004, lfpccs/005, lfpccs/032, lfpccs/039). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf) |
-| Ley Federal de Responsabilidad Patrimonial del Estado | 1 unidades no reproducen el PDF (lfrpe/035). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf) |
-| Ley Federal de Zonas Económicas Especiales | 1 unidades no reproducen el PDF (lfzee/050). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf) |
-| Ley Federal para la Administración y Enajenación de Bienes del Sector Público | 1 unidades no reproducen el PDF (lfaebsp/093). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf) |
-| Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano | 1 unidades no reproducen el PDF (lgahotdu/119). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf) |
-| Ley General de Derechos Lingüísticos de los Pueblos Indígenas | 1 unidades no reproducen el PDF (lgdlpi/025). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf) |
+| Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | 1 unidades no reproducen el PDF (lisipl/007) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf) |
+| Ley Federal de Competencia Económica | 1 unidades no reproducen el PDF (lfce/145) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf) |
+| Ley Federal de Defensoría Pública | 1 unidades no reproducen el PDF (lfdefp/039) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDefP.pdf) |
+| Ley Federal de Producción, Certificación y Comercio de Semillas | 5 unidades no reproducen el PDF (lfpccs/003, lfpccs/004, lfpccs/005, lfpccs/032, lfpccs/039) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf) |
+| Ley Federal de Responsabilidad Patrimonial del Estado | 1 unidades no reproducen el PDF (lfrpe/035) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf) |
+| Ley Federal de Zonas Económicas Especiales | 1 unidades no reproducen el PDF (lfzee/050) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf) |
+| Ley Federal para la Administración y Enajenación de Bienes del Sector Público | 1 unidades no reproducen el PDF (lfaebsp/093) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf) |
+| Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano | 1 unidades no reproducen el PDF (lgahotdu/119) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf) |
+| Ley General de Derechos Lingüísticos de los Pueblos Indígenas | 1 unidades no reproducen el PDF (lgdlpi/025) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf) |
 | Ley General de Instituciones y Procedimientos Electorales | 1 unidades no reproducen el PDF (lgipe/028) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf) |
-| Ley General de Responsabilidades Administrativas | 1 unidades no reproducen el PDF (lgra/229). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf) |
-| Ley General de Turismo | 1 unidades no reproducen el PDF (lgt/073). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf) |
-| Ley General de los Derechos de Niñas, Niños y Adolescentes | 1 unidades no reproducen el PDF (lgdnna/154). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf) |
-| Ley Orgánica del Congreso General de los Estados Unidos Mexicanos | invariantes rotos: [locg] sin fugas de encabezado/pie: 048.md, 049.md, 051.md | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf) |
+| Ley General de Responsabilidades Administrativas | 1 unidades no reproducen el PDF (lgra/229) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf) |
+| Ley General de Turismo | 1 unidades no reproducen el PDF (lgt/073) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf) |
+| Ley General de los Derechos de Niñas, Niños y Adolescentes | 1 unidades no reproducen el PDF (lgdnna/154) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf) |
 | Ley Orgánica del Ejército y Fuerza Aérea Mexicanos | invariantes rotos: [loefam] al menos una unidad: 0 unidades | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf) |
 | Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera | invariantes rotos: [lrfxviii-art73] al menos una unidad: 0 unidades | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf) |
-| Ley de Ahorro y Crédito Popular | 1 unidades no reproducen el PDF (lacp/158). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf) |
-| Ley de Disciplina Financiera de las Entidades Federativas y los Municipios | 1 unidades no reproducen el PDF (ldfefm/065). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf) |
-| Ley de Fiscalización y Rendición de Cuentas de la Federación | 1 unidades no reproducen el PDF (lfrcf/111). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf) |
-| Ley de Ingresos sobre Hidrocarburos | 1 unidades no reproducen el PDF (lish/064). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf) |
-| Ley de Uniones de Crédito | 1 unidades no reproducen el PDF (luc/145). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LUC.pdf) |
+| Ley de Ahorro y Crédito Popular | 1 unidades no reproducen el PDF (lacp/158) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf) |
+| Ley de Disciplina Financiera de las Entidades Federativas y los Municipios | 1 unidades no reproducen el PDF (ldfefm/065) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf) |
+| Ley de Fiscalización y Rendición de Cuentas de la Federación | 1 unidades no reproducen el PDF (lfrcf/111) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf) |
+| Ley de Ingresos sobre Hidrocarburos | 1 unidades no reproducen el PDF (lish/064) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf) |
+| Ley de Uniones de Crédito | 1 unidades no reproducen el PDF (luc/145) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LUC.pdf) |
 | Ley de los Impuestos Generales de Importación y de Exportación | La tarifa del artículo 1o. es una tabla de varias columnas; en texto plano las columnas se mezclan a media descripción. | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf) |
-| Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo | 1 unidades no reproducen el PDF (lfmped/025). La versión publicada tampoco pasa la auditoría actual | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMPED.pdf) |
+| Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo | 1 unidades no reproducen el PDF (lfmped/025) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMPED.pdf) |
 | Ley para Conservar la Neutralidad del País | invariantes rotos: [lcnp] al menos una unidad: 0 unidades | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf) |
 | Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional | 1 unidades no reproducen el PDF (liispcen/021) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf) |
 | Ley para la Transparencia y Ordenamiento de los Servicios Financieros | 1 unidades no reproducen el PDF (ltosf/053) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf) |
+| Ordenanza General de la Armada | 1 unidades no reproducen el PDF (oga/999) | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/218.pdf) |
 
 <!-- EXCLUIDAS:FIN -->

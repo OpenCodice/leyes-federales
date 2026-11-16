@@ -649,6 +649,29 @@
       }
     },
     {
+      "clave": "latime",
+      "etiqueta": "Ley Sobre la Aprobación de Tratados Internacionales en Materia Económica",
+      "sigla": "LATIME",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/271.pdf",
+      "estado": "incluida",
+      "version": "2004-09-02",
+      "unidades": 14,
+      "pdf": {
+        "sha256": "2f9532986cf47aef5de1f50af5e758333d65b7fdab15489bb0c41c36bcb60133",
+        "bytes": 161430,
+        "etag": "\"27696-57650d0bc0ec0\"",
+        "last_modified": "Thu, 20 Sep 2018 17:25:55 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lbio",
       "etiqueta": "Ley de Biocombustibles",
       "sigla": "LBio",
@@ -1132,6 +1155,29 @@
       }
     },
     {
+      "clave": "lcs",
+      "etiqueta": "Ley Sobre el Contrato de Seguro",
+      "sigla": "LCS",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/211.pdf",
+      "estado": "incluida",
+      "version": "2013-04-04",
+      "unidades": 210,
+      "pdf": {
+        "sha256": "8b5abc3a8b409df55685b2337fc723b196bcaece68eb37a25e65c0a4f64a7e06",
+        "bytes": 541336,
+        "etag": "\"84298-5774902368a40\"",
+        "last_modified": "Wed, 03 Oct 2018 01:32:17 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "ldcmpme",
       "etiqueta": "Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
       "sigla": "LDCMPME",
@@ -1376,6 +1422,29 @@
         "bytes": 196745,
         "etag": "\"30089-576430e56a8c0\"",
         "last_modified": "Thu, 20 Sep 2018 01:00:59 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lebhn",
+      "etiqueta": "Ley sobre el Escudo, la Bandera y el Himno Nacionales",
+      "sigla": "LEBHN",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEBHN.pdf",
+      "estado": "incluida",
+      "version": "2025-07-21",
+      "unidades": 70,
+      "pdf": {
+        "sha256": "e117a1f2c91d31d7c478c7cf823501fb07f58e52d62ac53fdb43c888d8d4ac78",
+        "bytes": 1010563,
+        "etag": "\"f6b83-63d8ca4ed6100\"",
+        "last_modified": "Sat, 30 Aug 2025 03:22:12 GMT"
       },
       "extractor": "817e43250c609f69",
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
@@ -1680,6 +1749,29 @@
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
       "alta": {
         "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfc",
+      "etiqueta": "Ley Federal de Cinematografía",
+      "sigla": "LFC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFC.pdf",
+      "estado": "incluida",
+      "version": "2021-03-22",
+      "unidades": 58,
+      "pdf": {
+        "sha256": "0eede83f8f84e6d12074963f84dd94d8e3ab5a2b38ce11e789e6afd54b77606e",
+        "bytes": 860679,
+        "etag": "\"d2207-64b8749ace640\"",
+        "last_modified": "Tue, 24 Feb 2026 00:51:29 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
         "via": "limpia"
       }
     },
@@ -5320,6 +5412,29 @@
       }
     },
     {
+      "clave": "locg",
+      "etiqueta": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
+      "sigla": "LOCGEUM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf",
+      "estado": "incluida",
+      "version": "2025-07-07",
+      "unidades": 151,
+      "pdf": {
+        "sha256": "30e92e19100dc26408ce0b130151f8c44fe25aeb113eff14f3515553330ba230",
+        "bytes": 1059317,
+        "etag": "\"1029f5-6398420431f00\"",
+        "last_modified": "Wed, 09 Jul 2025 19:31:40 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "log",
       "etiqueta": "Ley de Organizaciones Ganaderas",
       "sigla": "LOG",
@@ -6240,6 +6355,29 @@
       }
     },
     {
+      "clave": "lrpcap",
+      "etiqueta": "Ley sobre Refugiados, Protección Complementaria y Asilo Político",
+      "sigla": "LRPCAP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf",
+      "estado": "incluida",
+      "version": "2022-02-18",
+      "unidades": 79,
+      "pdf": {
+        "sha256": "cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a",
+        "bytes": 469812,
+        "etag": "\"72b34-5d92d842f4780\"",
+        "last_modified": "Tue, 01 Mar 2022 19:53:18 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lrpv",
       "etiqueta": "Ley del Registro Público Vehicular",
       "sigla": "LRPV",
@@ -6351,6 +6489,29 @@
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
       "alta": {
         "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lsct",
+      "etiqueta": "Ley sobre la Celebración de Tratados",
+      "sigla": "LSCT",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSCT.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 11,
+      "pdf": {
+        "sha256": "a48cb9fbc325567be8d5e1b131a59b45e0ef9b57dd350e81eadd48cba75ac201",
+        "bytes": 441197,
+        "etag": "\"6bb6d-6451bc6435940\"",
+        "last_modified": "Thu, 04 Dec 2025 08:04:13 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
         "via": "limpia"
       }
     },
@@ -6930,6 +7091,121 @@
       }
     },
     {
+      "clave": "pef-2026",
+      "etiqueta": "Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026",
+      "sigla": "PEF_2026",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
+      "estado": "incluida",
+      "version": null,
+      "unidades": 39,
+      "pdf": {
+        "sha256": "02bf4543bd8e99d1bb980a3c513749114a6db35ee94a9ce8ef678cf73d95165b",
+        "bytes": 8624116,
+        "etag": "\"8397f4-6445a1696f040\"",
+        "last_modified": "Mon, 24 Nov 2025 16:59:37 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "rcff",
+      "etiqueta": "Reglamento del Código Fiscal de la Federación",
+      "sigla": "RCFF",
+      "tipo": "reglamento",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.pdf",
+      "estado": "incluida",
+      "version": "2014-04-02",
+      "unidades": 113,
+      "pdf": {
+        "sha256": "649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248",
+        "bytes": 520425,
+        "etag": "\"7f0e9-563b487e8d740\"",
+        "last_modified": "Fri, 26 Jan 2018 21:25:09 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "reg-diputados",
+      "etiqueta": "Reglamento de la Cámara de Diputados",
+      "sigla": "Reg_Diputados",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+      "estado": "incluida",
+      "version": "2025-05-07",
+      "unidades": 323,
+      "pdf": {
+        "sha256": "6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1",
+        "bytes": 1237560,
+        "etag": "\"12e238-634f49f6317c0\"",
+        "last_modified": "Mon, 12 May 2025 18:38:31 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "reg-senado",
+      "etiqueta": "Reglamento del Senado de la República",
+      "sigla": "Reg_Senado",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+      "estado": "incluida",
+      "version": "2024-12-06",
+      "unidades": 317,
+      "pdf": {
+        "sha256": "97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2",
+        "bytes": 1220580,
+        "etag": "\"129fe4-62cb90a800d40\"",
+        "last_modified": "Tue, 28 Jan 2025 00:11:57 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "rgic",
+      "etiqueta": "Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos",
+      "sigla": "RGIC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf",
+      "estado": "incluida",
+      "version": "2010-12-24",
+      "unidades": 214,
+      "pdf": {
+        "sha256": "fff7e0e84270e4d5f9c103b0b792c5e05256d4c6957126d2a5c12509b6b383ec",
+        "bytes": 650528,
+        "etag": "\"9ed20-5763b94042180\"",
+        "last_modified": "Wed, 19 Sep 2018 16:05:42 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "risat",
       "etiqueta": "Reglamento Interior del Servicio de Administración Tributaria",
       "sigla": "RISAT",
@@ -6955,6 +7231,75 @@
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
       "alta": {
         "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "rlieps",
+      "etiqueta": "Reglamento de la Ley del IEPS",
+      "sigla": "RLIEPS",
+      "tipo": "reglamento",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEPS.pdf",
+      "estado": "incluida",
+      "version": "2006-12-04",
+      "unidades": 19,
+      "pdf": {
+        "sha256": "cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4",
+        "bytes": 101410,
+        "etag": "\"18c22-563b4877e0780\"",
+        "last_modified": "Fri, 26 Jan 2018 21:25:02 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "rlisr",
+      "etiqueta": "Reglamento de la Ley del Impuesto sobre la Renta",
+      "sigla": "RLISR",
+      "tipo": "reglamento",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf",
+      "estado": "incluida",
+      "version": "2016-05-06",
+      "unidades": 313,
+      "pdf": {
+        "sha256": "0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3",
+        "bytes": 836917,
+        "etag": "\"cc535-563b487e8d740\"",
+        "last_modified": "Fri, 26 Jan 2018 21:25:09 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "rliva",
+      "etiqueta": "Reglamento de la Ley del Impuesto al Valor Agregado",
+      "sigla": "RLIVA",
+      "tipo": "reglamento",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIVA_250914.pdf",
+      "estado": "incluida",
+      "version": "2014-09-25",
+      "unidades": 84,
+      "pdf": {
+        "sha256": "4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f",
+        "bytes": 175773,
+        "etag": "\"2ae9d-563b487e8d740\"",
+        "last_modified": "Fri, 26 Jan 2018 21:25:09 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
         "via": "limpia"
       }
     }

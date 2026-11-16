@@ -225,6 +225,14 @@
       "version": "2024-04-01"
     },
     {
+      "clave": "latime",
+      "etiqueta": "Ley Sobre la Aprobación de Tratados Internacionales en Materia Económica",
+      "sigla": "LATIME",
+      "tipo": "ley",
+      "num_articulos": 14,
+      "version": "2004-09-02"
+    },
+    {
       "clave": "lbio",
       "etiqueta": "Ley de Biocombustibles",
       "sigla": "LBio",
@@ -393,6 +401,14 @@
       "version": "2001-12-31"
     },
     {
+      "clave": "lcs",
+      "etiqueta": "Ley Sobre el Contrato de Seguro",
+      "sigla": "LCS",
+      "tipo": "ley",
+      "num_articulos": 210,
+      "version": "2013-04-04"
+    },
+    {
       "clave": "ldcmpme",
       "etiqueta": "Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
       "sigla": "LDCMPME",
@@ -479,6 +495,14 @@
       "tipo": "ley",
       "num_articulos": 5,
       "version": "2016-12-30"
+    },
+    {
+      "clave": "lebhn",
+      "etiqueta": "Ley sobre el Escudo, la Bandera y el Himno Nacionales",
+      "sigla": "LEBHN",
+      "tipo": "ley",
+      "num_articulos": 70,
+      "version": "2025-07-21"
     },
     {
       "clave": "lec",
@@ -583,6 +607,14 @@
       "tipo": "ley",
       "num_articulos": 30,
       "version": "2025-04-16"
+    },
+    {
+      "clave": "lfc",
+      "etiqueta": "Ley Federal de Cinematografía",
+      "sigla": "LFC",
+      "tipo": "ley",
+      "num_articulos": 58,
+      "version": "2021-03-22"
     },
     {
       "clave": "lfca",
@@ -1833,6 +1865,14 @@
       "version": "2020-01-06"
     },
     {
+      "clave": "locg",
+      "etiqueta": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
+      "sigla": "LOCGEUM",
+      "tipo": "ley",
+      "num_articulos": 151,
+      "version": "2025-07-07"
+    },
+    {
       "clave": "log",
       "etiqueta": "Ley de Organizaciones Ganaderas",
       "sigla": "LOG",
@@ -2153,6 +2193,14 @@
       "version": "1972-01-12"
     },
     {
+      "clave": "lrpcap",
+      "etiqueta": "Ley sobre Refugiados, Protección Complementaria y Asilo Político",
+      "sigla": "LRPCAP",
+      "tipo": "ley",
+      "num_articulos": 79,
+      "version": "2022-02-18"
+    },
+    {
       "clave": "lrpv",
       "etiqueta": "Ley del Registro Público Vehicular",
       "sigla": "LRPV",
@@ -2191,6 +2239,14 @@
       "tipo": "ley",
       "num_articulos": 41,
       "version": "2018-12-04"
+    },
+    {
+      "clave": "lsct",
+      "etiqueta": "Ley sobre la Celebración de Tratados",
+      "sigla": "LSCT",
+      "tipo": "ley",
+      "num_articulos": 11,
+      "version": "2025-11-14"
     },
     {
       "clave": "lse",
@@ -2393,12 +2449,76 @@
       "version": "2025-11-14"
     },
     {
+      "clave": "pef-2026",
+      "etiqueta": "Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026",
+      "sigla": "PEF_2026",
+      "tipo": "ley",
+      "num_articulos": 39,
+      "version": null
+    },
+    {
+      "clave": "rcff",
+      "etiqueta": "Reglamento del Código Fiscal de la Federación",
+      "sigla": "RCFF",
+      "tipo": "reglamento",
+      "num_articulos": 113,
+      "version": "2014-04-02"
+    },
+    {
+      "clave": "reg-diputados",
+      "etiqueta": "Reglamento de la Cámara de Diputados",
+      "sigla": "Reg_Diputados",
+      "tipo": "ley",
+      "num_articulos": 323,
+      "version": "2025-05-07"
+    },
+    {
+      "clave": "reg-senado",
+      "etiqueta": "Reglamento del Senado de la República",
+      "sigla": "Reg_Senado",
+      "tipo": "ley",
+      "num_articulos": 317,
+      "version": "2024-12-06"
+    },
+    {
+      "clave": "rgic",
+      "etiqueta": "Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos",
+      "sigla": "RGIC",
+      "tipo": "ley",
+      "num_articulos": 214,
+      "version": "2010-12-24"
+    },
+    {
       "clave": "risat",
       "etiqueta": "Reglamento Interior del Servicio de Administración Tributaria",
       "sigla": "RISAT",
       "tipo": "reglamento",
       "num_articulos": 56,
       "version": "2021-12-21"
+    },
+    {
+      "clave": "rlieps",
+      "etiqueta": "Reglamento de la Ley del IEPS",
+      "sigla": "RLIEPS",
+      "tipo": "reglamento",
+      "num_articulos": 19,
+      "version": "2006-12-04"
+    },
+    {
+      "clave": "rlisr",
+      "etiqueta": "Reglamento de la Ley del Impuesto sobre la Renta",
+      "sigla": "RLISR",
+      "tipo": "reglamento",
+      "num_articulos": 313,
+      "version": "2016-05-06"
+    },
+    {
+      "clave": "rliva",
+      "etiqueta": "Reglamento de la Ley del Impuesto al Valor Agregado",
+      "sigla": "RLIVA",
+      "tipo": "reglamento",
+      "num_articulos": 84,
+      "version": "2014-09-25"
     }
   ]
 }

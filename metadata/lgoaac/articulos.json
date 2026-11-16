@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf",
   "version": "2025-11-14",
-  "num_articulos": 255,
+  "num_articulos": 263,
   "articulos": [
     {
       "clave": "001",
@@ -2400,6 +2400,26 @@
       "archivo": "lgoaac/045-t.md"
     },
     {
+      "clave": "045-bis-1",
+      "articulo": 45,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 45 Bis 1",
+      "cita": "Artículo 45 Bis 1 LGOAAC",
+      "titulo": "TITULO SEGUNDO. De las Organizaciones Auxiliares del Crédito",
+      "capitulo": "CAPITULO III BIS-I. De las Filiales de Instituciones Financieras del Exterior",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De las Organizaciones Auxiliares del Crédito · De las Filiales de Instituciones Financieras del Exterior",
+      "derogado": false,
+      "ultima_reforma": "1993-12-23",
+      "num_reformas": 1,
+      "reformas": [
+        "1993-12-23"
+      ],
+      "archivo": "lgoaac/045-bis-1.md"
+    },
+    {
       "clave": "045-bis-2",
       "articulo": 45,
       "letra": "",
@@ -2433,17 +2453,160 @@
       "epigrafe": "",
       "contexto": "De las Organizaciones Auxiliares del Crédito · De las Filiales de Instituciones Financieras del Exterior",
       "derogado": false,
+      "ultima_reforma": "2008-08-20",
+      "num_reformas": 4,
+      "reformas": [
+        "1993-12-23",
+        "2001-06-04",
+        "2006-07-18",
+        "2008-08-20"
+      ],
+      "archivo": "lgoaac/045-bis-3.md"
+    },
+    {
+      "clave": "045-bis-4",
+      "articulo": 45,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 45 Bis 4",
+      "cita": "Artículo 45 Bis 4 LGOAAC",
+      "titulo": "TITULO SEGUNDO. De las Organizaciones Auxiliares del Crédito",
+      "capitulo": "CAPITULO III BIS-I. De las Filiales de Instituciones Financieras del Exterior",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De las Organizaciones Auxiliares del Crédito · De las Filiales de Instituciones Financieras del Exterior",
+      "derogado": false,
+      "ultima_reforma": "1993-12-23",
+      "num_reformas": 1,
+      "reformas": [
+        "1993-12-23"
+      ],
+      "archivo": "lgoaac/045-bis-4.md"
+    },
+    {
+      "clave": "045-bis-5",
+      "articulo": 45,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 45 Bis 5",
+      "cita": "Artículo 45 Bis 5 LGOAAC",
+      "titulo": "TITULO SEGUNDO. De las Organizaciones Auxiliares del Crédito",
+      "capitulo": "CAPITULO III BIS-I. De las Filiales de Instituciones Financieras del Exterior",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De las Organizaciones Auxiliares del Crédito · De las Filiales de Instituciones Financieras del Exterior",
+      "derogado": false,
+      "ultima_reforma": "1993-12-23",
+      "num_reformas": 1,
+      "reformas": [
+        "1993-12-23"
+      ],
+      "archivo": "lgoaac/045-bis-5.md"
+    },
+    {
+      "clave": "045-bis-6",
+      "articulo": 45,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 45 Bis 6",
+      "cita": "Artículo 45 Bis 6 LGOAAC",
+      "titulo": "TITULO SEGUNDO. De las Organizaciones Auxiliares del Crédito",
+      "capitulo": "CAPITULO III BIS-I. De las Filiales de Instituciones Financieras del Exterior",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De las Organizaciones Auxiliares del Crédito · De las Filiales de Instituciones Financieras del Exterior",
+      "derogado": false,
+      "ultima_reforma": "1993-12-23",
+      "num_reformas": 1,
+      "reformas": [
+        "1993-12-23"
+      ],
+      "archivo": "lgoaac/045-bis-6.md"
+    },
+    {
+      "clave": "045-bis-7",
+      "articulo": 45,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 45 Bis 7",
+      "cita": "Artículo 45 Bis 7 LGOAAC",
+      "titulo": "TITULO SEGUNDO. De las Organizaciones Auxiliares del Crédito",
+      "capitulo": "CAPITULO III BIS-I. De las Filiales de Instituciones Financieras del Exterior",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De las Organizaciones Auxiliares del Crédito · De las Filiales de Instituciones Financieras del Exterior",
+      "derogado": false,
       "ultima_reforma": "2014-01-10",
-      "num_reformas": 6,
+      "num_reformas": 3,
       "reformas": [
         "1993-12-23",
         "1995-11-17",
-        "2001-06-04",
-        "2006-07-18",
-        "2008-08-20",
         "2014-01-10"
       ],
-      "archivo": "lgoaac/045-bis-3.md"
+      "archivo": "lgoaac/045-bis-7.md"
+    },
+    {
+      "clave": "045-bis-8",
+      "articulo": 45,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 45 Bis 8",
+      "cita": "Artículo 45 Bis 8 LGOAAC",
+      "titulo": "TITULO SEGUNDO. De las Organizaciones Auxiliares del Crédito",
+      "capitulo": "CAPITULO III BIS-I. De las Filiales de Instituciones Financieras del Exterior",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De las Organizaciones Auxiliares del Crédito · De las Filiales de Instituciones Financieras del Exterior",
+      "derogado": false,
+      "ultima_reforma": "1995-11-17",
+      "num_reformas": 2,
+      "reformas": [
+        "1993-12-23",
+        "1995-11-17"
+      ],
+      "archivo": "lgoaac/045-bis-8.md"
+    },
+    {
+      "clave": "045-bis-9",
+      "articulo": 45,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 45 Bis 9",
+      "cita": "Artículo 45 Bis 9 LGOAAC",
+      "titulo": "TITULO SEGUNDO. De las Organizaciones Auxiliares del Crédito",
+      "capitulo": "CAPITULO III BIS-I. De las Filiales de Instituciones Financieras del Exterior",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De las Organizaciones Auxiliares del Crédito · De las Filiales de Instituciones Financieras del Exterior",
+      "derogado": false,
+      "ultima_reforma": "2014-01-10",
+      "num_reformas": 3,
+      "reformas": [
+        "1993-12-23",
+        "1995-11-17",
+        "2014-01-10"
+      ],
+      "archivo": "lgoaac/045-bis-9.md"
+    },
+    {
+      "clave": "045-bis-10",
+      "articulo": 45,
+      "letra": "",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 45 Bis 10",
+      "cita": "Artículo 45 Bis 10 LGOAAC",
+      "titulo": "TITULO SEGUNDO. De las Organizaciones Auxiliares del Crédito",
+      "capitulo": "CAPITULO III BIS-I. De las Filiales de Instituciones Financieras del Exterior",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De las Organizaciones Auxiliares del Crédito · De las Filiales de Instituciones Financieras del Exterior",
+      "derogado": false,
+      "ultima_reforma": "1993-12-23",
+      "num_reformas": 1,
+      "reformas": [
+        "1993-12-23"
+      ],
+      "archivo": "lgoaac/045-bis-10.md"
     },
     {
       "clave": "045-bis-11",

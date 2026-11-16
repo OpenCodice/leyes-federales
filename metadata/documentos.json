@@ -341,7 +341,7 @@
       "etiqueta": "Ley de Concursos Mercantiles",
       "sigla": "LCM",
       "tipo": "ley",
-      "num_articulos": 353,
+      "num_articulos": 355,
       "version": "2025-11-14"
     },
     {
@@ -383,6 +383,14 @@
       "tipo": "ley",
       "num_articulos": 28,
       "version": "2025-03-18"
+    },
+    {
+      "clave": "lcnp",
+      "etiqueta": "Ley para Conservar la Neutralidad del País",
+      "sigla": "LCNP",
+      "tipo": "ley",
+      "num_articulos": 4,
+      "version": "2018-06-21"
     },
     {
       "clave": "lcpaf",
@@ -871,14 +879,6 @@
       "tipo": "ley",
       "num_articulos": 106,
       "version": "2026-06-09"
-    },
-    {
-      "clave": "lfpccs",
-      "etiqueta": "Ley Federal de Producción, Certificación y Comercio de Semillas",
-      "sigla": "LFPCCS",
-      "tipo": "ley",
-      "num_articulos": 42,
-      "version": "2018-05-11"
     },
     {
       "clave": "lfpdppp",
@@ -1453,7 +1453,7 @@
       "etiqueta": "Ley General de Salud",
       "sigla": "LGS",
       "tipo": "ley",
-      "num_articulos": 728,
+      "num_articulos": 732,
       "version": "2026-01-15"
     },
     {
@@ -2207,6 +2207,14 @@
       "tipo": "ley",
       "num_articulos": 25,
       "version": "2021-07-31"
+    },
+    {
+      "clave": "lrfxviii-art73",
+      "etiqueta": "Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera",
+      "sigla": "LRFXVIII_ART73",
+      "tipo": "ley",
+      "num_articulos": 2,
+      "version": "1982-12-27"
     },
     {
       "clave": "lritf",

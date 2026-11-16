@@ -1,0 +1,13 @@
+# Artículo 57 Quáter
+
+1. La Cámara de Diputados a través de la Dirección General de Quejas, Denuncias e Inconformidades de la Contraloría Interna, podrá investigar, sustanciar, y resolver sobre las faltas administrativas no graves de las personas titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos del Presupuesto de Egresos de la Federación.
+
+_Numeral reformado DOF 07-07-2025_
+
+2. Asimismo será competente para investigar y sustanciar las faltas administrativas graves de las personas titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución, cuya sanción corresponde al Tribunal Federal de Justicia Administrativa, de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas y demás normas jurídicas aplicables.
+
+_Numeral reformado DOF 07-07-2025_
+
+3. En el ejercicio de sus funciones, dicha instancia deberá garantizar la separación entre las áreas encargadas de la investigación, sustanciación y resolución de los procedimientos, en los términos previstos por la Ley General de Responsabilidades Administrativas.
+
+_Artículo adicionado DOF 27-01-2017_

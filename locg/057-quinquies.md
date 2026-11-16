@@ -1,0 +1,5 @@
+# Artículo 57 Quinquies
+
+1. Cualquier persona, cuando presuma que los titulares de los Órganos Internos de Control de cualquiera de los organismos constitucionales autónomos, haya incurrido en los supuestos previstos en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, podrá presentar denuncias ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
+
+_Artículo adicionado DOF 27-01-2017_

@@ -62,13 +62,13 @@ que no queda fiel al PDF no se publica: aparece abajo con el motivo.
 | Ley Federal de Correduría Pública | [`lfcp/`](lfcp/) | 23 | 2012-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf) |
 | Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas | [`lfdeapd/`](lfdeapd/) | 33 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEAPD.pdf) |
 | Ley Federal de Defensoría Pública | [`lfdefp/`](lfdefp/) | 42 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDefP.pdf) |
-| Ley Federal de Derechos | [`lfd/`](lfd/) | 694 | 2025-11-07 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf) |
+| Ley Federal de Derechos | [`lfd/`](lfd/) | 782 | 2025-11-07 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf) |
 | Ley Federal de Deuda Pública | [`lgdp/`](lgdp/) | 32 | 2018-01-30 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/136_300118.pdf) |
 | Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil | [`lffaosc/`](lffaosc/) | 32 | 2024-04-01 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFAOSC.pdf) |
 | Ley Federal de Juegos y Sorteos | [`lfjs/`](lfjs/) | 17 | 1947-12-31 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/109.pdf) |
 | Ley Federal de Presupuesto y Responsabilidad Hacendaria | [`lfprh/`](lfprh/) | 124 | 2026-04-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf) |
 | Ley Federal de Procedimiento Administrativo | [`lfpa/`](lfpa/) | 118 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf) |
-| Ley Federal de Procedimiento Contencioso Administrativo | [`lfpca/`](lfpca/) | 106 | 2026-06-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf) |
+| Ley Federal de Procedimiento Contencioso Administrativo | [`lfpca/`](lfpca/) | 135 | 2026-06-09 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf) |
 | Ley Federal de Protección a la Propiedad Industrial | [`lfppi/`](lfppi/) | 421 | 2026-04-03 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf) |
 | Ley Federal de Protección al Consumidor | [`lfpc/`](lfpc/) | 190 | 2025-12-12 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf) |
 | Ley Federal de Protección de Datos Personales en Posesión de los Particulares | [`lfpdppp/`](lfpdppp/) | 64 | 2025-11-14 | [PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf) |

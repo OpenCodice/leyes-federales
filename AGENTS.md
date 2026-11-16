@@ -56,6 +56,37 @@ El título de cada commit dice qué le pasó a esa ley: `Reforma LGS (DOF
 2026-01-15): arts. 4o, 22`, `Alta de LGS`, `Corrección de extracción LGS: 3
 artículos` o `Retiro de LGS: …`. `git log -- lgs/` es la historia de la LGS.
 
+Cada commit lleva, además del título, trailers de git que calcula el código del
+extractor (`scripts/trailers.py`; `fuentes.json` guarda por ley el
+`extractor_sha` de su versión publicada), nunca el agente:
+
+```
+Reforma LGS (DOF 2026-01-15): arts. 4o, 22, 222 Bis
+
+Documento: lgs
+Tipo: reforma
+Publicacion: 2026-01-15
+Publicacion-Origen: notas
+Medio: DOF
+Articulos-Modificados: 004, 022
+Articulos-Adicionados: 222-bis
+Fuente: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf
+Fuente-Sha256: 9f2c…
+Extractor: OpenCodice/fiscal-extractor@b897ca4
+```
+
+`Tipo` sale de la causa: otro archivo oficial con el mismo extractor es una
+`reforma`; el mismo archivo leído por un extractor nuevo, una `correccion`; si
+cambiaron ambos, son dos commits (primero la reforma, reconstruyendo el PDF
+nuevo con el commit del extractor de la versión publicada; luego la corrección).
+`alta` y `retiro` cuando el documento aparece o desaparece. `Publicacion` son
+las fechas de reforma nuevas de la metadata (`Publicacion-Origen: notas`) o, si
+no hay, la versión de la portada (`portada`). `revisar-pr` comprueba cada commit
+del PR con `scripts/validar_commits.py` del extractor —trailers bien formados,
+título coherente, listas de artículos idénticas al diff— y lo fusiona con
+rebase. Un commit que no toca documentos (README, documentación) lleva `Tipo:
+indice`. La bitácora lee estos trailers: no reescribas mensajes al fusionar.
+
 ## Lo único que se edita aquí
 
 `revisar-pr.yml` y la documentación (el README fuera

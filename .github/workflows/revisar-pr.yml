@@ -21,6 +21,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
@@ -38,6 +40,11 @@ jobs:
             echo "::error::Invariantes ROTOS — no mergear"
             exit 1
           fi
+
+      - name: Validar los trailers de cada commit (GATE)
+        run: |
+          git fetch -q origin "${{ github.base_ref }}"
+          python /tmp/extractor/scripts/validar_commits.py "$GITHUB_WORKSPACE" "origin/${{ github.base_ref }}"
 
   fusionar:
     needs: validar

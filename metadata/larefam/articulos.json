@@ -20,10 +20,12 @@
       "epigrafe": "",
       "contexto": "Disposiciones preliminares",
       "derogado": false,
-      "ultima_reforma": "2022-09-09",
-      "num_reformas": 1,
+      "ultima_reforma": "2025-07-16",
+      "num_reformas": 3,
       "reformas": [
-        "2022-09-09"
+        "2022-09-09",
+        "2023-09-20",
+        "2025-07-16"
       ],
       "archivo": "larefam/001.md"
     },
@@ -37,8 +39,8 @@
       "titulo": "TÍTULO PRIMERO. Disposiciones preliminares",
       "capitulo": "",
       "seccion": "",
-      "epigrafe": "Artículo declarado parcialmente inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023 y",
-      "contexto": "Disposiciones preliminares · Artículo declarado parcialmente inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023 y",
+      "epigrafe": "",
+      "contexto": "Disposiciones preliminares",
       "derogado": false,
       "ultima_reforma": "2025-07-16",
       "num_reformas": 2,

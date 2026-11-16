@@ -5342,9 +5342,11 @@
       "epigrafe": "",
       "contexto": "INFRACCIONES · Disposiciones en materia de Infracciones",
       "derogado": false,
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2026-02-23",
+      "num_reformas": 1,
+      "reformas": [
+        "2026-02-23"
+      ],
       "archivo": "rladua/248.md"
     },
     {
@@ -5357,8 +5359,8 @@
       "titulo": "TÍTULO OCTAVO. INFRACCIONES",
       "capitulo": "Capítulo Único. Disposiciones en materia de Infracciones",
       "seccion": "",
-      "epigrafe": "Para efectos de lo dispuesto en las fracciones I y II del artículo 186 de la Ley, se entenderá por otros medios de seguridad, a los candados oficiales o electrónicos que cumplan con las características y requisitos que se señalen mediante Reglas.”",
-      "contexto": "INFRACCIONES · Disposiciones en materia de Infracciones · Para efectos de lo dispuesto en las fracciones I y II del artículo 186 de la Ley, se entenderá por otros medios de seguridad, a los candados oficiales o electrónicos que cumplan con las características y requisitos que se señalen mediante Reglas.”",
+      "epigrafe": "",
+      "contexto": "INFRACCIONES · Disposiciones en materia de Infracciones",
       "derogado": false,
       "ultima_reforma": null,
       "num_reformas": 0,

@@ -129,6 +129,14 @@
       "version": "2025-11-19"
     },
     {
+      "clave": "laem",
+      "etiqueta": "Ley que crea la Agencia Espacial Mexicana",
+      "sigla": "LAEM",
+      "tipo": "ley",
+      "num_articulos": 17,
+      "version": "2010-07-30"
+    },
+    {
       "clave": "laero",
       "etiqueta": "Ley de Aeropuertos",
       "sigla": "LAero",
@@ -241,6 +249,46 @@
       "version": "2022-05-11"
     },
     {
+      "clave": "lcaaa",
+      "etiqueta": "Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas",
+      "sigla": "LCAAA",
+      "tipo": "ley",
+      "num_articulos": 19,
+      "version": "2012-04-09"
+    },
+    {
+      "clave": "lcacsam",
+      "etiqueta": "Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México",
+      "sigla": "LCACSAM",
+      "tipo": "ley",
+      "num_articulos": 25,
+      "version": "2009-06-12"
+    },
+    {
+      "clave": "lcacsefam",
+      "etiqueta": "Ley para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos",
+      "sigla": "LCACSEFAM",
+      "tipo": "ley",
+      "num_articulos": 37,
+      "version": "2024-05-03"
+    },
+    {
+      "clave": "lccaif",
+      "etiqueta": "Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento",
+      "sigla": "LCCAIF",
+      "tipo": "ley",
+      "num_articulos": 11,
+      "version": "2025-06-06"
+    },
+    {
+      "clave": "lccbid",
+      "etiqueta": "Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo",
+      "sigla": "LCCBID",
+      "tipo": "ley",
+      "num_articulos": 12,
+      "version": "2014-12-29"
+    },
+    {
       "clave": "lce",
       "etiqueta": "Ley de Comercio Exterior",
       "sigla": "LCE",
@@ -345,6 +393,22 @@
       "version": "2001-12-31"
     },
     {
+      "clave": "ldcmpme",
+      "etiqueta": "Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "sigla": "LDCMPME",
+      "tipo": "ley",
+      "num_articulos": 26,
+      "version": "2023-10-20"
+    },
+    {
+      "clave": "ldcpdch",
+      "etiqueta": "Ley para el Diálogo, la Conciliación y la Paz Digna en Chiapas",
+      "sigla": "LDCPDCH",
+      "tipo": "ley",
+      "num_articulos": 13,
+      "version": "1995-03-11"
+    },
+    {
       "clave": "ldefam",
       "etiqueta": "Ley de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional",
       "sigla": "LDEFAGN",
@@ -407,6 +471,14 @@
       "tipo": "ley",
       "num_articulos": 150,
       "version": "2025-11-14"
+    },
+    {
+      "clave": "ldvuma",
+      "etiqueta": "Ley para Determinar el Valor de la Unidad de Medida y Actualización",
+      "sigla": "LDVUMA",
+      "tipo": "ley",
+      "num_articulos": 5,
+      "version": "2016-12-30"
     },
     {
       "clave": "lec",
@@ -657,6 +729,14 @@
       "version": "2020-04-13"
     },
     {
+      "clave": "lfgfaga",
+      "etiqueta": "Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura",
+      "sigla": "LFGFAGA",
+      "tipo": "ley",
+      "num_articulos": 14,
+      "version": "2012-04-09"
+    },
+    {
       "clave": "lfgr",
       "etiqueta": "Ley de la Fiscalía General de la República",
       "sigla": "LFGR",
@@ -671,6 +751,14 @@
       "tipo": "ley",
       "num_articulos": 195,
       "version": "2025-11-14"
+    },
+    {
+      "clave": "lfiiedb",
+      "etiqueta": "Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar",
+      "sigla": "LFIIEDB",
+      "tipo": "ley",
+      "num_articulos": 141,
+      "version": "2026-04-09"
     },
     {
       "clave": "lfisan",
@@ -1489,6 +1577,14 @@
       "version": "2024-04-01"
     },
     {
+      "clave": "linbal",
+      "etiqueta": "Ley que crea el Instituto Nacional de Bellas Artes y Literatura",
+      "sigla": "LINBAL",
+      "tipo": "ley",
+      "num_articulos": 16,
+      "version": "2015-12-17"
+    },
+    {
       "clave": "linpi",
       "etiqueta": "Ley del Instituto Nacional de los Pueblos Indígenas",
       "sigla": "LINPI",
@@ -1559,6 +1655,14 @@
       "tipo": "ley",
       "num_articulos": 80,
       "version": "2021-11-12"
+    },
+    {
+      "clave": "lmccbdc",
+      "etiqueta": "Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
+      "sigla": "LMCCBDC",
+      "tipo": "ley",
+      "num_articulos": 10,
+      "version": "2014-12-29"
     },
     {
       "clave": "lmeum",
@@ -1817,6 +1921,14 @@
       "version": "1998-01-23"
     },
     {
+      "clave": "lotfja",
+      "etiqueta": "Ley Orgánica del Tribunal Federal de Justicia Administrativa",
+      "sigla": "LOTFJA",
+      "tipo": "ley",
+      "num_articulos": 70,
+      "version": "2025-10-16"
+    },
+    {
       "clave": "louaaan",
       "etiqueta": "Ley Orgánica de la Universidad Autónoma Agraria Antonio Narro",
       "sigla": "LOUAAAN",
@@ -1905,6 +2017,14 @@
       "version": "2006-02-07"
     },
     {
+      "clave": "lppddhp",
+      "etiqueta": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
+      "sigla": "LPPDDHP",
+      "tipo": "ley",
+      "num_articulos": 67,
+      "version": "2022-04-28"
+    },
+    {
       "clave": "lpte",
       "etiqueta": "Ley de Planeación y Transición Energética",
       "sigla": "LPTE",
@@ -1921,12 +2041,68 @@
       "version": "2020-12-07"
     },
     {
+      "clave": "lraf",
+      "etiqueta": "Ley para Regular las Agrupaciones Financieras",
+      "sigla": "LRAF",
+      "tipo": "ley",
+      "num_articulos": 193,
+      "version": "2025-11-14"
+    },
+    {
       "clave": "lram",
       "etiqueta": "Ley de Recompensas de la Armada de México",
       "sigla": "LRAM",
       "tipo": "ley",
       "num_articulos": 71,
       "version": "2021-11-22"
+    },
+    {
+      "clave": "lrart27-mn",
+      "etiqueta": "Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear",
+      "sigla": "LRART27_MN",
+      "tipo": "ley",
+      "num_articulos": 52,
+      "version": "2012-04-09"
+    },
+    {
+      "clave": "lrart3-mmce",
+      "etiqueta": "Ley Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación",
+      "sigla": "LRArt3_MMCE",
+      "tipo": "ley",
+      "num_articulos": 68,
+      "version": "2019-09-30"
+    },
+    {
+      "clave": "lrart5-prof",
+      "etiqueta": "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México",
+      "sigla": "LRART5_PROF",
+      "tipo": "ley",
+      "num_articulos": 73,
+      "version": "2018-01-19"
+    },
+    {
+      "clave": "lrart6-mdr",
+      "etiqueta": "Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica",
+      "sigla": "LRArt6_MDR",
+      "tipo": "ley",
+      "num_articulos": 42,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lrart76-fracvi",
+      "etiqueta": "Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos",
+      "sigla": "LRArt76_fracVI",
+      "tipo": "ley",
+      "num_articulos": 25,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lrascap",
+      "etiqueta": "Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo",
+      "sigla": "LRASCAP",
+      "tipo": "ley",
+      "num_articulos": 144,
+      "version": "2025-11-14"
     },
     {
       "clave": "lrcdn",
@@ -1937,12 +2113,68 @@
       "version": "2025-11-14"
     },
     {
+      "clave": "lrfiyii-art105",
+      "etiqueta": "Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
+      "sigla": "LRFIyII_Art105",
+      "tipo": "ley",
+      "num_articulos": 74,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lrfv-art76",
+      "etiqueta": "Ley Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República",
+      "sigla": "LRFV_ART76",
+      "tipo": "ley",
+      "num_articulos": 15,
+      "version": "1978-12-29"
+    },
+    {
+      "clave": "lrfxiiib-art123",
+      "etiqueta": "Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos",
+      "sigla": "LRFXIIIB_Art123",
+      "tipo": "ley",
+      "num_articulos": 25,
+      "version": "2021-07-31"
+    },
+    {
+      "clave": "lritf",
+      "etiqueta": "Ley para Regular las Instituciones de Tecnología Financiera",
+      "sigla": "LRITF",
+      "tipo": "ley",
+      "num_articulos": 145,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lrmnyut",
+      "etiqueta": "Ley que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
+      "sigla": "LRMNYUT",
+      "tipo": "ley",
+      "num_articulos": 16,
+      "version": "1972-01-12"
+    },
+    {
       "clave": "lrpv",
       "etiqueta": "Ley del Registro Público Vehicular",
       "sigla": "LRPV",
       "tipo": "ley",
       "num_articulos": 27,
       "version": "2021-05-20"
+    },
+    {
+      "clave": "lrsf",
+      "etiqueta": "Ley Reglamentaria del Servicio Ferroviario",
+      "sigla": "LRSF",
+      "tipo": "ley",
+      "num_articulos": 69,
+      "version": "2025-11-14"
+    },
+    {
+      "clave": "lrsic",
+      "etiqueta": "Ley para Regular las Sociedades de Información Crediticia",
+      "sigla": "LRSIC",
+      "tipo": "ley",
+      "num_articulos": 85,
+      "version": "2024-01-24"
     },
     {
       "clave": "lsar",
@@ -2097,12 +2329,44 @@
       "version": "2014-01-10"
     },
     {
+      "clave": "ltpcpimcp",
+      "etiqueta": "Ley para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad",
+      "sigla": "LTPCPIMCP",
+      "tipo": "ley",
+      "num_articulos": 13,
+      "version": "2021-06-03"
+    },
+    {
+      "clave": "luach",
+      "etiqueta": "Ley que crea la Universidad Autónoma Chapingo",
+      "sigla": "LUACH",
+      "tipo": "ley",
+      "num_articulos": 16,
+      "version": "1977-12-30"
+    },
+    {
       "clave": "luc",
       "etiqueta": "Ley de Uniones de Crédito",
       "sigla": "LUC",
       "tipo": "ley",
       "num_articulos": 151,
       "version": "2025-11-14"
+    },
+    {
+      "clave": "luefa",
+      "etiqueta": "Ley que Crea la Universidad del Ejército y Fuerza Aérea",
+      "sigla": "LUEFA",
+      "tipo": "ley",
+      "num_articulos": 7,
+      "version": "1975-12-29"
+    },
+    {
+      "clave": "lupdecr",
+      "etiqueta": "Ley para el uso y protección de la denominación y del emblema de la Cruz Roja",
+      "sigla": "LUPDECR",
+      "tipo": "ley",
+      "num_articulos": 20,
+      "version": "2007-03-23"
     },
     {
       "clave": "lvgc",

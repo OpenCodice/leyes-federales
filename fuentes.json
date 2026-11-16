@@ -373,6 +373,29 @@
       }
     },
     {
+      "clave": "laem",
+      "etiqueta": "Ley que crea la Agencia Espacial Mexicana",
+      "sigla": "LAEM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf",
+      "estado": "incluida",
+      "version": "2010-07-30",
+      "unidades": 17,
+      "pdf": {
+        "sha256": "b007340fd742c125439e4f037c7aae09f2fe9e55f88a9f194079e0daebfc1dca",
+        "bytes": 241824,
+        "etag": "\"3b0a0-57653fec15700\"",
+        "last_modified": "Thu, 20 Sep 2018 21:13:32 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "laero",
       "etiqueta": "Ley de Aeropuertos",
       "sigla": "LAero",
@@ -695,6 +718,121 @@
       }
     },
     {
+      "clave": "lcaaa",
+      "etiqueta": "Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas",
+      "sigla": "LCAAA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf",
+      "estado": "incluida",
+      "version": "2012-04-09",
+      "unidades": 19,
+      "pdf": {
+        "sha256": "e893cded29ecee9a0b5ad3c4c07a33b6be520db6a73f89e837a32235b6167c84",
+        "bytes": 384751,
+        "etag": "\"5deef-57651b5518380\"",
+        "last_modified": "Thu, 20 Sep 2018 18:29:50 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lcacsam",
+      "etiqueta": "Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México",
+      "sigla": "LCACSAM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/268.pdf",
+      "estado": "incluida",
+      "version": "2009-06-12",
+      "unidades": 25,
+      "pdf": {
+        "sha256": "e56b3fe80514e68891aee1c7ad316374b7b6d21ab2b8ce55c53b3ae83a535248",
+        "bytes": 245718,
+        "etag": "\"3bfd6-576530f714d40\"",
+        "last_modified": "Thu, 20 Sep 2018 20:06:37 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lcacsefam",
+      "etiqueta": "Ley para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos",
+      "sigla": "LCACSEFAM",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf",
+      "estado": "incluida",
+      "version": "2024-05-03",
+      "unidades": 37,
+      "pdf": {
+        "sha256": "93f2f807af3fd78f9e7ffcc4b1b544b2c7eecca463efcd7adaa16a0f8716049f",
+        "bytes": 381140,
+        "etag": "\"5d0d4-6185a48d05500\"",
+        "last_modified": "Mon, 13 May 2024 18:45:08 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lccaif",
+      "etiqueta": "Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento",
+      "sigla": "LCCAIF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCCAIF.pdf",
+      "estado": "incluida",
+      "version": "2025-06-06",
+      "unidades": 11,
+      "pdf": {
+        "sha256": "0cfd6d7820098b2fa0a6388cbf69fb010bc2816951a1c80c52245dadbecd4eda",
+        "bytes": 345490,
+        "etag": "\"54592-6387436156ec0\"",
+        "last_modified": "Thu, 26 Jun 2025 07:07:15 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lccbid",
+      "etiqueta": "Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo",
+      "sigla": "LCCBID",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/200_291214.pdf",
+      "estado": "incluida",
+      "version": "2014-12-29",
+      "unidades": 12,
+      "pdf": {
+        "sha256": "acd6dc67820b7cb3bfa7f1f5f35f25b94d0531fdd24aa1165344cab0a5dabec7",
+        "bytes": 290970,
+        "etag": "\"4709a-5766b15361f40\"",
+        "last_modified": "Sat, 22 Sep 2018 00:46:13 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lce",
       "etiqueta": "Ley de Comercio Exterior",
       "sigla": "LCE",
@@ -994,6 +1132,52 @@
       }
     },
     {
+      "clave": "ldcmpme",
+      "etiqueta": "Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "sigla": "LDCMPME",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf",
+      "estado": "incluida",
+      "version": "2023-10-20",
+      "unidades": 26,
+      "pdf": {
+        "sha256": "4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d",
+        "bytes": 412385,
+        "etag": "\"64ae1-60893db8e1340\"",
+        "last_modified": "Thu, 26 Oct 2023 00:43:17 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "ldcpdch",
+      "etiqueta": "Ley para el Diálogo, la Conciliación y la Paz Digna en Chiapas",
+      "sigla": "LDCPDCH",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf",
+      "estado": "incluida",
+      "version": "1995-03-11",
+      "unidades": 13,
+      "pdf": {
+        "sha256": "d36aec42a42e48e3d457225ab337f67df31be47f04fd896068aba67cf669883a",
+        "bytes": 263054,
+        "etag": "\"4038e-576428ce091c0\"",
+        "last_modified": "Thu, 20 Sep 2018 00:24:47 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "ldefam",
       "etiqueta": "Ley de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional",
       "sigla": "LDEFAGN",
@@ -1174,6 +1358,29 @@
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
       "alta": {
         "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "ldvuma",
+      "etiqueta": "Ley para Determinar el Valor de la Unidad de Medida y Actualización",
+      "sigla": "LDVUMA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA_301216.pdf",
+      "estado": "incluida",
+      "version": "2016-12-30",
+      "unidades": 5,
+      "pdf": {
+        "sha256": "44f65ae5f6367e9a510790e5b10730bd179df1f48b9703485548c0add7dbacc4",
+        "bytes": 196745,
+        "etag": "\"30089-576430e56a8c0\"",
+        "last_modified": "Thu, 20 Sep 2018 01:00:59 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
         "via": "limpia"
       }
     },
@@ -1892,6 +2099,29 @@
       }
     },
     {
+      "clave": "lfgfaga",
+      "etiqueta": "Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura",
+      "sigla": "LFGFAGA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/192.pdf",
+      "estado": "incluida",
+      "version": "2012-04-09",
+      "unidades": 14,
+      "pdf": {
+        "sha256": "5ecf3ff973aa8817fdb63785bcf56d34826dabc130480ba3f1b344ce55ede363",
+        "bytes": 377648,
+        "etag": "\"5c330-57652fc8c4400\"",
+        "last_modified": "Thu, 20 Sep 2018 20:01:20 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lfgr",
       "etiqueta": "Ley de la Fiscalía General de la República",
       "sigla": "LFGR",
@@ -1934,6 +2164,29 @@
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
       "alta": {
         "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lfiiedb",
+      "etiqueta": "Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar",
+      "sigla": "LFIIEDB",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIIEDB.pdf",
+      "estado": "incluida",
+      "version": "2026-04-09",
+      "unidades": 141,
+      "pdf": {
+        "sha256": "fe2c431f650ba0c758bcfedf67155702c18a62cc941fbeb0e3a6db9206754eaa",
+        "bytes": 547686,
+        "etag": "\"85b66-64f620a368b40\"",
+        "last_modified": "Tue, 14 Apr 2026 02:05:57 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
         "via": "limpia"
       }
     },
@@ -4325,6 +4578,29 @@
       }
     },
     {
+      "clave": "linbal",
+      "etiqueta": "Ley que crea el Instituto Nacional de Bellas Artes y Literatura",
+      "sigla": "LINBAL",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/193_171215.pdf",
+      "estado": "incluida",
+      "version": "2015-12-17",
+      "unidades": 16,
+      "pdf": {
+        "sha256": "a4ac552c999c8fac29280eab8483bfec7ffd04fe5b8edcd3b699e39c4cdaafd2",
+        "bytes": 301197,
+        "etag": "\"4988d-5766b05d55ac0\"",
+        "last_modified": "Sat, 22 Sep 2018 00:41:55 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "linpi",
       "etiqueta": "Ley del Instituto Nacional de los Pueblos Indígenas",
       "sigla": "LINPI",
@@ -4534,6 +4810,29 @@
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
       "alta": {
         "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lmccbdc",
+      "etiqueta": "Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
+      "sigla": "LMCCBDC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf",
+      "estado": "incluida",
+      "version": "2014-12-29",
+      "unidades": 10,
+      "pdf": {
+        "sha256": "2f11746efbe37cbc7bf8f9448f5d9050c4deee13184bbe78c4e958d017bebece",
+        "bytes": 309653,
+        "etag": "\"4b995-5766afaaff600\"",
+        "last_modified": "Sat, 22 Sep 2018 00:38:48 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
         "via": "limpia"
       }
     },
@@ -5274,6 +5573,29 @@
       }
     },
     {
+      "clave": "lotfja",
+      "etiqueta": "Ley Orgánica del Tribunal Federal de Justicia Administrativa",
+      "sigla": "LOTFJA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf",
+      "estado": "incluida",
+      "version": "2025-10-16",
+      "unidades": 70,
+      "pdf": {
+        "sha256": "b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628",
+        "bytes": 563473,
+        "etag": "\"89911-6416530d483c0\"",
+        "last_modified": "Sat, 18 Oct 2025 01:58:47 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "louaaan",
       "etiqueta": "Ley Orgánica de la Universidad Autónoma Agraria Antonio Narro",
       "sigla": "LOUAAAN",
@@ -5527,6 +5849,29 @@
       }
     },
     {
+      "clave": "lppddhp",
+      "etiqueta": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
+      "sigla": "LPPDDHP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPPDDHP.pdf",
+      "estado": "incluida",
+      "version": "2022-04-28",
+      "unidades": 67,
+      "pdf": {
+        "sha256": "060468c7fa389756fc5706ce2d475a105bb9bb0149fc6a9079a018bc3b4f6e21",
+        "bytes": 421186,
+        "etag": "\"66d42-5de10eff1d680\"",
+        "last_modified": "Tue, 03 May 2022 00:53:30 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lpte",
       "etiqueta": "Ley de Planeación y Transición Energética",
       "sigla": "LPTE",
@@ -5573,6 +5918,29 @@
       }
     },
     {
+      "clave": "lraf",
+      "etiqueta": "Ley para Regular las Agrupaciones Financieras",
+      "sigla": "LRAF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAF.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 193,
+      "pdf": {
+        "sha256": "e86e9b734f81f2cdc9e2cf39b79ab4aaeea8295ae966ce73a487319c49de521a",
+        "bytes": 1070997,
+        "etag": "\"105795-64516aa6affc0\"",
+        "last_modified": "Thu, 04 Dec 2025 01:58:31 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lram",
       "etiqueta": "Ley de Recompensas de la Armada de México",
       "sigla": "LRAM",
@@ -5592,6 +5960,144 @@
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
       "alta": {
         "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lrart27-mn",
+      "etiqueta": "Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear",
+      "sigla": "LRART27_MN",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/207.pdf",
+      "estado": "incluida",
+      "version": "2012-04-09",
+      "unidades": 52,
+      "pdf": {
+        "sha256": "547158ef75d8c668bfe91b1f6673f265d17dd89d807b9cbba3b37a1313835ce8",
+        "bytes": 438722,
+        "etag": "\"6b1c2-5766b2c474600\"",
+        "last_modified": "Sat, 22 Sep 2018 00:52:40 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lrart3-mmce",
+      "etiqueta": "Ley Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación",
+      "sigla": "LRArt3_MMCE",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf",
+      "estado": "incluida",
+      "version": "2019-09-30",
+      "unidades": 68,
+      "pdf": {
+        "sha256": "6cfd550f22edb3253ebf98d885329be5402890d902d17afaa7860d94d76fe014",
+        "bytes": 324440,
+        "etag": "\"4f358-593ce9e7b9ac0\"",
+        "last_modified": "Tue, 01 Oct 2019 00:41:55 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lrart5-prof",
+      "etiqueta": "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México",
+      "sigla": "LRART5_PROF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/208_190118.pdf",
+      "estado": "incluida",
+      "version": "2018-01-19",
+      "unidades": 73,
+      "pdf": {
+        "sha256": "db0e747c99548991239635e331e95369b627315c81889db03aa2e96f6d3debe6",
+        "bytes": 395007,
+        "etag": "\"606ff-5766b5c2414c0\"",
+        "last_modified": "Sat, 22 Sep 2018 01:06:03 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lrart6-mdr",
+      "etiqueta": "Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica",
+      "sigla": "LRArt6_MDR",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 42,
+      "pdf": {
+        "sha256": "b3013ac434856f46bc973c4178d55c6d5d440730a42f3d7f8ca225730e0d382c",
+        "bytes": 496450,
+        "etag": "\"79342-6451b7fedfa40\"",
+        "last_modified": "Thu, 04 Dec 2025 07:44:33 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lrart76-fracvi",
+      "etiqueta": "Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos",
+      "sigla": "LRArt76_fracVI",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 25,
+      "pdf": {
+        "sha256": "bb06062d0e0454e928090853dd4071bfd19b713abe553033285147a67c323531",
+        "bytes": 285658,
+        "etag": "\"45bda-6451a01cde180\"",
+        "last_modified": "Thu, 04 Dec 2025 05:57:42 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lrascap",
+      "etiqueta": "Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo",
+      "sigla": "LRASCAP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRASCAP.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 144,
+      "pdf": {
+        "sha256": "b47aeec8015f6cd2ccbcc51a81b3beb06b2b9b096cd738dae46bc725c8a0d644",
+        "bytes": 1075684,
+        "etag": "\"1069e4-6451544bb0180\"",
+        "last_modified": "Thu, 04 Dec 2025 00:18:30 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
         "via": "limpia"
       }
     },
@@ -5619,6 +6125,121 @@
       }
     },
     {
+      "clave": "lrfiyii-art105",
+      "etiqueta": "Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
+      "sigla": "LRFIyII_Art105",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 74,
+      "pdf": {
+        "sha256": "b99f96ee0d44bd781d14cfdc7f94358bd6d3f6ed17c3bd3aadcf5d149873edeb",
+        "bytes": 621851,
+        "etag": "\"97d1b-6451aacc01680\"",
+        "last_modified": "Thu, 04 Dec 2025 06:45:30 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lrfv-art76",
+      "etiqueta": "Ley Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República",
+      "sigla": "LRFV_ART76",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/202.pdf",
+      "estado": "incluida",
+      "version": "1978-12-29",
+      "unidades": 15,
+      "pdf": {
+        "sha256": "89ae4eeddd5a5d6f2100bc85e9348f6f1fdc5f1acb92ef074c6a742a5cd2aad3",
+        "bytes": 204263,
+        "etag": "\"31de7-5763f920e9640\"",
+        "last_modified": "Wed, 19 Sep 2018 20:51:29 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lrfxiiib-art123",
+      "etiqueta": "Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos",
+      "sigla": "LRFXIIIB_Art123",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf",
+      "estado": "incluida",
+      "version": "2021-07-31",
+      "unidades": 25,
+      "pdf": {
+        "sha256": "57ec1adca9a93f6403430d9a0e202d49216fa2c83997706c08d93b88cdd46dea",
+        "bytes": 363348,
+        "etag": "\"58b54-6451a7180da00\"",
+        "last_modified": "Thu, 04 Dec 2025 06:28:56 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lritf",
+      "etiqueta": "Ley para Regular las Instituciones de Tecnología Financiera",
+      "sigla": "LRITF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 145,
+      "pdf": {
+        "sha256": "d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491",
+        "bytes": 844514,
+        "etag": "\"ce2e2-64519b5fcb380\"",
+        "last_modified": "Thu, 04 Dec 2025 05:36:30 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lrmnyut",
+      "etiqueta": "Ley que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
+      "sigla": "LRMNYUT",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/197.pdf",
+      "estado": "incluida",
+      "version": "1972-01-12",
+      "unidades": 16,
+      "pdf": {
+        "sha256": "6e3f13a2ca4c875228dcbd57a62c04bd991e1540b851c56f320c8aaf2016d7c0",
+        "bytes": 217611,
+        "etag": "\"3520b-57643060db000\"",
+        "last_modified": "Thu, 20 Sep 2018 00:58:40 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "lrpv",
       "etiqueta": "Ley del Registro Público Vehicular",
       "sigla": "LRPV",
@@ -5638,6 +6259,52 @@
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
       "alta": {
         "fecha": "2026-11-15",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lrsf",
+      "etiqueta": "Ley Reglamentaria del Servicio Ferroviario",
+      "sigla": "LRSF",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSF.pdf",
+      "estado": "incluida",
+      "version": "2025-11-14",
+      "unidades": 69,
+      "pdf": {
+        "sha256": "02fe2afc021cdf42249b2003da14bf738f24157375ffc0b420e1e7d7a5c20fd5",
+        "bytes": 573997,
+        "etag": "\"8c22d-6451ec43e0c00\"",
+        "last_modified": "Thu, 04 Dec 2025 11:38:24 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lrsic",
+      "etiqueta": "Ley para Regular las Sociedades de Información Crediticia",
+      "sigla": "LRSIC",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSIC.pdf",
+      "estado": "incluida",
+      "version": "2024-01-24",
+      "unidades": 85,
+      "pdf": {
+        "sha256": "25be325eba8804157a7b094dd11c861740241434d433a9cd69c53d4fe9e30b91",
+        "bytes": 623049,
+        "etag": "\"981c9-60fce055e2700\"",
+        "last_modified": "Fri, 26 Jan 2024 00:03:08 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
         "via": "limpia"
       }
     },
@@ -6079,6 +6746,52 @@
       }
     },
     {
+      "clave": "ltpcpimcp",
+      "etiqueta": "Ley para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad",
+      "sigla": "LTPCPIMCP",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTPCPIMCP.pdf",
+      "estado": "incluida",
+      "version": "2021-06-03",
+      "unidades": 13,
+      "pdf": {
+        "sha256": "55fcd61a87cfde80f0699f50bb45d3ee0a79c461dcb0fc374b9a846125cb491d",
+        "bytes": 526127,
+        "etag": "\"8072f-610f60bb9f740\"",
+        "last_modified": "Fri, 09 Feb 2024 17:13:25 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "luach",
+      "etiqueta": "Ley que crea la Universidad Autónoma Chapingo",
+      "sigla": "LUACH",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/195.pdf",
+      "estado": "incluida",
+      "version": "1977-12-30",
+      "unidades": 16,
+      "pdf": {
+        "sha256": "eaf46ed3247dddcc29d15d16c73bd64684685dc7540b8318f743ce000f7bbff5",
+        "bytes": 225172,
+        "etag": "\"36f94-57642f7a10f80\"",
+        "last_modified": "Thu, 20 Sep 2018 00:54:38 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "luc",
       "etiqueta": "Ley de Uniones de Crédito",
       "sigla": "LUC",
@@ -6093,6 +6806,52 @@
         "bytes": 787320,
         "etag": "\"c0378-644b0066cf240\"",
         "last_modified": "Fri, 28 Nov 2025 23:31:13 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "luefa",
+      "etiqueta": "Ley que Crea la Universidad del Ejército y Fuerza Aérea",
+      "sigla": "LUEFA",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/196.pdf",
+      "estado": "incluida",
+      "version": "1975-12-29",
+      "unidades": 7,
+      "pdf": {
+        "sha256": "1735a62b3987ad5c4c07d876dbab5080edeca171b482098aa17b4c647cb11fdf",
+        "bytes": 197307,
+        "etag": "\"302bb-5763f01c10f00\"",
+        "last_modified": "Wed, 19 Sep 2018 20:11:08 GMT"
+      },
+      "extractor": "817e43250c609f69",
+      "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",
+      "alta": {
+        "fecha": "2026-11-16",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "lupdecr",
+      "etiqueta": "Ley para el uso y protección de la denominación y del emblema de la Cruz Roja",
+      "sigla": "LUPDECR",
+      "tipo": "ley",
+      "parser": "articulado",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUPDECR.pdf",
+      "estado": "incluida",
+      "version": "2007-03-23",
+      "unidades": 20,
+      "pdf": {
+        "sha256": "add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88",
+        "bytes": 173628,
+        "etag": "\"2a63c-57650f301dc80\"",
+        "last_modified": "Thu, 20 Sep 2018 17:35:30 GMT"
       },
       "extractor": "817e43250c609f69",
       "extractor_sha": "a7f72f72e40476dcd7698c27dd5a254ab86ad012",

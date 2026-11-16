@@ -307,9 +307,12 @@
       "epigrafe": "",
       "contexto": "Sistema Nacional de Salud · Disposiciones Comunes",
       "derogado": false,
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2021-12-21",
+      "num_reformas": 2,
+      "reformas": [
+        "2018-05-11",
+        "2021-12-21"
+      ],
       "archivo": "lgs/010-bis.md"
     },
     {
@@ -322,8 +325,8 @@
       "titulo": "TITULO SEGUNDO. Sistema Nacional de Salud",
       "capitulo": "CAPITULO I. Disposiciones Comunes",
       "seccion": "",
-      "epigrafe": "El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación laboral.]",
-      "contexto": "Sistema Nacional de Salud · Disposiciones Comunes · El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación laboral.]",
+      "epigrafe": "",
+      "contexto": "Sistema Nacional de Salud · Disposiciones Comunes",
       "derogado": false,
       "ultima_reforma": "2024-04-01",
       "num_reformas": 3,
@@ -344,8 +347,8 @@
       "titulo": "TITULO SEGUNDO. Sistema Nacional de Salud",
       "capitulo": "CAPITULO I. Disposiciones Comunes",
       "seccion": "",
-      "epigrafe": "El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación laboral.]",
-      "contexto": "Sistema Nacional de Salud · Disposiciones Comunes · El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación laboral.]",
+      "epigrafe": "",
+      "contexto": "Sistema Nacional de Salud · Disposiciones Comunes",
       "derogado": false,
       "ultima_reforma": null,
       "num_reformas": 0,

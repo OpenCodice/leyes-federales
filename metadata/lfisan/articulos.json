@@ -302,9 +302,11 @@
       "epigrafe": "",
       "contexto": "",
       "derogado": false,
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "1997-12-29",
+      "num_reformas": 1,
+      "reformas": [
+        "1997-12-29"
+      ],
       "archivo": "lfisan/013.md"
     },
     {
@@ -317,8 +319,8 @@
       "titulo": "",
       "capitulo": "",
       "seccion": "",
-      "epigrafe": "El valor del vehículo enajenado deberá estar expresado en el comprobante correspondiente en moneda nacional.”",
-      "contexto": "El valor del vehículo enajenado deberá estar expresado en el comprobante correspondiente en moneda nacional.”",
+      "epigrafe": "",
+      "contexto": "",
       "derogado": false,
       "ultima_reforma": "2006-12-27",
       "num_reformas": 2,

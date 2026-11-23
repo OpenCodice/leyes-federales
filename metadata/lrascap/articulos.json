@@ -209,10 +209,12 @@
       "epigrafe": "",
       "contexto": "DE LAS SOCIEDADES COOPERATIVAS DE AHORRO Y PRÉSTAMO · De la autorización",
       "derogado": false,
-      "ultima_reforma": "2009-08-21",
-      "num_reformas": 1,
+      "ultima_reforma": "2014-01-10",
+      "num_reformas": 3,
       "reformas": [
-        "2009-08-21"
+        "2009-08-21",
+        "2013-01-04",
+        "2014-01-10"
       ],
       "archivo": "lrascap/010.md"
     },
@@ -226,15 +228,12 @@
       "titulo": "TÍTULO SEGUNDO. DE LAS SOCIEDADES COOPERATIVAS DE AHORRO Y PRÉSTAMO",
       "capitulo": "Capítulo II. De la autorización",
       "seccion": "",
-      "epigrafe": "El Comité de Supervisión Auxiliar, contará con un plazo de 90 días naturales para elaborar su dictamen y la Comisión contará con un plazo de 120 días naturales para emitir resolución respecto de las solicitudes de autorización que le hayan sido presentadas. Dichos plazos comenzarán a contar, respectivamente, a partir de la fecha en que sean presentadas las solicitudes al Comité de Supervisión Auxiliar, y recibidas estas por la Comisión con toda la información y documentación a que se refiere el",
-      "contexto": "DE LAS SOCIEDADES COOPERATIVAS DE AHORRO Y PRÉSTAMO · De la autorización · Dichos plazos comenzarán a contar, respectivamente, a partir de la fecha en que sean presentadas las solicitudes al Comité de Supervisión Auxiliar, y recibidas estas por la Comisión con toda la información y documentación a que se refiere el",
+      "epigrafe": "",
+      "contexto": "DE LAS SOCIEDADES COOPERATIVAS DE AHORRO Y PRÉSTAMO · De la autorización",
       "derogado": false,
       "ultima_reforma": "2014-04-28",
-      "num_reformas": 4,
+      "num_reformas": 1,
       "reformas": [
-        "2009-08-21",
-        "2013-01-04",
-        "2014-01-10",
         "2014-04-28"
       ],
       "archivo": "lrascap/011.md"
@@ -249,8 +248,8 @@
       "titulo": "TÍTULO SEGUNDO. DE LAS SOCIEDADES COOPERATIVAS DE AHORRO Y PRÉSTAMO",
       "capitulo": "Capítulo II. De la autorización",
       "seccion": "",
-      "epigrafe": "El Comité de Supervisión Auxiliar, contará con un plazo de 90 días naturales para elaborar su dictamen y la Comisión contará con un plazo de 120 días naturales para emitir resolución respecto de las solicitudes de autorización que le hayan sido presentadas. Dichos plazos comenzarán a contar, respectivamente, a partir de la fecha en que sean presentadas las solicitudes al Comité de Supervisión Auxiliar, y recibidas estas por la Comisión con toda la información y documentación a que se refiere el",
-      "contexto": "DE LAS SOCIEDADES COOPERATIVAS DE AHORRO Y PRÉSTAMO · De la autorización · Dichos plazos comenzarán a contar, respectivamente, a partir de la fecha en que sean presentadas las solicitudes al Comité de Supervisión Auxiliar, y recibidas estas por la Comisión con toda la información y documentación a que se refiere el",
+      "epigrafe": "",
+      "contexto": "DE LAS SOCIEDADES COOPERATIVAS DE AHORRO Y PRÉSTAMO · De la autorización",
       "derogado": false,
       "ultima_reforma": null,
       "num_reformas": 0,

@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf",
   "version": "2026-01-15",
-  "num_articulos": 103,
+  "num_articulos": 107,
   "articulos": [
     {
       "clave": "001",
@@ -1174,13 +1174,93 @@
       "epigrafe": "",
       "contexto": "MODALIDADES DE LAS VIOLENCIAS · DE LAS MEDIDAS U ÓRDENES DE PROTECCIÓN",
       "derogado": false,
+      "ultima_reforma": "2021-03-18",
+      "num_reformas": 1,
+      "reformas": [
+        "2021-03-18"
+      ],
+      "archivo": "lgamvlv/034-decies.md"
+    },
+    {
+      "clave": "034-undecies",
+      "articulo": 34,
+      "letra": "",
+      "ordinal": "Undecies",
+      "etiqueta": "Artículo 34 Undecies",
+      "cita": "Artículo 34 Undecies LGAMVLV",
+      "titulo": "TITULO II. MODALIDADES DE LAS VIOLENCIAS",
+      "capitulo": "CAPÍTULO VI. DE LAS MEDIDAS U ÓRDENES DE PROTECCIÓN",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "MODALIDADES DE LAS VIOLENCIAS · DE LAS MEDIDAS U ÓRDENES DE PROTECCIÓN",
+      "derogado": false,
+      "ultima_reforma": "2021-03-18",
+      "num_reformas": 1,
+      "reformas": [
+        "2021-03-18"
+      ],
+      "archivo": "lgamvlv/034-undecies.md"
+    },
+    {
+      "clave": "034-duodecies",
+      "articulo": 34,
+      "letra": "",
+      "ordinal": "Duodecies",
+      "etiqueta": "Artículo 34 Duodecies",
+      "cita": "Artículo 34 Duodecies LGAMVLV",
+      "titulo": "TITULO II. MODALIDADES DE LAS VIOLENCIAS",
+      "capitulo": "CAPÍTULO VI. DE LAS MEDIDAS U ÓRDENES DE PROTECCIÓN",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "MODALIDADES DE LAS VIOLENCIAS · DE LAS MEDIDAS U ÓRDENES DE PROTECCIÓN",
+      "derogado": false,
       "ultima_reforma": "2026-01-15",
       "num_reformas": 2,
       "reformas": [
         "2021-03-18",
         "2026-01-15"
       ],
-      "archivo": "lgamvlv/034-decies.md"
+      "archivo": "lgamvlv/034-duodecies.md"
+    },
+    {
+      "clave": "034-terdecies",
+      "articulo": 34,
+      "letra": "",
+      "ordinal": "Terdecies",
+      "etiqueta": "Artículo 34 Terdecies",
+      "cita": "Artículo 34 Terdecies LGAMVLV",
+      "titulo": "TITULO II. MODALIDADES DE LAS VIOLENCIAS",
+      "capitulo": "CAPÍTULO VI. DE LAS MEDIDAS U ÓRDENES DE PROTECCIÓN",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "MODALIDADES DE LAS VIOLENCIAS · DE LAS MEDIDAS U ÓRDENES DE PROTECCIÓN",
+      "derogado": false,
+      "ultima_reforma": "2021-03-18",
+      "num_reformas": 1,
+      "reformas": [
+        "2021-03-18"
+      ],
+      "archivo": "lgamvlv/034-terdecies.md"
+    },
+    {
+      "clave": "034-quaterdecies",
+      "articulo": 34,
+      "letra": "",
+      "ordinal": "Quaterdecies",
+      "etiqueta": "Artículo 34 Quaterdecies",
+      "cita": "Artículo 34 Quaterdecies LGAMVLV",
+      "titulo": "TITULO II. MODALIDADES DE LAS VIOLENCIAS",
+      "capitulo": "CAPÍTULO VI. DE LAS MEDIDAS U ÓRDENES DE PROTECCIÓN",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "MODALIDADES DE LAS VIOLENCIAS · DE LAS MEDIDAS U ÓRDENES DE PROTECCIÓN",
+      "derogado": false,
+      "ultima_reforma": "2021-03-18",
+      "num_reformas": 1,
+      "reformas": [
+        "2021-03-18"
+      ],
+      "archivo": "lgamvlv/034-quaterdecies.md"
     },
     {
       "clave": "034-a",

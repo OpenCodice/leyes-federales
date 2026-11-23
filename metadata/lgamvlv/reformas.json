@@ -90,13 +90,17 @@
     "034",
     "034-bis",
     "034-decies",
+    "034-duodecies",
     "034-nonies",
     "034-octies",
     "034-quater",
+    "034-quaterdecies",
     "034-quinquies",
     "034-septies",
     "034-sexies",
-    "034-ter"
+    "034-ter",
+    "034-terdecies",
+    "034-undecies"
   ],
   "2021-05-20": [
     "036",
@@ -225,7 +229,7 @@
     "025",
     "025-bis",
     "031",
-    "034-decies",
+    "034-duodecies",
     "034-ter",
     "036",
     "037",

@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf",
   "version": "2024-03-26",
-  "num_articulos": 440,
+  "num_articulos": 463,
   "articulos": [
     {
       "clave": "001",
@@ -4284,19 +4284,478 @@
       "epigrafe": "",
       "contexto": "De los Títulos de Crédito · De las obligaciones",
       "derogado": false,
-      "ultima_reforma": "2014-01-10",
-      "num_reformas": 8,
+      "ultima_reforma": "1933-08-31",
+      "num_reformas": 1,
       "reformas": [
-        "1933-08-31",
-        "1946-12-31",
-        "1963-12-30",
-        "1982-12-30",
-        "1985-02-08",
-        "1985-04-03",
-        "2012-04-09",
-        "2014-01-10"
+        "1933-08-31"
       ],
       "archivo": "lgtoc/228.md"
+    },
+    {
+      "clave": "228-a",
+      "articulo": 228,
+      "letra": "A",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-A",
+      "cita": "Artículo 228-A LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-a.md"
+    },
+    {
+      "clave": "228-a-bis",
+      "articulo": 228,
+      "letra": "A",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 228-A Bis",
+      "cita": "Artículo 228-A Bis LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1963-12-30",
+      "num_reformas": 1,
+      "reformas": [
+        "1963-12-30"
+      ],
+      "archivo": "lgtoc/228-a-bis.md"
+    },
+    {
+      "clave": "228-b",
+      "articulo": 228,
+      "letra": "B",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-B",
+      "cita": "Artículo 228-B LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-b.md"
+    },
+    {
+      "clave": "228-c",
+      "articulo": 228,
+      "letra": "C",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-C",
+      "cita": "Artículo 228-C LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-c.md"
+    },
+    {
+      "clave": "228-d",
+      "articulo": 228,
+      "letra": "D",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-D",
+      "cita": "Artículo 228-D LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-d.md"
+    },
+    {
+      "clave": "228-e",
+      "articulo": 228,
+      "letra": "E",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-E",
+      "cita": "Artículo 228-E LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-e.md"
+    },
+    {
+      "clave": "228-f",
+      "articulo": 228,
+      "letra": "F",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-F",
+      "cita": "Artículo 228-F LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-f.md"
+    },
+    {
+      "clave": "228-g",
+      "articulo": 228,
+      "letra": "G",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-G",
+      "cita": "Artículo 228-G LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-g.md"
+    },
+    {
+      "clave": "228-h",
+      "articulo": 228,
+      "letra": "H",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-H",
+      "cita": "Artículo 228-H LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "2014-01-10",
+      "num_reformas": 2,
+      "reformas": [
+        "1946-12-31",
+        "2014-01-10"
+      ],
+      "archivo": "lgtoc/228-h.md"
+    },
+    {
+      "clave": "228-i",
+      "articulo": 228,
+      "letra": "I",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-I",
+      "cita": "Artículo 228-I LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-i.md"
+    },
+    {
+      "clave": "228-j",
+      "articulo": 228,
+      "letra": "J",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-J",
+      "cita": "Artículo 228-J LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-j.md"
+    },
+    {
+      "clave": "228-k",
+      "articulo": 228,
+      "letra": "K",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-K",
+      "cita": "Artículo 228-K LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-k.md"
+    },
+    {
+      "clave": "228-l",
+      "articulo": 228,
+      "letra": "L",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-L",
+      "cita": "Artículo 228-L LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1985-04-03",
+      "num_reformas": 4,
+      "reformas": [
+        "1946-12-31",
+        "1982-12-30",
+        "1985-02-08",
+        "1985-04-03"
+      ],
+      "archivo": "lgtoc/228-l.md"
+    },
+    {
+      "clave": "228-m",
+      "articulo": 228,
+      "letra": "M",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-M",
+      "cita": "Artículo 228-M LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-m.md"
+    },
+    {
+      "clave": "228-n",
+      "articulo": 228,
+      "letra": "N",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-N",
+      "cita": "Artículo 228-N LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1982-12-30",
+      "num_reformas": 2,
+      "reformas": [
+        "1946-12-31",
+        "1982-12-30"
+      ],
+      "archivo": "lgtoc/228-n.md"
+    },
+    {
+      "clave": "228-o",
+      "articulo": 228,
+      "letra": "O",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-O",
+      "cita": "Artículo 228-O LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-o.md"
+    },
+    {
+      "clave": "228-p",
+      "articulo": 228,
+      "letra": "P",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-P",
+      "cita": "Artículo 228-P LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-p.md"
+    },
+    {
+      "clave": "228-q",
+      "articulo": 228,
+      "letra": "Q",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-Q",
+      "cita": "Artículo 228-Q LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-q.md"
+    },
+    {
+      "clave": "228-r",
+      "articulo": 228,
+      "letra": "R",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-R",
+      "cita": "Artículo 228-R LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-r.md"
+    },
+    {
+      "clave": "228-s",
+      "articulo": 228,
+      "letra": "S",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-S",
+      "cita": "Artículo 228-S LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-s.md"
+    },
+    {
+      "clave": "228-t",
+      "articulo": 228,
+      "letra": "T",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-T",
+      "cita": "Artículo 228-T LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-t.md"
+    },
+    {
+      "clave": "228-u",
+      "articulo": 228,
+      "letra": "U",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-U",
+      "cita": "Artículo 228-U LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "1946-12-31",
+      "num_reformas": 1,
+      "reformas": [
+        "1946-12-31"
+      ],
+      "archivo": "lgtoc/228-u.md"
+    },
+    {
+      "clave": "228-v",
+      "articulo": 228,
+      "letra": "V",
+      "ordinal": "",
+      "etiqueta": "Artículo 228-V",
+      "cita": "Artículo 228-V LGTOC",
+      "titulo": "TITULO PRIMERO. De los Títulos de Crédito",
+      "capitulo": "CAPITULO V Bis. De los Certificados de Participación",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De los Títulos de Crédito · De los Certificados de Participación",
+      "derogado": false,
+      "ultima_reforma": "2012-04-09",
+      "num_reformas": 2,
+      "reformas": [
+        "1946-12-31",
+        "2012-04-09"
+      ],
+      "archivo": "lgtoc/228-v.md"
     },
     {
       "clave": "229",

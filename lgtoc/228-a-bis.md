@@ -1,0 +1,5 @@
+# Artículo 228-A Bis
+
+Los “certificados de vivienda” son títulos que representan el derecho, mediante el pago de lo totalidad de las cuotas estipuladas, a que se transmita la propiedad de una vivienda, gozándose entretanto del aprovechamiento directo del inmueble; y en caso de incumplimiento o abandono, a recuperar una parte de dichas cuotas de acuerdo con los valores de rescate que se fijen.
+
+_Artículo adicionado DOF 30-12-1963_

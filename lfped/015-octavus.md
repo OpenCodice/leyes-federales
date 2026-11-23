@@ -1,0 +1,13 @@
+# Artículo 15 Octavus
+
+Las acciones afirmativas podrán incluir, entre otras, las medidas para favorecer el acceso, permanencia y promoción de personas pertenecientes a grupos en situación de discriminación y subrepresentados, en espacios educativos, laborales y cargos de elección popular a través del establecimiento de porcentajes o cuotas.
+
+Las acciones afirmativas serán prioritariamente aplicables hacia personas pertenecientes a los pueblos y comunidades indígenas y afromexicanas, afro descendientes, mujeres, niñas, niños y adolescentes, personas jóvenes, personas con discapacidad y personas adultas mayores.
+
+_Párrafo reformado DOF 08-12-2023, 01-04-2024_
+
+_Artículo adicionado DOF 20-03-2014_
+
+Artículo 15 Novenus.- Las instancias públicas que adopten medidas de nivelación, medidas de inclusión y acciones afirmativas, deben reportarlas periódicamente al Consejo para su registro y monitoreo. El Consejo determinará la información a recabar y la forma de hacerlo en los términos que se establecen en el estatuto.
+
+_Artículo adicionado DOF 20-03-2014_

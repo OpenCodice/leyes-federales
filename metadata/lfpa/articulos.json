@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf",
   "version": "2025-11-14",
-  "num_articulos": 118,
+  "num_articulos": 119,
   "articulos": [
     {
       "clave": "001",
@@ -1406,15 +1406,34 @@
       "contexto": "De la mejora regulatoria",
       "derogado": false,
       "ultima_reforma": "2018-05-18",
-      "num_reformas": 5,
+      "num_reformas": 4,
       "reformas": [
         "2000-04-19",
         "2000-05-30",
-        "2011-12-15",
         "2012-04-09",
         "2018-05-18"
       ],
       "archivo": "lfpa/069-c.md"
+    },
+    {
+      "clave": "069-c-bis",
+      "articulo": 69,
+      "letra": "C",
+      "ordinal": "Bis",
+      "etiqueta": "Artículo 69-C Bis",
+      "cita": "Artículo 69-C Bis LFPA",
+      "titulo": "TITULO TERCERO A. De la mejora regulatoria",
+      "capitulo": "",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De la mejora regulatoria",
+      "derogado": false,
+      "ultima_reforma": "2011-12-15",
+      "num_reformas": 1,
+      "reformas": [
+        "2011-12-15"
+      ],
+      "archivo": "lfpa/069-c-bis.md"
     },
     {
       "clave": "069-d",

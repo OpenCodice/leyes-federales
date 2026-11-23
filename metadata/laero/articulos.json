@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf",
   "version": "2025-11-14",
-  "num_articulos": 101,
+  "num_articulos": 109,
   "articulos": [
     {
       "clave": "001",
@@ -1722,6 +1722,166 @@
         "2023-05-03"
       ],
       "archivo": "laero/073-decies.md"
+    },
+    {
+      "clave": "073-undecies",
+      "articulo": 73,
+      "letra": "",
+      "ordinal": "Undecies",
+      "etiqueta": "Artículo 73 Undecies",
+      "cita": "Artículo 73 Undecies LAero",
+      "titulo": "",
+      "capitulo": "CAPITULO IX BIS. De la Seguridad de la Aviación Civil",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "laero/073-undecies.md"
+    },
+    {
+      "clave": "073-duodecies",
+      "articulo": 73,
+      "letra": "",
+      "ordinal": "Duodecies",
+      "etiqueta": "Artículo 73 Duodecies",
+      "cita": "Artículo 73 Duodecies LAero",
+      "titulo": "",
+      "capitulo": "CAPITULO IX BIS. De la Seguridad de la Aviación Civil",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "laero/073-duodecies.md"
+    },
+    {
+      "clave": "073-terdecies",
+      "articulo": 73,
+      "letra": "",
+      "ordinal": "Terdecies",
+      "etiqueta": "Artículo 73 Terdecies",
+      "cita": "Artículo 73 Terdecies LAero",
+      "titulo": "",
+      "capitulo": "CAPITULO IX BIS. De la Seguridad de la Aviación Civil",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "laero/073-terdecies.md"
+    },
+    {
+      "clave": "073-quaterdecies",
+      "articulo": 73,
+      "letra": "",
+      "ordinal": "Quaterdecies",
+      "etiqueta": "Artículo 73 Quaterdecies",
+      "cita": "Artículo 73 Quaterdecies LAero",
+      "titulo": "",
+      "capitulo": "CAPITULO IX BIS. De la Seguridad de la Aviación Civil",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "laero/073-quaterdecies.md"
+    },
+    {
+      "clave": "073-quinquiesdecies",
+      "articulo": 73,
+      "letra": "",
+      "ordinal": "Quinquiesdecies",
+      "etiqueta": "Artículo 73 Quinquiesdecies",
+      "cita": "Artículo 73 Quinquiesdecies LAero",
+      "titulo": "",
+      "capitulo": "CAPITULO IX BIS. De la Seguridad de la Aviación Civil",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "laero/073-quinquiesdecies.md"
+    },
+    {
+      "clave": "073-sexiesdecies",
+      "articulo": 73,
+      "letra": "",
+      "ordinal": "Sexiesdecies",
+      "etiqueta": "Artículo 73 Sexiesdecies",
+      "cita": "Artículo 73 Sexiesdecies LAero",
+      "titulo": "",
+      "capitulo": "CAPITULO IX BIS. De la Seguridad de la Aviación Civil",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "laero/073-sexiesdecies.md"
+    },
+    {
+      "clave": "073-septdecies",
+      "articulo": 73,
+      "letra": "",
+      "ordinal": "Septdecies",
+      "etiqueta": "Artículo 73 Septdecies",
+      "cita": "Artículo 73 Septdecies LAero",
+      "titulo": "",
+      "capitulo": "CAPITULO IX BIS. De la Seguridad de la Aviación Civil",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "laero/073-septdecies.md"
+    },
+    {
+      "clave": "073-octodecies",
+      "articulo": 73,
+      "letra": "",
+      "ordinal": "Octodecies",
+      "etiqueta": "Artículo 73 Octodecies",
+      "cita": "Artículo 73 Octodecies LAero",
+      "titulo": "",
+      "capitulo": "CAPITULO IX BIS. De la Seguridad de la Aviación Civil",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "laero/073-octodecies.md"
     },
     {
       "clave": "074",

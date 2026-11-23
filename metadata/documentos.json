@@ -37,7 +37,7 @@
       "etiqueta": "Código de Justicia Militar",
       "sigla": "CJM",
       "tipo": "ley",
-      "num_articulos": 952,
+      "num_articulos": 954,
       "version": "2025-07-16"
     },
     {
@@ -69,7 +69,7 @@
       "etiqueta": "Código Penal Federal",
       "sigla": "CPF",
       "tipo": "ley",
-      "num_articulos": 555,
+      "num_articulos": 556,
       "version": "2026-03-13"
     },
     {
@@ -109,7 +109,7 @@
       "etiqueta": "Ley de Aviación Civil",
       "sigla": "LAC",
       "tipo": "ley",
-      "num_articulos": 145,
+      "num_articulos": 154,
       "version": "2025-11-14"
     },
     {
@@ -141,7 +141,7 @@
       "etiqueta": "Ley de Aeropuertos",
       "sigla": "LAero",
       "tipo": "ley",
-      "num_articulos": 101,
+      "num_articulos": 109,
       "version": "2025-11-14"
     },
     {
@@ -861,7 +861,7 @@
       "etiqueta": "Ley Federal de Procedimiento Administrativo",
       "sigla": "LFPA",
       "tipo": "ley",
-      "num_articulos": 118,
+      "num_articulos": 119,
       "version": "2025-11-14"
     },
     {
@@ -893,7 +893,7 @@
       "etiqueta": "Ley Federal para Prevenir y Eliminar la Discriminación",
       "sigla": "LFPED",
       "tipo": "ley",
-      "num_articulos": 105,
+      "num_articulos": 111,
       "version": "2025-11-14"
     },
     {
@@ -1085,7 +1085,7 @@
       "etiqueta": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencias",
       "sigla": "LGAMVLV",
       "tipo": "ley",
-      "num_articulos": 103,
+      "num_articulos": 107,
       "version": "2026-01-15"
     },
     {
@@ -1301,7 +1301,7 @@
       "etiqueta": "Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
       "sigla": "LGMDFP",
       "tipo": "ley",
-      "num_articulos": 189,
+      "num_articulos": 191,
       "version": "2025-07-16"
     },
     {
@@ -1341,7 +1341,7 @@
       "etiqueta": "Ley General de Organizaciones y Actividades Auxiliares del Crédito",
       "sigla": "LGOAAC",
       "tipo": "ley",
-      "num_articulos": 263,
+      "num_articulos": 264,
       "version": "2025-11-14"
     },
     {
@@ -1453,7 +1453,7 @@
       "etiqueta": "Ley General de Salud",
       "sigla": "LGS",
       "tipo": "ley",
-      "num_articulos": 732,
+      "num_articulos": 733,
       "version": "2026-01-15"
     },
     {
@@ -1525,7 +1525,7 @@
       "etiqueta": "Ley General de Títulos y Operaciones de Crédito",
       "sigla": "LGTOC",
       "tipo": "ley",
-      "num_articulos": 440,
+      "num_articulos": 463,
       "version": "2024-03-26"
     },
     {
@@ -1557,7 +1557,7 @@
       "etiqueta": "Ley de Instituciones de Crédito",
       "sigla": "LIC",
       "tipo": "ley",
-      "num_articulos": 490,
+      "num_articulos": 492,
       "version": "2025-11-14"
     },
     {

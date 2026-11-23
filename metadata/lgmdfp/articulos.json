@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf",
   "version": "2025-07-16",
-  "num_articulos": 189,
+  "num_articulos": 191,
   "articulos": [
     {
       "clave": "001",
@@ -412,6 +412,46 @@
         "2025-07-16"
       ],
       "archivo": "lgmdfp/012-decies.md"
+    },
+    {
+      "clave": "012-undecies",
+      "articulo": 12,
+      "letra": "",
+      "ordinal": "Undecies",
+      "etiqueta": "Artículo 12 Undecies",
+      "cita": "Artículo 12 Undecies LGMDFP",
+      "titulo": "TÍTULO PRIMERO. DISPOSICIONES GENERALES",
+      "capitulo": "CAPÍTULO CUARTO. DE LAS OBLIGACIONES COMUNES DE LOS SUJETOS OBLIGADOS",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "DISPOSICIONES GENERALES · DE LAS OBLIGACIONES COMUNES DE LOS SUJETOS OBLIGADOS",
+      "derogado": false,
+      "ultima_reforma": "2025-07-16",
+      "num_reformas": 1,
+      "reformas": [
+        "2025-07-16"
+      ],
+      "archivo": "lgmdfp/012-undecies.md"
+    },
+    {
+      "clave": "012-duodecies",
+      "articulo": 12,
+      "letra": "",
+      "ordinal": "Duodecies",
+      "etiqueta": "Artículo 12 Duodecies",
+      "cita": "Artículo 12 Duodecies LGMDFP",
+      "titulo": "TÍTULO PRIMERO. DISPOSICIONES GENERALES",
+      "capitulo": "CAPÍTULO QUINTO. DE LA FICHA DE BÚSQUEDA, LOCALIZACIÓN E IDENTIFICACIÓN",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "DISPOSICIONES GENERALES · DE LA FICHA DE BÚSQUEDA, LOCALIZACIÓN E IDENTIFICACIÓN",
+      "derogado": false,
+      "ultima_reforma": "2025-07-16",
+      "num_reformas": 1,
+      "reformas": [
+        "2025-07-16"
+      ],
+      "archivo": "lgmdfp/012-duodecies.md"
     },
     {
       "clave": "013",

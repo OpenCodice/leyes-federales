@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf",
   "version": "2025-11-14",
-  "num_articulos": 145,
+  "num_articulos": 154,
   "articulos": [
     {
       "clave": "001",
@@ -2371,6 +2371,186 @@
         "2023-05-03"
       ],
       "archivo": "lac/078-decies.md"
+    },
+    {
+      "clave": "078-undecies",
+      "articulo": 78,
+      "letra": "",
+      "ordinal": "Undecies",
+      "etiqueta": "Artículo 78 Undecies",
+      "cita": "Artículo 78 Undecies LAC",
+      "titulo": "",
+      "capitulo": "Capítulo XV Ter. Gestión de Riesgos Asociados a la Fatiga",
+      "seccion": "",
+      "epigrafe": "Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "contexto": "Gestión de Riesgos Asociados a la Fatiga · Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "lac/078-undecies.md"
+    },
+    {
+      "clave": "078-duodecies",
+      "articulo": 78,
+      "letra": "",
+      "ordinal": "Duodecies",
+      "etiqueta": "Artículo 78 Duodecies",
+      "cita": "Artículo 78 Duodecies LAC",
+      "titulo": "",
+      "capitulo": "Capítulo XV Ter. Gestión de Riesgos Asociados a la Fatiga",
+      "seccion": "",
+      "epigrafe": "Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "contexto": "Gestión de Riesgos Asociados a la Fatiga · Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "lac/078-duodecies.md"
+    },
+    {
+      "clave": "078-terdecies",
+      "articulo": 78,
+      "letra": "",
+      "ordinal": "Terdecies",
+      "etiqueta": "Artículo 78 Terdecies",
+      "cita": "Artículo 78 Terdecies LAC",
+      "titulo": "",
+      "capitulo": "Capítulo XV Ter. Gestión de Riesgos Asociados a la Fatiga",
+      "seccion": "",
+      "epigrafe": "Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "contexto": "Gestión de Riesgos Asociados a la Fatiga · Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "lac/078-terdecies.md"
+    },
+    {
+      "clave": "078-quaterdecies",
+      "articulo": 78,
+      "letra": "",
+      "ordinal": "Quaterdecies",
+      "etiqueta": "Artículo 78 Quaterdecies",
+      "cita": "Artículo 78 Quaterdecies LAC",
+      "titulo": "",
+      "capitulo": "Capítulo XV Ter. Gestión de Riesgos Asociados a la Fatiga",
+      "seccion": "",
+      "epigrafe": "Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "contexto": "Gestión de Riesgos Asociados a la Fatiga · Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "lac/078-quaterdecies.md"
+    },
+    {
+      "clave": "078-quinquiesdecies",
+      "articulo": 78,
+      "letra": "",
+      "ordinal": "Quinquiesdecies",
+      "etiqueta": "Artículo 78 Quinquiesdecies",
+      "cita": "Artículo 78 Quinquiesdecies LAC",
+      "titulo": "",
+      "capitulo": "Capítulo XV Ter. Gestión de Riesgos Asociados a la Fatiga",
+      "seccion": "",
+      "epigrafe": "Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "contexto": "Gestión de Riesgos Asociados a la Fatiga · Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "lac/078-quinquiesdecies.md"
+    },
+    {
+      "clave": "078-sexiesdecies",
+      "articulo": 78,
+      "letra": "",
+      "ordinal": "Sexiesdecies",
+      "etiqueta": "Artículo 78 Sexiesdecies",
+      "cita": "Artículo 78 Sexiesdecies LAC",
+      "titulo": "",
+      "capitulo": "Capítulo XV Ter. Gestión de Riesgos Asociados a la Fatiga",
+      "seccion": "",
+      "epigrafe": "Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "contexto": "Gestión de Riesgos Asociados a la Fatiga · Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "lac/078-sexiesdecies.md"
+    },
+    {
+      "clave": "078-septdecies",
+      "articulo": 78,
+      "letra": "",
+      "ordinal": "Septdecies",
+      "etiqueta": "Artículo 78 Septdecies",
+      "cita": "Artículo 78 Septdecies LAC",
+      "titulo": "",
+      "capitulo": "Capítulo XV Ter. Gestión de Riesgos Asociados a la Fatiga",
+      "seccion": "",
+      "epigrafe": "Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "contexto": "Gestión de Riesgos Asociados a la Fatiga · Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "lac/078-septdecies.md"
+    },
+    {
+      "clave": "078-octodecies",
+      "articulo": 78,
+      "letra": "",
+      "ordinal": "Octodecies",
+      "etiqueta": "Artículo 78 Octodecies",
+      "cita": "Artículo 78 Octodecies LAC",
+      "titulo": "",
+      "capitulo": "Capítulo XV Ter. Gestión de Riesgos Asociados a la Fatiga",
+      "seccion": "",
+      "epigrafe": "Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "contexto": "Gestión de Riesgos Asociados a la Fatiga · Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "lac/078-octodecies.md"
+    },
+    {
+      "clave": "078-novodecies",
+      "articulo": 78,
+      "letra": "",
+      "ordinal": "Novodecies",
+      "etiqueta": "Artículo 78 Novodecies",
+      "cita": "Artículo 78 Novodecies LAC",
+      "titulo": "",
+      "capitulo": "Capítulo XV Ter. Gestión de Riesgos Asociados a la Fatiga",
+      "seccion": "",
+      "epigrafe": "Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "contexto": "Gestión de Riesgos Asociados a la Fatiga · Capítulo XV Quater De la Seguridad de la Aviación Civil",
+      "derogado": false,
+      "ultima_reforma": "2023-05-03",
+      "num_reformas": 1,
+      "reformas": [
+        "2023-05-03"
+      ],
+      "archivo": "lac/078-novodecies.md"
     },
     {
       "clave": "079",

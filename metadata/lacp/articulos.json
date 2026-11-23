@@ -2375,9 +2375,11 @@
       "epigrafe": "",
       "contexto": "DE LAS FEDERACIONES, MEDIDAS CORRECTIVAS Y DEL FONDO DE PROTECCIÓN · De las medidas correctivas",
       "derogado": false,
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2009-08-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2009-08-13"
+      ],
       "archivo": "lacp/073.md"
     },
     {
@@ -2982,9 +2984,11 @@
       "epigrafe": "",
       "contexto": "DE LAS FEDERACIONES, MEDIDAS CORRECTIVAS Y DEL FONDO DE PROTECCIÓN · Del Fondo de Protección · Del Comité Técnico",
       "derogado": false,
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2009-08-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2009-08-13"
+      ],
       "archivo": "lacp/102.md"
     },
     {

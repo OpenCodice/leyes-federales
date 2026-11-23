@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CJM.pdf",
   "version": "2025-07-16",
-  "num_articulos": 952,
+  "num_articulos": 954,
   "articulos": [
     {
       "clave": "001",
@@ -741,13 +741,53 @@
       "epigrafe": "",
       "contexto": "De la organización de los tribunales militares · De los Juzgados Militares de Control",
       "derogado": false,
+      "ultima_reforma": "2016-05-16",
+      "num_reformas": 1,
+      "reformas": [
+        "2016-05-16"
+      ],
+      "archivo": "cjm/030-quintus.md"
+    },
+    {
+      "clave": "030-sextus",
+      "articulo": 30,
+      "letra": "",
+      "ordinal": "Sextus",
+      "etiqueta": "Artículo 30 Sextus",
+      "cita": "Artículo 30 Sextus CJM",
+      "titulo": "TITULO PRIMERO. De la organización de los tribunales militares",
+      "capitulo": "CAPITULO V TER. De los Juzgados Militares de Ejecución de Sentencias",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De la organización de los tribunales militares · De los Juzgados Militares de Ejecución de Sentencias",
+      "derogado": false,
+      "ultima_reforma": "2016-05-16",
+      "num_reformas": 1,
+      "reformas": [
+        "2016-05-16"
+      ],
+      "archivo": "cjm/030-sextus.md"
+    },
+    {
+      "clave": "030-septimus",
+      "articulo": 30,
+      "letra": "",
+      "ordinal": "Séptimus",
+      "etiqueta": "Artículo 30 Séptimus",
+      "cita": "Artículo 30 Séptimus CJM",
+      "titulo": "TITULO PRIMERO. De la organización de los tribunales militares",
+      "capitulo": "CAPITULO V TER. De los Juzgados Militares de Ejecución de Sentencias",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De la organización de los tribunales militares · De los Juzgados Militares de Ejecución de Sentencias",
+      "derogado": false,
       "ultima_reforma": "2025-07-16",
       "num_reformas": 2,
       "reformas": [
         "2016-05-16",
         "2025-07-16"
       ],
-      "archivo": "cjm/030-quintus.md"
+      "archivo": "cjm/030-septimus.md"
     },
     {
       "clave": "031",
@@ -859,10 +899,10 @@
       "etiqueta": "Artículo 35 Bis",
       "cita": "Artículo 35 Bis CJM",
       "titulo": "TITULO SEGUNDO. De los auxiliares de la administración de justicia militar",
-      "capitulo": "CAPITULO III BIS",
+      "capitulo": "CAPITULO III BIS. De la Coordinación de Servicios Periciales y Ciencias Forenses.",
       "seccion": "",
       "epigrafe": "",
-      "contexto": "De los auxiliares de la administración de justicia militar",
+      "contexto": "De los auxiliares de la administración de justicia militar · De la Coordinación de Servicios Periciales y Ciencias Forenses.",
       "derogado": false,
       "ultima_reforma": "2016-05-16",
       "num_reformas": 1,
@@ -879,10 +919,10 @@
       "etiqueta": "Artículo 35 Ter",
       "cita": "Artículo 35 Ter CJM",
       "titulo": "TITULO SEGUNDO. De los auxiliares de la administración de justicia militar",
-      "capitulo": "CAPITULO III BIS",
+      "capitulo": "CAPITULO III BIS. De la Coordinación de Servicios Periciales y Ciencias Forenses.",
       "seccion": "",
       "epigrafe": "",
-      "contexto": "De los auxiliares de la administración de justicia militar",
+      "contexto": "De los auxiliares de la administración de justicia militar · De la Coordinación de Servicios Periciales y Ciencias Forenses.",
       "derogado": false,
       "ultima_reforma": "2016-05-16",
       "num_reformas": 1,
@@ -899,10 +939,10 @@
       "etiqueta": "Artículo 35 Quáter",
       "cita": "Artículo 35 Quáter CJM",
       "titulo": "TITULO SEGUNDO. De los auxiliares de la administración de justicia militar",
-      "capitulo": "CAPITULO III BIS",
+      "capitulo": "CAPITULO III BIS. De la Coordinación de Servicios Periciales y Ciencias Forenses.",
       "seccion": "",
       "epigrafe": "",
-      "contexto": "De los auxiliares de la administración de justicia militar",
+      "contexto": "De los auxiliares de la administración de justicia militar · De la Coordinación de Servicios Periciales y Ciencias Forenses.",
       "derogado": false,
       "ultima_reforma": "2016-05-16",
       "num_reformas": 1,

@@ -5,7 +5,7 @@
   "tipo": "ley",
   "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf",
   "version": "2025-11-14",
-  "num_articulos": 263,
+  "num_articulos": 264,
   "articulos": [
     {
       "clave": "001",
@@ -3792,6 +3792,27 @@
         "2018-03-09"
       ],
       "archivo": "lgoaac/081-a-bis.md"
+    },
+    {
+      "clave": "081-b",
+      "articulo": 81,
+      "letra": "B",
+      "ordinal": "",
+      "etiqueta": "Artículo 81-B",
+      "cita": "Artículo 81-B LGOAAC",
+      "titulo": "TITULO QUINTO. De las Actividades Auxiliares del Crédito",
+      "capitulo": "CAPITULO I. De la compra venta habitual y profesional de divisas",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "De las Actividades Auxiliares del Crédito · De la compra venta habitual y profesional de divisas",
+      "derogado": false,
+      "ultima_reforma": "2014-01-10",
+      "num_reformas": 2,
+      "reformas": [
+        "2011-08-03",
+        "2014-01-10"
+      ],
+      "archivo": "lgoaac/081-b.md"
     },
     {
       "clave": "081-c",
